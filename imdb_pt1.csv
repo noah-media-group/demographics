@@ -1,0 +1,3401 @@
+imdb_rating,gross,meta_rating,title,genre,run_time
+8.9,486.01,68,Avengers: Infinity War,"Action, Adventure, Fantasy",149
+7.6,694.25,88,Black Panther,"Action, Adventure, Sci-Fi",134
+8.0,163.15,82,A Quiet Place,"Drama, Horror, Sci-Fi",90
+7.9,315.06,74,Thor: Ragnarok,"Action, Adventure, Comedy",130
+7.8,173.82,48,The Greatest Showman,"Biography, Drama, Musical",105
+7.8,133.67,64,Ready Player One,"Action, Adventure, Sci-Fi",140
+7.0,44.95,49,Den of Thieves,"Action, Crime, Drama",140
+7.4,459.01,66,Avengers: Age of Ultron,"Action, Adventure, Sci-Fi",141
+8.1,623.36,69,The Avengers,"Action, Adventure, Sci-Fi",143
+8.1,333.18,76,Guardians of the Galaxy,"Action, Adventure, Sci-Fi",121
+7.7,389.81,67,Guardians of the Galaxy Vol. 2,"Action, Adventure, Sci-Fi",136
+7.5,334.2,73,Spider-Man: Homecoming,"Action, Adventure, Sci-Fi",133
+7.0,404.37,58,Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy",119
+7.8,408.08,75,Captain America: Civil War,"Action, Adventure, Sci-Fi",147
+7.2,29.82,65,Hostiles,"Adventure, Drama, Western",134
+6.4,86.36,45,Rampage,"Action, Adventure, Sci-Fi",107
+6.6,45.5,54,12 Strong,"Action, Drama, History",130
+7.5,232.64,72,Doctor Strange,"Action, Adventure, Fantasy",115
+6.7,57.01,69,Blockers,Comedy,102
+6.4,58.03,51,Maze Runner: The Death Cure,"Action, Sci-Fi, Thriller",141
+6.7,46.77,53,Red Sparrow,"Drama, Mystery, Thriller",140
+7.3,620.18,85,Star Wars: The Last Jedi,"Action, Adventure, Fantasy",152
+7.2,68.63,66,Game Night,"Comedy, Crime, Mystery",100
+6.7,229.02,45,Justice League,"Action, Adventure, Fantasy",120
+6.6,114.83,52,Peter Rabbit,"Animation, Adventure, Comedy",95
+8.2,28.88,82,Isle of Dogs,"Animation, Adventure, Comedy",101
+5.9,59.1,44,Pacific Rim: Uprising,"Action, Adventure, Sci-Fi",111
+6.9,176.65,66,Captain America: The First Avenger,"Action, Adventure, Sci-Fi",124
+7.0,2.28,84,You Were Never Really Here,"Drama, Mystery, Thriller",89
+8.0,363.07,65,Deadpool,"Action, Adventure, Comedy",108
+7.4,63.86,87,The Shape of Water,"Adventure, Drama, Fantasy",123
+8.5,209.73,81,Coco,"Animation, Adventure, Comedy",105
+7.0,32.73,79,Annihilation,"Adventure, Drama, Fantasy",115
+7.9,318.41,79,Iron Man,"Action, Adventure, Sci-Fi",126
+6.3,36.34,56,The Commuter,"Action, Crime, Drama",105
+5.4,25.09,28,Winchester,"Biography, Fantasy, Horror",99
+7.8,259.77,70,Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",136
+6.9,75.47,47,The Hitman's Bodyguard,"Action, Comedy, Thriller",118
+7.2,81.9,83,The Post,"Biography, Drama, History",116
+7.3,180.2,64,Ant-Man,"Action, Adventure, Comedy",117
+8.1,40.66,73,"Love, Simon","Comedy, Drama, Romance",110
+7.5,412.56,76,Wonder Woman,"Action, Adventure, Fantasy",141
+7.0,181.03,57,Thor,"Action, Adventure, Fantasy",115
+8.1,92.05,81,Blade Runner 2049,"Drama, Mystery, Sci-Fi",164
+8.2,54.51,88,"Three Billboards Outside Ebbing, Missouri","Crime, Drama",115
+7.5,28.78,71,Molly's Game,"Biography, Crime, Drama",140
+7.5,327.48,69,It,"Drama, Horror, Thriller",135
+5.9,104.9,40,Pitch Perfect 3,"Comedy, Music",93
+6.8,134.52,61,The Incredible Hulk,"Action, Adventure, Sci-Fi",112
+8.0,18.1,93,Call Me by Your Name,"Drama, Romance",132
+6.5,103.07,45,The Expendables,"Action, Adventure, Thriller",103
+6.2,213.31,62,Austin Powers in Goldmember,"Action, Adventure, Comedy",94
+7.8,177.0,76,How to Train Your Dragon 2,"Animation, Action, Adventure",102
+6.0,116.93,45,S.W.A.T.,"Action, Adventure, Crime",117
+7.1,6.85,82,The Spectacular Now,"Comedy, Drama, Romance",95
+4.6,90.56,57,High School Musical 3: Senior Year,"Comedy, Drama, Family",112
+5.8,20.49,27,Gamer,"Action, Sci-Fi, Thriller",95
+7.9,119.52,72,Walk the Line,"Biography, Drama, Music",136
+6.0,320.71,58,Shrek the Third,"Animation, Adventure, Comedy",93
+6.4,10.38,49,Live by Night,"Action, Crime, Drama",129
+7.3,21.59,58,Snowden,"Biography, Drama, Thriller",134
+5.3,102.54,42,Daredevil,"Action, Crime, Sci-Fi",103
+7.1,67.41,71,Holes,"Adventure, Comedy, Drama",117
+7.2,12.71,95,Carol,"Drama, Romance",118
+7.8,115.65,48,Remember the Titans,"Biography, Drama, Sport",113
+7.5,26.78,67,Garden State,"Comedy, Drama, Romance",102
+6.9,100.61,45,Vanilla Sky,"Fantasy, Mystery, Romance",136
+6.5,114.2,44,The Village,"Drama, Mystery, Thriller",108
+4.9,281.29,45,The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy",117
+6.0,43.95,37,Speed Racer,"Action, Family, Sci-Fi",135
+5.5,46.73,30,"Dude, Where's My Car?","Comedy, Mystery, Sci-Fi",83
+7.2,2.43,69,Never Let Me Go,"Drama, Romance, Sci-Fi",103
+6.9,94.84,53,The Book of Eli,"Action, Adventure, Drama",118
+7.5,3.73,76,A Monster Calls,"Animation, Drama, Fantasy",108
+6.4,23.58,44,The Losers,"Action, Adventure, Crime",97
+7.8,176.24,73,The Bourne Supremacy,"Action, Mystery, Thriller",108
+7.3,89.3,70,The Emperor's New Groove,"Animation, Adventure, Comedy",78
+6.2,3.02,70,Colossal,"Action, Comedy, Drama",109
+7.5,95.0,62,42,"Biography, Drama, Sport",128
+6.7,52.8,63,Unfaithful,"Drama, Thriller",124
+7.8,9.03,55,The Boy in the Striped Pajamas,"Drama, War",94
+6.6,93.05,61,Elysium,"Action, Drama, Sci-Fi",109
+7.1,127.81,75,Enchanted,"Animation, Comedy, Family",107
+6.4,59.65,58,The Dictator,Comedy,83
+6.3,67.27,58,Lights Out,Horror,81
+7.7,57.94,30,The Butterfly Effect,"Sci-Fi, Thriller",113
+6.0,87.04,58,Sisters,Comedy,118
+7.8,59.89,80,Little Miss Sunshine,"Comedy, Drama",101
+6.9,193.6,57,Madagascar,"Animation, Adventure, Comedy",86
+7.2,370.78,47,The Passion of the Christ,Drama,127
+5.6,32.46,18,Mother's Day,"Comedy, Drama",118
+7.3,77.87,55,The Terminal,"Comedy, Drama, Romance",128
+7.0,87.34,64,Pineapple Express,"Action, Comedy, Crime",111
+6.5,39.01,66,The Sisterhood of the Traveling Pants,"Comedy, Drama, Romance",119
+6.0,2.68,63,My Cousin Rachel,"Drama, Mystery, Romance",106
+6.7,163.96,48,The Proposal,"Comedy, Drama, Romance",108
+7.0,17.45,57,The Zookeeper's Wife,"Biography, Drama, History",127
+8.0,163.57,64,The Pursuit of Happyness,"Biography, Drama",117
+6.2,113.75,47,Night at the Museum: Secret of the Tomb,"Adventure, Comedy, Family",98
+7.6,4.24,72,Kiss Kiss Bang Bang,"Comedy, Crime, Mystery",103
+6.8,126.37,52,Safe House,"Action, Adventure, Crime",115
+7.9,25.38,100,Boyhood,Drama,165
+6.4,,58,The Voices,"Action, Comedy, Crime",103
+5.9,181.17,42,Jurassic Park III,"Action, Adventure, Sci-Fi",92
+7.7,132.07,80,Minority Report,"Action, Adventure, Crime",145
+6.8,0.04,31,Before We Go,"Comedy, Drama, Romance",95
+6.7,337.14,64,The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi",123
+7.1,83.08,56,Valkyrie,"Drama, History, Thriller",121
+6.6,38.56,58,Nerve,"Action, Adventure, Crime",96
+6.0,,49,The Promise,"Drama, History",133
+6.8,77.22,47,The A-Team,"Action, Adventure, Comedy",117
+6.0,83.5,46,Immortals,"Action, Drama, Fantasy",110
+7.5,125.07,74,Sully,"Biography, Drama",96
+6.1,200.08,72,Superman Returns,"Action, Adventure, Sci-Fi",154
+6.1,215.41,59,Mission: Impossible II,"Action, Adventure, Thriller",123
+4.8,,18,The Ridiculous 6,"Comedy, Western",119
+5.8,30.35,23,Underworld: Blood Wars,"Action, Adventure, Fantasy",91
+6.4,15.96,65,Marie Antoinette,"Biography, Drama, History",123
+5.5,70.83,41,White Chicks,"Comedy, Crime",109
+6.4,42.03,49,Riddick,"Action, Sci-Fi, Thriller",119
+7.5,176.39,60,Ice Age,"Animation, Adventure, Comedy",81
+7.7,75.29,80,Coraline,"Animation, Drama, Fantasy",100
+6.5,186.34,55,Mr. & Mrs. Smith,"Action, Comedy, Crime",120
+5.9,14.9,34,Keeping Up with the Joneses,"Action, Comedy",105
+4.6,,43,Death Note,"Adventure, Crime, Drama",101
+6.2,60.27,39,Why Him?,Comedy,111
+5.8,44.92,38,All Eyez on Me,"Biography, Drama, Music",139
+7.2,115.64,59,Unbroken,"Biography, Drama, Sport",137
+6.1,31.81,36,Push,"Action, Sci-Fi, Thriller",111
+6.9,2.98,75,Martha Marcy May Marlene,"Drama, Mystery, Thriller",102
+6.0,79.0,55,The Purge: Election Year,"Action, Horror, Sci-Fi",108
+7.1,23.22,70,Vicky Cristina Barcelona,"Drama, Romance",96
+6.2,106.81,43,Miss Congeniality,"Action, Comedy, Crime",109
+6.5,54.24,57,Evil Dead,"Fantasy, Horror, Thriller",91
+8.0,141.32,86,Slumdog Millionaire,"Drama, Romance",120
+7.3,22.91,69,Revolutionary Road,"Drama, Romance",119
+5.8,103.86,41,Journey 2: The Mysterious Island,"Action, Adventure, Comedy",94
+7.0,4.06,63,Secretary,"Comedy, Drama, Romance",107
+6.8,,65,The Autopsy of Jane Doe,"Horror, Mystery, Thriller",86
+7.7,111.11,55,The Last Samurai,"Action, Drama, History",154
+6.1,160.94,56,Die Another Day,"Action, Adventure, Thriller",133
+5.8,10.91,45,Pride and Prejudice and Zombies,"Action, Horror, Romance",108
+6.0,65.01,52,Exodus: Gods and Kings,"Action, Adventure, Drama",150
+7.1,143.53,66,Kung Fu Panda 3,"Animation, Action, Adventure",95
+7.4,73.34,34,Law Abiding Citizen,"Crime, Drama, Thriller",109
+7.5,38.32,87,Brooklyn,"Drama, Romance",117
+6.7,57.76,38,The Chronicles of Riddick,"Action, Adventure, Sci-Fi",119
+6.6,38.09,57,Harold & Kumar Escape from Guantanamo Bay,"Adventure, Comedy",104
+7.1,58.4,72,Easy A,"Comedy, Drama, Romance",92
+5.7,27.02,41,Home Again,"Comedy, Drama, Romance",97
+7.5,3.43,54,Malèna,"Comedy, Drama, Romance",108
+7.5,58.33,67,Open Range,"Action, Drama, Romance",139
+7.2,76.22,77,Paddington,"Animation, Adventure, Comedy",95
+6.1,43.14,44,A Million Ways to Die in the West,"Comedy, Romance, Western",116
+7.2,113.33,63,The Patriot,"Action, Drama, History",165
+6.6,168.37,58,Quantum of Solace,"Action, Adventure, Thriller",106
+6.2,34.34,42,Inferno,"Action, Adventure, Crime",121
+7.1,85.47,56,Real Steel,"Action, Drama, Family",127
+7.6,171.24,80,True Grit,"Adventure, Drama, Western",110
+7.5,186.85,48,Sherlock Holmes: A Game of Shadows,"Action, Adventure, Crime",129
+5.9,68.56,39,Percy Jackson: Sea of Monsters,"Adventure, Family, Fantasy",106
+6.9,117.54,57,Horrible Bosses,"Comedy, Crime",98
+6.2,96.52,59,Legally Blonde,"Comedy, Romance",96
+7.3,21.38,68,The Place Beyond the Pines,"Crime, Drama, Thriller",140
+7.4,79.25,59,Limitless,"Mystery, Sci-Fi, Thriller",105
+6.6,,67,Hush,"Horror, Thriller",81
+5.3,0.18,62,The Bad Batch,"Drama, Horror, Romance",118
+6.6,73.08,51,John Carter,"Action, Adventure, Sci-Fi",132
+6.5,0.16,46,Horns,"Drama, Fantasy, Horror",120
+7.2,12.79,66,The Founder,"Biography, Drama, History",115
+6.9,,64,To the Bone,Drama,107
+5.9,52.41,38,Blade: Trinity,"Action, Adventure, Horror",113
+6.5,36.32,47,Accepted,Comedy,93
+6.2,106.58,48,300: Rise of an Empire,"Action, Fantasy, War",102
+7.5,101.01,71,Collateral,"Crime, Drama, Thriller",120
+6.8,30.98,23,Collateral Beauty,"Drama, Romance",97
+6.6,18.71,26,The Choice,"Drama, Romance",111
+6.7,35.66,45,Smokin' Aces,"Action, Crime, Drama",108
+6.1,198.54,44,Pearl Harbor,"Action, Drama, History",183
+6.8,165.09,57,Hannibal,"Crime, Drama, Thriller",131
+7.2,39.02,68,Fracture,"Crime, Drama, Mystery",113
+7.2,19.07,40,Remember Me,"Drama, Romance",113
+7.0,80.07,50,Jack Reacher,"Action, Crime, Mystery",130
+7.4,21.15,52,The Next Three Days,"Action, Crime, Drama",133
+7.9,0.0,63,Mr. Nobody,"Drama, Fantasy, Romance",141
+5.6,66.01,60,Magic Mike XXL,"Comedy, Drama, Music",115
+8.0,66.26,58,Big Fish,"Adventure, Drama, Fantasy",125
+7.1,237.28,69,Brave,"Animation, Adventure, Comedy",93
+7.4,47.12,48,The Judge,"Crime, Drama",141
+6.4,186.74,47,The Day After Tomorrow,"Action, Adventure, Sci-Fi",124
+6.6,56.45,56,Joy,Drama,124
+7.2,12.55,60,The Light Between Oceans,"Drama, Romance",133
+5.8,131.14,33,Lara Croft: Tomb Raider,"Action, Adventure, Fantasy",100
+7.1,0.03,56,Filth,"Comedy, Crime, Drama",97
+7.4,83.82,83,Up in the Air,"Drama, Romance",109
+7.3,59.02,59,Dawn of the Dead,"Action, Horror, Thriller",101
+7.1,309.42,50,Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy",169
+5.9,73.03,56,Dinner for Schmucks,Comedy,114
+5.6,65.0,34,Friday the 13th,Horror,97
+7.1,75.62,58,We Bought a Zoo,"Comedy, Drama, Family",124
+7.6,52.36,76,The Royal Tenenbaums,"Comedy, Drama",110
+7.2,170.69,82,Chicago,"Comedy, Crime, Musical",113
+7.1,64.58,69,Chronicle,"Adventure, Comedy, Drama",84
+7.0,4.21,76,Stronger,"Biography, Drama",119
+7.2,436.47,75,Shrek 2,"Animation, Adventure, Comedy",93
+6.7,134.51,64,Wanted,"Action, Crime, Fantasy",110
+7.5,73.86,83,Hugo,"Adventure, Drama, Family",126
+7.3,148.42,63,Megamind,"Animation, Action, Comedy",95
+6.8,51.09,63,The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi",109
+7.5,3.44,64,Miss Sloane,"Drama, Thriller",132
+8.0,27.3,84,Dallas Buyers Club,"Biography, Drama",117
+5.3,47.39,40,Jupiter Ascending,"Action, Adventure, Sci-Fi",127
+6.5,43.58,39,Need for Speed,"Action, Crime, Thriller",132
+6.5,125.54,58,Ocean's Twelve,"Crime, Thriller",125
+6.6,138.61,38,Bad Boys II,"Action, Comedy, Crime",147
+6.6,55.8,63,Friends with Benefits,"Comedy, Romance",109
+6.4,50.29,63,Hot Tub Time Machine,"Comedy, Sci-Fi",101
+5.2,40.17,32,Legion,"Action, Fantasy, Horror",100
+6.1,57.23,57,13 Going on 30,"Comedy, Fantasy, Romance",98
+7.4,9.74,81,Blue Valentine,"Drama, Romance",112
+6.5,45.09,47,The Giver,"Drama, Romance, Sci-Fi",97
+7.0,,79,The Meyerowitz Stories (New and Selected),"Comedy, Drama",112
+7.6,176.76,68,Rise of the Planet of the Apes,"Action, Drama, Sci-Fi",105
+6.7,53.26,47,RED 2,"Action, Comedy, Crime",116
+7.1,43.48,64,Everest,"Action, Adventure, Drama",121
+5.6,41.87,30,Thir13en Ghosts,Horror,91
+6.8,120.91,48,50 First Dates,"Comedy, Drama, Romance",99
+7.7,136.03,86,Argo,"Biography, Drama, Thriller",120
+7.1,40.07,60,Allied,"Action, Drama, Romance",124
+6.3,107.51,43,The Angry Birds Movie,"Animation, Action, Adventure",97
+7.7,35.01,72,50/50,"Comedy, Drama, Romance",100
+6.7,113.2,61,The Bourne Legacy,"Action, Adventure, Mystery",135
+6.1,190.42,49,Men in Black II,"Action, Adventure, Comedy",88
+6.4,31.58,46,She's Out of My League,"Comedy, Romance",104
+8.1,100.49,86,Million Dollar Baby,"Drama, Sport",132
+7.6,56.0,46,Saw,"Crime, Horror, Mystery",103
+6.1,76.81,47,27 Dresses,"Comedy, Romance",111
+6.7,32.37,55,Love & Other Drugs,"Comedy, Drama, Romance",112
+6.5,34.02,56,The DUFF,"Comedy, Romance",101
+5.0,,40,Leatherface,"Horror, Thriller",90
+5.2,103.14,32,Independence Day: Resurgence,"Action, Adventure, Sci-Fi",120
+7.2,281.49,62,The Matrix Reloaded,"Action, Sci-Fi",138
+6.3,14.27,36,Criminal,"Action, Crime, Drama",113
+8.1,,,Hachi: A Dog's Tale,"Drama, Family",93
+6.0,18.59,28,CHIPS,"Action, Comedy, Crime",100
+6.7,118.87,81,Hairspray,"Comedy, Drama, Music",117
+7.9,25.51,74,Serenity,"Action, Adventure, Sci-Fi",119
+6.4,7.83,33,The Space Between Us,"Adventure, Drama, Romance",120
+5.7,180.01,50,Planet of the Apes,"Action, Adventure, Sci-Fi",119
+8.1,217.58,74,How to Train Your Dragon,"Animation, Action, Adventure",98
+7.4,52.42,57,Southpaw,"Drama, Sport",124
+6.0,82.05,40,Teenage Mutant Ninja Turtles: Out of the Shadows,"Action, Adventure, Comedy",112
+7.2,218.08,81,King Kong,"Action, Adventure, Drama",187
+5.3,23.29,19,The Covenant,"Action, Fantasy, Horror",97
+5.9,31.17,33,The Mortal Instruments: City of Bones,"Action, Fantasy, Horror",130
+5.9,51.8,58,Footloose,"Comedy, Drama, Music",113
+8.0,90.14,84,Mystic River,"Crime, Drama, Mystery",138
+8.4,223.81,95,WALL·E,"Animation, Adventure, Family",98
+6.5,334.19,53,Alice in Wonderland,"Adventure, Family, Fantasy",108
+6.2,,46,Unlocked,"Action, Drama, Mystery",98
+5.7,64.47,41,The Purge,"Horror, Sci-Fi, Thriller",85
+6.2,176.59,61,The Karate Kid,"Action, Drama, Family",140
+6.1,55.1,36,I Am Number Four,"Action, Adventure, Sci-Fi",111
+5.8,163.21,39,Clash of the Titans,"Action, Adventure, Fantasy",106
+7.6,88.51,76,Inside Man,"Crime, Drama, Mystery",129
+7.4,41.23,35,A Walk to Remember,"Drama, Romance",101
+6.8,31.57,41,Chappie,"Action, Crime, Drama",120
+8.0,66.21,83,Kill Bill: Vol. 2,"Action, Crime, Thriller",137
+5.0,153.29,35,Scooby-Doo,"Adventure, Comedy, Family",86
+7.6,52.99,52,Blow,"Biography, Crime, Drama",124
+7.7,108.64,74,Black Hawk Down,"Drama, History, War",144
+5.8,152.27,32,G.I. Joe: The Rise of Cobra,"Action, Adventure, Sci-Fi",118
+6.9,44.54,64,Napoleon Dynamite,Comedy,96
+8.1,148.1,72,Gran Torino,Drama,116
+6.5,281.72,65,The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi",137
+6.7,14.59,47,The Girl Next Door,"Comedy, Drama, Romance",109
+6.5,89.3,37,The Lone Ranger,"Action, Adventure, Western",150
+5.8,54.65,36,Assassin's Creed,"Action, Adventure, Fantasy",115
+7.2,47.0,53,Shooter,"Action, Crime, Drama",124
+5.5,25.0,53,Piranha 3D,"Comedy, Horror, Thriller",88
+6.9,100.47,51,Step Brothers,Comedy,98
+7.6,72.31,81,Bridge of Spies,"Drama, History, Thriller",142
+7.1,238.68,61,Fast & Furious 6,"Action, Crime, Thriller",130
+6.2,52.6,47,The Strangers,"Horror, Mystery, Thriller",86
+6.6,0.44,66,Idiocracy,"Adventure, Comedy, Sci-Fi",84
+6.3,202.02,48,The Mummy Returns,"Action, Adventure, Fantasy",130
+7.1,78.62,65,A.I. Artificial Intelligence,"Adventure, Drama, Sci-Fi",146
+6.7,132.56,61,The Wolverine,"Action, Adventure, Sci-Fi",126
+6.5,234.28,73,War of the Worlds,"Adventure, Sci-Fi, Thriller",116
+6.6,39.79,43,The Beach,"Adventure, Drama, Romance",119
+5.9,35.54,21,Dirty Grandpa,Comedy,102
+6.3,56.28,40,Dracula Untold,"Action, Drama, Fantasy",92
+5.8,35.09,36,Pan,"Adventure, Family, Fantasy",111
+4.2,2.24,,Jeepers Creepers III,"Action, Horror, Mystery",100
+7.9,35.55,84,Children of Men,"Drama, Sci-Fi, Thriller",109
+6.0,46.01,51,Mike and Dave Need Wedding Dates,"Adventure, Comedy, Romance",98
+6.6,159.58,60,The Heat,"Action, Comedy, Crime",117
+7.9,7.76,67,In Bruges,"Comedy, Crime, Drama",107
+6.4,34.0,52,"Everything, Everything","Drama, Romance",96
+6.1,55.7,23,Hansel & Gretel: Witch Hunters,"Action, Fantasy, Horror",88
+7.6,17.02,94,The Hurt Locker,"Drama, History, Thriller",131
+5.9,88.76,47,Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy",118
+7.1,,,Death Proof,"Action, Thriller",113
+6.3,20.18,45,Secret in Their Eyes,"Crime, Drama, Mystery",111
+6.0,45.54,42,The Great Wall,"Action, Adventure, Fantasy",103
+6.9,0.12,60,Trust,"Crime, Drama, Thriller",106
+7.9,6.74,62,Loving Vincent,"Animation, Biography, Crime",94
+6.3,2.61,78,Under the Skin,"Drama, Sci-Fi, Thriller",108
+6.2,67.54,59,This Is 40,"Comedy, Romance",134
+7.3,423.32,53,Pirates of the Caribbean: Dead Man's Chest,"Action, Adventure, Fantasy",151
+8.0,227.47,85,The Bourne Ultimatum,"Action, Mystery, Thriller",115
+6.7,43.82,42,The Lovely Bones,"Drama, Fantasy, Thriller",135
+6.3,30.08,72,"Hail, Caesar!","Comedy, Mystery",106
+7.0,89.02,54,Oblivion,"Action, Adventure, Mystery",124
+5.2,44.9,42,xXx: Return of Xander Cage,"Action, Adventure, Thriller",107
+6.5,33.68,33,The Punisher,"Action, Adventure, Crime",124
+6.6,101.47,67,This Is the End,"Comedy, Fantasy",107
+6.7,119.22,64,The Other Guys,"Action, Comedy, Crime",107
+7.5,424.67,76,The Hunger Games: Catching Fire,"Action, Adventure, Mystery",146
+6.9,117.15,62,Ocean's Thirteen,"Crime, Thriller",122
+7.7,76.63,69,Training Day,"Crime, Drama, Thriller",122
+5.2,16.2,47,Jennifer's Body,"Comedy, Horror",102
+7.3,33.99,65,Closer,"Drama, Romance",104
+7.1,,72,Bone Tomahawk,"Adventure, Drama, Horror",132
+7.1,12.13,79,Let Me In,"Drama, Fantasy, Horror",116
+7.5,1.74,68,We Need to Talk About Kevin,"Drama, Mystery, Thriller",112
+6.6,53.86,56,Focus,"Comedy, Crime, Drama",105
+6.0,128.0,69,Into the Woods,"Adventure, Comedy, Drama",125
+7.4,14.26,77,The Edge of Seventeen,"Comedy, Drama",104
+6.1,36.39,33,Sucker Punch,"Action, Fantasy",110
+5.6,131.92,45,Fantastic 4: Rise of the Silver Surfer,"Action, Adventure, Fantasy",92
+6.4,,36,Solace,"Crime, Drama, Mystery",101
+5.8,166.11,49,2012,"Action, Adventure, Sci-Fi",158
+7.7,32.39,76,500 Days of Summer,"Comedy, Drama, Romance",95
+6.5,4.22,31,The Book of Henry,"Crime, Drama, Thriller",105
+7.3,30.64,68,Chef,"Adventure, Comedy, Drama",114
+7.0,80.05,64,Cloverfield,"Action, Horror, Sci-Fi",85
+7.9,161.2,72,Straight Outta Compton,"Biography, Drama, History",147
+5.8,20.38,35,The Three Musketeers,"Action, Adventure, Romance",110
+7.1,43.02,57,War Dogs,"Comedy, Crime, Drama",114
+6.1,58.7,47,Jack Reacher: Never Go Back,"Action, Adventure, Crime",118
+7.7,56.82,81,Midnight in Paris,"Comedy, Fantasy, Romance",94
+7.5,214.95,68,X-Men 2,"Action, Adventure, Fantasy",134
+7.3,,59,Shot Caller,"Crime, Drama, Thriller",121
+7.4,,75,Okja,"Action, Adventure, Drama",120
+7.8,274.09,96,Gravity,"Drama, Sci-Fi, Thriller",91
+3.3,,,The Open House,"Horror, Thriller",94
+5.5,23.22,39,Pompeii,"Action, Adventure, Drama",105
+6.7,234.36,58,X-Men: The Last Stand,"Action, Adventure, Fantasy",104
+6.6,241.07,45,Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy",136
+7.5,27.11,55,Cloud Atlas,"Action, Drama, Mystery",172
+7.3,117.72,50,Now You See Me,"Crime, Mystery, Thriller",115
+6.2,113.26,60,Bad Moms,Comedy,100
+6.2,77.04,34,Alice Through the Looking Glass,"Adventure, Family, Fantasy",113
+7.6,57.39,66,Moulin Rouge!,"Drama, Musical, Romance",127
+6.2,97.66,66,Sausage Party,"Animation, Adventure, Comedy",89
+7.1,116.72,77,8 Mile,"Drama, Music",110
+7.4,95.72,95,Zero Dark Thirty,"Drama, Thriller",157
+7.1,12.71,66,The Danish Girl,"Biography, Drama, History",119
+6.4,103.03,33,Just Go with It,"Comedy, Romance",117
+4.3,8.83,18,Movie 43,"Comedy, Romance",94
+5.8,191.2,31,Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy",101
+6.2,,39,Dark Places,"Action, Drama, Mystery",113
+6.6,28.8,41,Kick-Ass 2,"Action, Comedy, Crime",103
+6.4,11.96,58,"Roman J. Israel, Esq.","Crime, Drama",122
+7.1,,45,Brimstone,"Action, Thriller, Western",148
+6.7,37.52,53,In Time,"Action, Crime, Drama",109
+7.1,81.26,82,School of Rock,"Comedy, Music",108
+7.0,202.36,63,World War Z,"Action, Adventure, Horror",116
+7.8,50.87,68,Apocalypto,"Action, Adventure, Drama",139
+6.4,8.11,47,A Cure for Wellness,"Drama, Fantasy, Horror",146
+7.4,66.49,84,Looper,"Action, Crime, Drama",113
+7.4,182.21,86,Lincoln,"Biography, Drama, History",150
+7.2,42.48,51,The Age of Adaline,"Drama, Fantasy, Romance",112
+6.8,179.02,58,Men in Black 3,"Action, Adventure, Comedy",106
+7.5,143.5,81,Juno,"Comedy, Drama",96
+6.1,58.88,34,Vacation,"Adventure, Comedy",99
+7.2,95.01,62,Unbreakable,"Drama, Mystery, Sci-Fi",106
+6.1,120.18,35,Van Helsing,"Action, Adventure, Fantasy",131
+6.9,35.82,50,The Island,"Action, Adventure, Romance",136
+6.2,70.66,50,No Strings Attached,"Comedy, Romance",108
+7.2,7.08,79,Silence,"Adventure, Drama, History",161
+6.7,0.23,74,The Invitation,"Drama, Mystery, Thriller",100
+6.8,54.01,52,Insidious,"Horror, Mystery, Thriller",103
+6.6,24.48,66,Don Jon,"Comedy, Drama, Romance",90
+6.7,144.53,58,The Fast and the Furious,"Action, Crime, Thriller",106
+7.5,125.1,60,Lone Survivor,"Action, Biography, Drama",121
+6.4,93.95,47,He's Just Not That Into You,"Comedy, Drama, Romance",129
+7.3,350.13,72,American Sniper,"Action, Biography, Drama",133
+7.6,69.95,36,Seven Pounds,"Drama, Romance",123
+5.2,34.91,33,The 5th Wave,"Action, Adventure, Sci-Fi",112
+5.2,16.87,27,Flatliners,"Drama, Sci-Fi, Thriller",109
+8.0,206.45,96,Ratatouille,"Animation, Adventure, Comedy",111
+7.9,32.53,90,Almost Famous,"Adventure, Comedy, Drama",122
+6.8,1.7,58,Stoker,"Drama, Thriller",99
+7.0,110.83,75,Spy,"Action, Comedy, Crime",119
+7.7,75.59,73,Zombieland,"Adventure, Comedy, Horror",88
+7.3,37.4,58,Lawless,"Crime, Drama",116
+5.6,78.75,27,Pixels,"Action, Comedy, Fantasy",105
+8.0,7.22,83,Mulholland Drive,"Drama, Mystery, Thriller",147
+6.8,172.06,49,TRON: Legacy,"Action, Adventure, Sci-Fi",125
+7.7,35.89,72,The Theory of Everything,"Biography, Drama, Romance",123
+5.5,48.24,55,The House Bunny,"Comedy, Romance",97
+7.7,251.51,72,Despicable Me,"Animation, Adventure, Comedy",95
+7.6,92.19,74,The Town,"Crime, Drama, Thriller",125
+5.7,154.7,40,Fantastic Four,"Action, Adventure, Family",106
+8.1,164.62,75,Catch Me If You Can,"Biography, Crime, Drama",141
+6.2,73.92,69,Captain Underpants: The First Epic Movie,"Animation, Action, Comedy",89
+7.8,44.59,89,Lost in Translation,Drama,102
+7.8,124.87,69,The Fault in Our Stars,"Drama, Romance",126
+7.3,34.47,74,Monster,"Biography, Crime, Drama",109
+7.3,1.88,79,Only Lovers Left Alive,"Comedy, Drama, Fantasy",123
+7.0,209.22,64,Wedding Crashers,"Comedy, Romance",119
+7.1,43.77,77,The Gift,"Drama, Mystery, Thriller",108
+7.4,86.26,51,The Accountant,"Action, Crime, Drama",128
+7.2,63.17,67,Forgetting Sarah Marshall,"Comedy, Drama, Romance",111
+6.9,62.58,68,Black Mass,"Biography, Crime, Drama",123
+7.2,47.4,63,Kingdom of Heaven,"Action, Adventure, Drama",144
+6.3,,70,1922,"Crime, Drama, Mystery",102
+7.7,42.34,88,Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama",119
+7.8,233.63,73,Cast Away,"Adventure, Drama, Romance",143
+7.2,256.39,65,I Am Legend,"Drama, Horror, Sci-Fi",101
+7.8,257.76,83,The Lego Movie,"Animation, Action, Adventure",100
+6.1,113.72,72,Magic Mike,"Comedy, Drama",110
+6.6,310.68,54,Star Wars: Episode II - Attack of the Clones,"Action, Adventure, Fantasy",142
+7.2,61.28,68,Deepwater Horizon,"Action, Drama, Thriller",107
+6.7,12.64,73,Battle of the Sexes,"Biography, Comedy, Drama",121
+7.5,,85,Mudbound,"Drama, War",134
+6.2,130.18,42,Insurgent,"Action, Adventure, Sci-Fi",119
+7.8,228.78,72,Star Trek: Into Darkness,"Action, Adventure, Sci-Fi",132
+7.4,209.4,73,Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller",132
+6.2,1.4,45,Wonder Wheel,Drama,101
+7.0,106.13,68,The Italian Job,"Action, Crime, Thriller",111
+6.5,13.76,46,Sin City: A Dame to Kill For,"Crime, Thriller",102
+7.8,54.58,69,Crash,"Crime, Drama, Thriller",112
+7.4,31.89,69,Patriots Day,"Crime, Drama, History",133
+6.3,126.64,44,The Legend of Tarzan,"Action, Adventure, Drama",110
+7.5,77.81,72,Gangs of New York,"Crime, Drama",167
+6.6,148.21,66,Talladega Nights: The Ballad of Ricky Bobby,"Action, Comedy, Sport",108
+6.3,16.31,71,Young Adult,"Comedy, Drama",94
+6.9,56.57,56,A Knight's Tale,"Action, Adventure, Romance",132
+6.9,124.74,62,The Devil Wears Prada,"Comedy, Drama",109
+6.6,45.0,50,Going in Style,"Comedy, Crime",96
+7.8,127.51,70,The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",166
+5.3,14.12,63,Spring Breakers,"Crime, Drama",94
+8.3,415.0,92,Toy Story 3,"Animation, Adventure, Comedy",103
+5.7,66.18,33,Allegiant,"Action, Adventure, Mystery",120
+6.5,46.29,31,Blended,"Comedy, Romance",117
+7.9,121.66,68,The Bourne Identity,"Action, Mystery, Thriller",119
+7.0,148.73,85,Knocked Up,"Comedy, Romance",129
+7.3,486.3,77,Finding Dory,"Animation, Adventure, Comedy",97
+6.1,39.32,35,The Expendables 3,"Action, Adventure, Thriller",126
+8.1,51.69,69,Lion,"Biography, Drama",118
+7.1,109.45,73,The 40-Year-Old Virgin,"Comedy, Romance",116
+7.8,21.0,83,Fantastic Mr. Fox,"Animation, Adventure, Comedy",87
+7.0,92.17,56,Non-Stop,"Action, Mystery, Thriller",106
+7.1,319.07,61,Transformers,"Action, Adventure, Sci-Fi",144
+7.3,175.75,75,The LEGO Batman Movie,"Animation, Action, Comedy",104
+8.1,169.71,62,The Help,Drama,146
+5.9,35.27,53,Carrie,"Drama, Horror",100
+7.0,150.39,44,We're the Millers,"Comedy, Crime",110
+7.8,222.53,74,Big Hero 6,"Animation, Action, Adventure",102
+6.5,65.08,46,Now You See Me 2,"Action, Adventure, Comedy",129
+5.7,44.31,52,47 Metres Down,"Adventure, Drama, Horror",89
+6.9,59.62,72,Hellboy,"Action, Fantasy, Horror",122
+7.8,145.0,50,Taken,"Action, Crime, Thriller",93
+5.5,292.3,52,The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy",115
+6.4,184.3,63,Pitch Perfect 2,"Comedy, Music",115
+7.8,35.06,78,Drive,"Crime, Drama",100
+6.2,110.21,75,Trainwreck,"Comedy, Drama, Romance",125
+7.3,2.01,80,Good Time,"Crime, Drama, Thriller",101
+7.8,50.93,85,Atonement,"Drama, Mystery, Romance",123
+6.7,206.46,72,Charlie and the Chocolate Factory,"Adventure, Comedy, Family",115
+6.5,368.38,61,The Secret Life of Pets,"Animation, Adventure, Comedy",87
+7.1,39.39,57,Body of Lies,"Action, Drama, Romance",128
+8.2,70.51,62,V for Vendetta,"Action, Drama, Sci-Fi",132
+7.1,244.08,73,Cars,"Animation, Comedy, Family",117
+6.4,158.12,48,The Longest Yard,"Comedy, Crime, Sport",113
+7.7,277.32,73,The Hangover,Comedy,100
+7.0,127.0,72,Super 8,"Mystery, Sci-Fi, Thriller",112
+7.2,25.59,58,The Mist,"Horror, Sci-Fi, Thriller",126
+5.5,72.11,42,A Bad Moms Christmas,"Adventure, Comedy",104
+7.7,83.04,87,Brokeback Mountain,"Drama, Romance",134
+7.1,1.58,68,Professor Marston and the Wonder Women,"Biography, Drama",108
+5.7,38.25,32,Not Another Teen Movie,Comedy,89
+7.0,41.6,42,Orphan,"Horror, Mystery, Thriller",123
+8.2,13.66,71,Warrior,"Drama, Sport",140
+8.0,167.45,80,Casino Royale,"Action, Adventure, Thriller",144
+6.2,157.02,48,Scary Movie,Comedy,88
+8.3,293.0,88,Up,"Animation, Adventure, Comedy",96
+7.3,373.59,83,Spider-Man 2,"Action, Adventure, Sci-Fi",127
+7.3,2.02,86,A Fantastic Woman,Drama,100
+6.4,49.88,45,Pain & Gain,"Action, Comedy, Crime",129
+7.1,17.27,56,The Glass Castle,"Biography, Drama",127
+6.7,8.11,81,Inherent Vice,"Comedy, Crime, Drama",148
+7.8,130.16,76,American Gangster,"Biography, Crime, Drama",157
+6.9,64.3,43,A Dog's Purpose,"Adventure, Comedy, Drama",100
+7.8,47.7,96,Manchester by the Sea,Drama,137
+7.1,90.38,60,RED,"Action, Comedy, Crime",111
+6.2,2.43,38,Tulip Fever,"Drama, History, Romance",105
+8.2,170.74,72,A Beautiful Mind,"Biography, Drama",135
+7.0,1.87,55,Legend,"Biography, Crime, Drama",132
+5.7,245.44,32,Transformers: Age of Extinction,"Action, Adventure, Sci-Fi",165
+7.6,301.96,78,Harry Potter and the Half-Blood Prince,"Adventure, Family, Fantasy",153
+5.3,20.48,43,The Circle,"Drama, Sci-Fi, Thriller",110
+7.6,48.07,66,Kick-Ass,"Action, Comedy",117
+6.3,,,The Babysitter,"Comedy, Horror",85
+7.4,36.26,70,The Nice Guys,"Action, Comedy, Crime",116
+8.3,30.33,55,Snatch,"Comedy, Crime",102
+6.4,30.35,48,The Mountain Between Us,"Action, Adventure, Drama",112
+5.6,25.48,30,The House,Comedy,88
+6.9,291.71,75,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy",143
+7.7,295.98,65,Harry Potter and the Deathly Hallows: Part 1,"Adventure, Family, Fantasy",146
+6.7,3.02,71,Ingrid Goes West,"Comedy, Drama",98
+7.7,189.42,72,Wreck-It Ralph,"Animation, Adventure, Comedy",101
+6.7,105.27,53,Robin Hood,"Action, Adventure, Drama",140
+8.5,25.54,80,Memento,"Mystery, Thriller",113
+7.6,209.03,57,Sherlock Holmes,"Action, Adventure, Crime",128
+7.9,5.88,72,Captain Fantastic,"Comedy, Drama",118
+8.0,17.74,67,The Perks of Being a Wallflower,"Drama, Romance",102
+6.5,93.44,60,Tomorrowland,"Action, Adventure, Family",130
+7.4,84.35,68,"Crazy, Stupid, Love.","Comedy, Drama, Romance",118
+6.2,1.33,51,The Neon Demon,"Horror, Thriller",118
+6.1,48.39,35,The Huntsman: Winter's War,"Action, Adventure, Drama",114
+7.4,16.79,77,Detroit,"Crime, Drama, History",143
+7.9,32.38,76,Nightcrawler,"Crime, Drama, Thriller",118
+6.5,41.01,55,Money Monster,"Crime, Drama, Thriller",98
+8.1,26.95,75,Rush,"Action, Biography, Drama",123
+7.2,71.9,76,10 Cloverfield Lane,"Drama, Horror, Mystery",103
+6.3,234.91,44,Oz the Great and Powerful,"Adventure, Comedy, Drama",130
+6.4,144.13,51,Mamma Mia!,"Comedy, Musical, Romance",108
+6.3,,30,The Outsider,"Crime, Drama, Mystery",120
+7.4,102.47,65,The Conjuring 2,"Horror, Mystery, Thriller",134
+6.9,0.97,65,Last Flag Flying,"Comedy, Drama, War",125
+7.2,93.15,60,Red Dragon,"Crime, Drama, Thriller",124
+6.1,46.81,51,How to Be Single,"Comedy, Romance",110
+6.6,162.43,58,Jason Bourne,"Action, Thriller",123
+6.3,127.44,52,Central Intelligence,"Action, Comedy, Crime",107
+7.0,97.1,70,Public Enemies,"Biography, Crime, Drama",140
+6.6,17.72,45,EuroTrip,Comedy,92
+6.8,169.11,75,Bridesmaids,"Comedy, Romance",125
+4.4,45.83,45,Snatched,"Action, Comedy",90
+6.9,1.6,84,A Ghost Story,"Drama, Fantasy, Romance",92
+6.1,155.33,57,Snow White and the Huntsman,"Action, Adventure, Drama",127
+8.5,32.57,85,The Pianist,"Biography, Drama, Music",150
+7.6,380.26,68,Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy",140
+7.8,132.09,81,Silver Linings Playbook,"Comedy, Drama, Romance",122
+7.8,102.52,71,The Girl with the Dragon Tattoo,"Crime, Drama, Mystery",158
+6.8,4.6,70,Thirteen,Drama,100
+7.9,258.37,66,The Hobbit: The Desolation of Smaug,"Adventure, Fantasy",161
+8.1,128.01,63,Shutter Island,"Mystery, Thriller",138
+5.8,38.05,39,Jigsaw,"Crime, Horror, Mystery",92
+8.1,289.92,78,"Monsters, Inc.","Animation, Adventure, Comedy",92
+7.0,241.41,56,Maleficent,"Action, Adventure, Family",97
+6.8,118.63,62,A Series of Unfortunate Events,"Adventure, Comedy, Family",108
+7.0,110.52,71,Tropic Thunder,"Action, Comedy",107
+8.3,34.4,89,Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",108
+7.8,183.42,74,Ocean's Eleven,"Crime, Thriller",116
+6.9,47.37,32,Warcraft: The Beginning,"Action, Adventure, Fantasy",123
+6.7,150.95,48,Divergent,"Adventure, Mystery, Sci-Fi",139
+6.4,12.23,58,Before I Fall,"Drama, Mystery",98
+5.1,6.67,23,The Snowman,"Crime, Drama, Mystery",119
+3.1,86.09,12,The Emoji Movie,"Animation, Adventure, Comedy",86
+8.1,18.35,73,Into the Wild,"Adventure, Biography, Drama",148
+7.6,59.7,55,Love Actually,"Comedy, Drama, Romance",135
+6.4,10.58,77,The Beguiled,"Drama, Thriller",93
+6.3,55.12,59,The Shallows,"Drama, Horror, Thriller",86
+6.7,87.24,57,Miss Peregrine's Home for Peculiar Children,"Adventure, Drama, Family",127
+8.1,56.67,96,12 Years a Slave,"Biography, Drama, History",134
+7.3,150.12,90,American Hustle,"Crime, Drama",138
+7.8,38.41,82,Pride & Prejudice,"Drama, Romance",129
+7.4,255.12,59,The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy",144
+6.8,14.67,83,It Follows,"Horror, Mystery",100
+8.1,0.19,88,Donnie Darko,"Drama, Sci-Fi, Thriller",113
+5.9,13.84,43,Cirque du Freak: The Vampire's Assistant,"Action, Adventure, Fantasy",109
+6.8,25.14,83,The Witch,"Horror, Mystery",92
+7.1,89.22,71,Don't Breathe,"Crime, Horror, Thriller",88
+6.7,,77,Gerald's Game,"Drama, Horror, Thriller",103
+7.1,8.7,82,The Lobster,"Comedy, Drama, Romance",119
+7.8,70.26,81,The Big Short,"Biography, Comedy, Drama",130
+7.2,353.01,67,Furious 7,"Action, Crime, Thriller",137
+7.3,45.45,56,The Man from U.N.C.L.E.,"Action, Adventure, Comedy",116
+7.7,255.96,53,The Blind Side,"Biography, Drama, Sport",129
+7.7,77.91,47,Man on Fire,"Action, Crime, Drama",146
+6.4,,35,When We First Met,"Comedy, Fantasy, Romance",97
+7.5,292.0,71,Harry Potter and the Order of the Phoenix,"Adventure, Family, Fantasy",138
+7.3,51.27,40,The Phantom of the Opera,"Drama, Musical, Romance",143
+7.7,38.63,66,Stardust,"Adventure, Family, Fantasy",127
+4.9,0.04,53,Knock Knock,"Drama, Horror, Thriller",99
+7.6,121.46,76,Superbad,Comedy,113
+6.6,102.09,62,Annabelle: Creation,"Horror, Mystery, Thriller",109
+7.6,26.86,88,Hell or High Water,"Crime, Drama, Thriller",102
+7.2,138.45,69,21 Jump Street,"Action, Comedy, Crime",109
+8.2,37.63,98,Pan's Labyrinth,"Drama, Fantasy, War",118
+6.2,13.99,78,It Comes at Night,"Horror, Mystery",91
+7.9,100.21,71,Edge of Tomorrow,"Action, Adventure, Sci-Fi",113
+8.1,380.84,90,Finding Nemo,"Animation, Adventure, Comedy",100
+6.4,200.68,62,Godzilla,"Action, Adventure, Sci-Fi",123
+7.8,304.36,81,Skyfall,"Action, Adventure, Thriller",143
+7.6,109.77,82,Creed,"Drama, Sport",133
+7.6,42.87,86,The Big Sick,"Comedy, Drama, Romance",120
+7.7,96.96,95,The Social Network,"Biography, Drama",120
+5.2,191.47,56,Twilight,"Drama, Fantasy, Romance",122
+8.7,342.55,87,The Lord of the Rings: The Two Towers,"Adventure, Drama, Fantasy",179
+7.7,210.61,52,300,"Action, Fantasy, War",117
+7.4,261.99,63,Harry Potter and the Chamber of Secrets,"Adventure, Family, Fantasy",161
+7.1,291.05,55,Man of Steel,"Action, Adventure, Fantasy",143
+7.0,34.39,55,The Foreigner,"Action, Crime, Drama",113
+7.8,146.41,65,X-Men: First Class,"Action, Adventure, Sci-Fi",131
+6.5,75.4,48,The Girl on the Train,"Crime, Drama, Mystery",112
+7.9,81.0,53,The Notebook,"Drama, Romance",123
+6.3,175.0,50,The Boss Baby,"Animation, Comedy, Family",97
+7.0,262.03,66,The Amazing Spider-Man,"Action, Adventure, Sci-Fi",136
+6.0,104.03,30,Daddy's Home 2,Comedy,100
+6.8,152.9,59,Cars 3,"Animation, Adventure, Comedy",102
+8.0,257.73,82,Star Trek,"Action, Adventure, Sci-Fi",127
+8.0,183.64,76,The Revenant,"Adventure, Drama, History",156
+7.4,27.85,99,Moonlight,Drama,111
+6.6,30.23,54,Life,"Horror, Sci-Fi, Thriller",104
+7.0,100.01,41,Passengers,"Drama, Sci-Fi, Thriller",116
+8.1,70.1,69,Kill Bill: Vol. 1,"Action, Crime, Thriller",111
+7.8,169.39,74,Hidden Figures,"Biography, Drama, History",127
+5.6,116.6,39,Green Lantern,"Action, Adventure, Sci-Fi",114
+7.6,3.33,76,What We Do in the Shadows,"Comedy, Horror",86
+8.0,91.13,73,The Imitation Game,"Biography, Drama, History",114
+5.4,133.67,19,Grown Ups 2,Comedy,101
+7.6,148.81,63,Les Misérables,"Drama, History, Musical",158
+7.5,10.64,67,Nocturnal Animals,"Crime, Drama, Romance",116
+6.1,155.19,43,San Andreas,"Action, Adventure, Drama",114
+6.0,68.38,52,Bring It On,"Comedy, Romance, Sport",98
+8.1,40.22,93,There Will Be Blood,Drama,158
+8.3,3.64,68,Requiem for a Dream,Drama,102
+7.4,157.3,64,X-Men,"Action, Adventure, Sci-Fi",104
+6.0,162.0,30,Grown Ups,Comedy,102
+7.8,249.36,82,Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy",142
+7.8,200.82,71,Tangled,"Animation, Adventure, Comedy",100
+8.1,45.06,93,Spotlight,"Crime, Drama, History",128
+5.6,5.78,42,Suburbicon,"Crime, Drama, Mystery",105
+6.5,55.68,57,Happy Death Day,"Horror, Mystery, Thriller",96
+8.0,305.41,63,Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",143
+6.5,89.76,38,Terminator Genisys,"Action, Adventure, Sci-Fi",126
+7.9,303.0,58,The Hobbit: An Unexpected Journey,"Adventure, Family, Fantasy",169
+7.6,208.55,79,Dawn of the Planet of the Apes,"Action, Adventure, Drama",130
+8.0,25.57,90,Her,"Drama, Romance, Sci-Fi",126
+6.6,8.58,78,The Lost City of Z,"Adventure, Biography, Drama",141
+7.5,137.4,68,The Conjuring,"Horror, Mystery, Thriller",112
+7.7,33.08,78,Zodiac,"Crime, Drama, History",157
+7.4,364.0,77,The Jungle Book,"Adventure, Drama, Family",106
+7.8,45.51,84,Moonrise Kingdom,"Adventure, Comedy, Drama",94
+7.2,65.0,66,Pitch Perfect,"Comedy, Music, Romance",112
+6.8,200.07,60,Spectre,"Action, Adventure, Thriller",148
+7.1,158.85,68,Star Trek: Beyond,"Action, Adventure, Sci-Fi",122
+7.2,133.38,56,Troy,"Drama, History, Romance",163
+7.2,51.34,65,American Made,"Action, Biography, Comedy",115
+7.6,46.89,82,Sicario,"Action, Crime, Drama",121
+6.0,85.07,44,Power Rangers,"Action, Adventure, Sci-Fi",124
+7.9,267.67,84,Shrek,"Animation, Adventure, Comedy",90
+6.7,226.01,56,The Fate of the Furious,"Action, Crime, Thriller",136
+7.6,24.8,60,Gifted,Drama,101
+8.5,53.09,66,The Prestige,"Drama, Mystery, Sci-Fi",130
+6.0,72.69,47,Hercules,"Action, Adventure, Fantasy",98
+7.7,128.26,60,Kingsman: The Secret Service,"Action, Adventure, Comedy",129
+7.7,18.34,72,Only the Brave,"Biography, Drama",134
+8.2,356.46,94,Inside Out,"Animation, Adventure, Comedy",95
+7.2,408.01,68,The Hunger Games,"Adventure, Sci-Fi, Thriller",142
+8.5,132.38,85,The Departed,"Crime, Drama, Thriller",151
+7.0,42.07,72,The Cabin in the Woods,Horror,95
+6.9,101.8,65,Pacific Rim,"Action, Adventure, Sci-Fi",131
+6.9,25.02,47,In the Heart of the Sea,"Action, Adventure, Biography",122
+7.4,195.04,75,Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller",131
+5.3,128.34,60,Ghostbusters,"Action, Comedy, Fantasy",116
+8.1,61.0,74,Prisoners,"Crime, Drama, Mystery",153
+7.6,85.82,64,Fury,"Action, Drama, War",134
+8.1,59.1,88,The Grand Budapest Hotel,"Adventure, Comedy, Drama",99
+4.3,56.12,27,Fantastic Four,"Action, Adventure, Sci-Fi",100
+8.0,74.1,74,Sin City,"Crime, Thriller",124
+6.6,179.88,40,X-Men Origins: Wolverine,"Action, Adventure, Sci-Fi",107
+8.1,74.28,91,No Country for Old Men,"Crime, Drama, Thriller",122
+7.3,52.85,48,13 Hours,"Action, Drama, History",144
+8.0,233.92,75,X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",132
+5.4,31.15,25,Gods of Egypt,"Action, Adventure, Fantasy",127
+7.7,290.01,81,Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy",157
+7.6,15.07,64,American Psycho,"Crime, Drama",102
+7.9,100.55,81,Arrival,"Drama, Mystery, Sci-Fi",116
+6.9,93.43,54,The Magnificent Seven,"Action, Adventure, Western",132
+7.6,19.02,73,The Impossible,"Drama, Thriller",114
+7.0,86.06,66,Mean Girls,Comedy,97
+5.6,,37,The Cloverfield Paradox,"Horror, Mystery, Sci-Fi",102
+7.3,144.84,55,The Great Gatsby,"Drama, Romance",143
+8.5,13.09,88,Whiplash,"Drama, Music",107
+6.2,36.25,45,American Assassin,"Action, Thriller",112
+6.2,19.45,52,Beautiful Creatures,"Drama, Fantasy, Romance",124
+5.2,22.06,51,Rough Night,Comedy,101
+7.0,126.48,64,Prometheus,"Adventure, Mystery, Sci-Fi",124
+8.0,228.43,80,The Martian,"Adventure, Drama, Sci-Fi",144
+6.5,153.71,56,Trolls,"Animation, Adventure, Comedy",92
+8.0,106.95,79,Black Swan,"Drama, Thriller",108
+6.4,40.53,52,Ghost in the Shell,"Action, Crime, Drama",107
+6.7,202.85,53,The Amazing Spider-Man 2,"Action, Adventure, Sci-Fi",142
+8.3,206.85,70,Batman Begins,"Action, Adventure",140
+4.1,166.17,46,Fifty Shades of Grey,"Drama, Romance, Thriller",125
+7.8,532.18,65,Rogue One: A Star Wars Story,"Action, Adventure, Sci-Fi",133
+7.5,92.03,75,John Wick: Chapter 2,"Action, Crime, Thriller",122
+7.1,2.29,73,The Killing of a Sacred Deer,"Drama, Mystery, Thriller",121
+8.8,292.58,74,Inception,"Action, Adventure, Sci-Fi",148
+5.4,0.99,46,Beyond Skyline,"Action, Adventure, Horror",106
+4.2,95.66,53,A Wrinkle in Time,"Adventure, Family, Fantasy",109
+6.7,17.8,75,Mother!,"Drama, Horror, Mystery",121
+8.4,448.14,78,The Dark Knight Rises,"Action, Thriller",164
+5.2,130.17,27,Transformers: The Last Knight,"Action, Adventure, Sci-Fi",154
+7.5,31.49,69,Scott Pilgrim vs. the World,"Action, Comedy, Romance",112
+8.1,167.77,79,Gone Girl,"Crime, Drama, Mystery",149
+7.8,54.12,68,The Hateful Eight,"Crime, Drama, Mystery",187
+7.1,270.33,59,Sing,"Animation, Comedy, Family",108
+7.9,40.44,88,Paddington 2,"Animation, Adventure, Comedy",103
+8.1,153.64,90,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",120
+7.2,,79,Brawl in Cell Block 99,"Crime, Drama",132
+8.3,120.54,69,Inglourious Basterds,"Adventure, Drama, War",153
+8.0,261.44,90,The Incredibles,"Animation, Action, Adventure",115
+6.6,330.36,44,Batman v Superman: Dawn of Justice,"Action, Adventure, Fantasy",151
+4.6,114.38,33,Fifty Shades Darker,"Drama, Romance",118
+8.2,116.9,75,The Wolf of Wall Street,"Biography, Comedy, Crime",180
+7.0,652.27,59,Jurassic World,"Action, Adventure, Sci-Fi",124
+8.2,14.68,86,Room,Drama,118
+5.4,,32,"Game Over, Man!","Action, Comedy",101
+6.4,,29,Bright,"Action, Crime, Fantasy",117
+8.5,187.71,67,Gladiator,"Action, Adventure, Drama",155
+8.4,162.81,81,Django Unchained,"Drama, Western",165
+6.4,,74,I Kill Giants,"Drama, Fantasy, Thriller",106
+7.6,107.51,56,Watchmen,"Action, Drama, Mystery",162
+7.5,400.74,74,Frozen,"Animation, Adventure, Comedy",102
+5.5,80.1,34,The Mummy,"Action, Adventure, Fantasy",110
+7.4,234.04,66,Fantastic Beasts and Where to Find Them,"Adventure, Family, Fantasy",133
+3.6,,9,The Room,Drama,99
+6.8,39.18,41,King Arthur: Legend of the Sword,"Action, Adventure, Drama",126
+6.9,201.15,67,Cinderella,"Drama, Family, Fantasy",105
+5.7,132.18,54,Hulk,"Action, Sci-Fi",138
+6.3,81.67,43,Maze Runner: The Scorch Trials,"Action, Sci-Fi, Thriller",131
+8.9,377.85,94,The Lord of the Rings: The Return of the King,"Adventure, Drama, Fantasy",201
+6.2,336.53,59,Spider-Man 3,"Action, Adventure, Sci-Fi",139
+7.3,403.71,73,Spider-Man,"Action, Adventure, Sci-Fi",121
+7.0,75.75,78,Hellboy II: The Golden Army,"Action, Adventure, Fantasy",120
+8.1,381.01,87,Harry Potter and the Deathly Hallows: Part 2,"Adventure, Drama, Fantasy",130
+8.2,67.21,71,Hacksaw Ridge,"Biography, Drama, History",139
+6.3,264.62,49,Despicable Me 3,"Animation, Action, Adventure",89
+7.2,101.53,57,The Equalizer,"Action, Crime, Thriller",132
+7.1,18.49,48,Super Troopers,"Comedy, Crime, Mystery",100
+8.1,151.1,93,La La Land,"Comedy, Drama, Music",128
+7.4,56.25,51,Me Before You,"Drama, Romance",106
+6.5,31.06,66,Crimson Peak,"Drama, Fantasy, Horror",119
+7.0,206.36,54,Thor: The Dark World,"Action, Adventure, Sci-Fi",112
+6.6,102.83,52,Murder on the Orient Express,"Crime, Drama, Mystery",114
+4.9,,33,The Titan,"Sci-Fi, Thriller",97
+9.0,534.86,82,The Dark Knight,"Action, Crime, Drama",152
+7.2,409.01,62,Iron Man 3,"Action, Adventure, Sci-Fi",130
+7.7,176.04,84,Get Out,"Horror, Mystery, Thriller",104
+6.9,25.11,72,All the Money in the World,"Biography, Crime, Drama",132
+7.6,30.01,77,"I, Tonya","Biography, Comedy, Drama",120
+6.7,57.11,48,Tomb Raider,"Action, Adventure, Drama",118
+8.0,188.37,94,Dunkirk,"Action, Drama, History",106
+4.4,100.41,31,Fifty Shades Freed,"Drama, Romance, Thriller",105
+8.0,132.42,66,Wonder,"Drama, Family",113
+7.0,312.43,57,Iron Man 2,"Action, Adventure, Sci-Fi",124
+6.1,325.1,40,Suicide Squad,"Action, Adventure, Fantasy",123
+8.1,226.28,77,Logan,"Action, Drama, Sci-Fi",137
+6.7,84.37,58,Ferdinand,"Animation, Adventure, Comedy",108
+7.5,146.88,82,War for the Planet of the Apes,"Action, Adventure, Drama",140
+7.6,317.58,64,Harry Potter and the Sorcerer's Stone,"Adventure, Family, Fantasy",152
+6.7,51.57,63,Atomic Blonde,"Action, Mystery, Thriller",115
+7.5,48.96,94,Lady Bird,"Comedy, Drama",94
+7.8,33.8,73,Wind River,"Crime, Drama, Mystery",107
+5.8,2.16,49,Old Boy,"Action, Drama, Mystery",104
+7.6,21.02,90,Phantom Thread,"Drama, Romance",130
+7.2,504.01,65,Beauty and the Beast,"Family, Fantasy, Musical",129
+7.7,107.83,86,Baby Driver,"Action, Crime, Music",112
+5.7,67.35,49,Insidious: The Last Key,"Horror, Mystery, Thriller",103
+5.6,58.06,37,Baywatch,"Action, Comedy, Crime",116
+8.0,936.66,81,Star Wars: The Force Awakens,"Action, Adventure, Fantasy",136
+7.0,155.44,52,X-Men: Apocalypse,"Action, Adventure, Sci-Fi",144
+7.3,43.04,68,John Wick,"Action, Crime, Thriller",101
+7.6,248.76,81,Moana,"Animation, Adventure, Comedy",107
+5.4,33.7,21,Geostorm,"Action, Sci-Fi, Thriller",109
+6.3,115.11,71,Girls Trip,Comedy,122
+7.8,760.51,83,Avatar,"Action, Adventure, Fantasy",162
+8.6,188.02,74,Interstellar,"Adventure, Drama, Sci-Fi",169
+7.4,56.44,75,Darkest Hour,"Biography, Drama, History",125
+6.4,74.26,65,Alien: Covenant,"Horror, Sci-Fi, Thriller",122
+8.0,341.27,78,Zootopia,"Animation, Adventure, Comedy",108
+6.7,168.05,62,Kong: Skull Island,"Action, Adventure, Fantasy",118
+6.8,100.23,44,Kingsman: The Golden Circle,"Action, Adventure, Comedy",141
+6.5,40.48,51,Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy",137
+5.7,24.45,63,Downsizing,"Comedy, Drama, Sci-Fi",135
+7.3,138.29,62,Split,"Horror, Thriller",117
+7.5,21.12,76,The Disaster Artist,"Biography, Comedy, Drama",104
+6.6,172.56,39,Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",129
+6.8,102.43,57,The Maze Runner,"Action, Mystery, Sci-Fi",113
+8.8,315.54,92,The Lord of the Rings: The Fellowship of the Ring,"Adventure, Drama, Fantasy",178
+5.7,50.7,34,The Dark Tower,"Action, Adventure, Fantasy",95
+7.6,5.9,92,The Florida Project,Drama,111
+7.1,27.78,78,Logan Lucky,"Comedy, Crime, Drama",118
+5.7,,,The Killing Room,"Mystery, Thriller",93
+6.2,25.17,69,Nurse Betty,"Comedy, Crime, Drama",110
+5.6,15.43,25,Drowning Mona,"Comedy, Crime, Mystery",96
+7.1,2.53,70,Pieces of April,"Comedy, Drama",80
+6.9,0.4,67,Snow Angels,"Drama, Romance",107
+6.4,4.88,54,Hamlet 2,"Comedy, Music",92
+5.7,,,The Flock,"Crime, Drama, Mystery",96
+7.0,11.03,71,Mrs Henderson Presents,"Comedy, Drama, Music",103
+7.1,1.56,67,A Late Quartet,"Drama, Music",105
+7.7,0.03,62,Vampire Hunter D: Bloodlust,"Animation, Action, Adventure",103
+6.7,0.08,54,10 Items or Less,"Comedy, Drama",82
+6.3,,,Assassination of a High School President,"Comedy, Crime, Mystery",93
+4.8,2.51,60,Ra.One,"Action, Adventure, Sci-Fi",156
+7.0,1.27,75,Roger Dodger,"Comedy, Drama",106
+5.7,,34,The Possession of Michael King,Horror,83
+6.3,0.13,61,Edmond,"Drama, Thriller",82
+5.9,,,Bobby Z,"Action, Crime, Thriller",97
+5.9,0.48,69,Joshua,"Drama, Horror, Thriller",106
+7.0,0.43,64,Lymelife,"Comedy, Drama, Romance",95
+7.0,0.7,63,The Assassination of Richard Nixon,"Biography, Crime, Drama",95
+6.6,0.05,56,December Boys,"Drama, Romance",105
+5.9,7.83,51,The Night Listener,"Crime, Mystery, Thriller",91
+6.2,0.39,72,Tiny Furniture,"Comedy, Drama, Romance",98
+6.3,8.82,62,The Ice Harvest,"Comedy, Crime, Drama",92
+5.6,14.21,32,Alex & Emma,"Comedy, Romance",96
+6.8,2.26,71,Sleepwalk with Me,Comedy,81
+6.4,0.03,40,Shade,"Crime, Thriller",101
+5.4,42.44,46,"Welcome Home, Roscoe Jenkins","Comedy, Romance",114
+6.6,0.81,71,Factotum,"Comedy, Drama, Romance",94
+6.7,0.19,40,Shrink,"Comedy, Drama",104
+5.3,40.11,69,The Wild Thornberrys Movie,"Animation, Adventure, Comedy",85
+6.0,,,Half Light,"Drama, Horror, Mystery",110
+6.4,,,Ordinary Decent Criminal,"Comedy, Crime",93
+5.1,0.01,,The Breed,"Comedy, Horror, Thriller",91
+7.4,2.34,81,No,Drama,118
+5.1,13.97,25,Stealing Harvard,"Comedy, Crime",85
+7.1,0.37,62,Conversations with Other Women,"Comedy, Drama, Romance",84
+6.7,7.16,70,The Hoax,"Comedy, Drama",116
+4.5,8.1,33,Code Name: The Cleaner,"Action, Comedy, Crime",84
+5.9,5.76,60,The Clearing,"Drama, Mystery, Thriller",95
+7.1,1.78,69,The Dangerous Lives of Altar Boys,"Comedy, Drama",104
+5.7,0.41,51,The Promotion,Comedy,86
+6.4,,31,The Big White,"Comedy, Crime, Drama",100
+7.9,,,Bang Bang You're Dead,"Crime, Drama, Thriller",93
+5.7,,,White Noise 2: The Light,"Drama, Fantasy, Horror",99
+5.5,7.19,45,American Dreamz,"Comedy, Music",107
+6.5,,,Extraction,"Drama, Sci-Fi",85
+6.8,1.03,59,A Home at the End of the World,"Drama, Romance",97
+6.9,5.52,54,Aqua Teen Hunger Force Colon Movie Film for Theaters,"Animation, Action, Adventure",86
+5.5,0.12,53,People I Know,"Crime, Drama",100
+5.0,0.77,50,The Ten,"Comedy, Romance",96
+6.3,,,In Hell,"Action, Thriller, Drama",98
+6.8,6.92,75,State and Main,"Comedy, Drama",105
+7.0,0.18,53,The Lucky Ones,"Comedy, Drama, War",115
+6.4,0.7,56,Human Nature,"Comedy, Drama",96
+5.8,,,Faces in the Crowd,"Crime, Drama, Mystery",103
+6.1,,,The Maiden Heist,"Comedy, Crime",90
+6.6,,71,What Doesn't Kill You,"Crime, Drama",100
+4.7,15.55,,My Boss's Daughter,"Comedy, Romance",86
+6.5,,,Veronika Decides to Die,"Drama, Romance",103
+6.7,6.32,46,Beyond the Sea,"Biography, Drama, Music",118
+6.6,1.65,54,Battle for Terra,"Animation, Action, Adventure",85
+7.0,0.34,64,Chinese Puzzle,"Comedy, Drama, Romance",117
+6.6,0.2,66,Sherrybaby,Drama,96
+4.9,5.52,21,Say It Isn't So,"Comedy, Romance",95
+5.8,,45,Detention,"Comedy, Horror, Sci-Fi",93
+6.4,0.3,38,The Life Before Her Eyes,"Drama, Fantasy, Mystery",90
+7.1,0.86,80,Wendy and Lucy,Drama,80
+6.2,1.28,57,Cecil B. DeMented,"Comedy, Crime, Thriller",87
+6.2,6.11,33,Impostor,"Drama, Mystery, Sci-Fi",95
+6.8,0.35,59,Copying Beethoven,"Biography, Drama, Music",104
+6.7,0.26,63,King of California,"Comedy, Drama",93
+4.9,9.07,51,The Divorce,"Drama, Romance, Comedy",117
+4.0,15.18,35,The Last Exorcism Part II,"Drama, Horror, Thriller",88
+6.5,0.75,63,The Great Buck Howard,"Comedy, Drama",90
+6.3,5.54,68,For Your Consideration,Comedy,86
+5.9,0.03,35,Beyond a Reasonable Doubt,"Crime, Drama, Mystery",106
+5.5,,,100 Feet,"Horror, Mystery, Thriller",96
+6.8,0.55,53,Palindromes,"Comedy, Drama",100
+4.8,14.38,24,Godsend,"Action, Drama, Fantasy",102
+4.7,23.98,20,Corky Romano,"Comedy, Crime",86
+6.1,0.06,57,Right at Your Door,"Drama, Sci-Fi, Thriller",96
+7.3,,,Death Note: The Last Name,"Adventure, Crime, Drama",141
+7.0,4.23,57,Flash of Genius,"Biography, Drama",119
+5.2,7.66,21,The Order,"Horror, Mystery, Thriller",102
+6.7,2.25,82,Love Is Strange,"Drama, Romance",94
+4.8,36.05,33,Hanging Up,"Comedy, Drama",94
+4.9,35.09,28,Deck the Halls,"Comedy, Family",93
+5.3,16.93,18,Serving Sara,"Comedy, Romance",99
+6.4,0.03,31,Surveillance,"Crime, Drama, Mystery",97
+7.2,1.11,64,Mother and Child,"Drama, Romance",125
+7.2,0.45,47,Brother,"Crime, Drama, Thriller",114
+5.9,8.73,37,Suspect Zero,"Crime, Horror, Mystery",99
+6.7,17.07,69,Small Time Crooks,"Comedy, Crime",94
+6.8,12.59,65,The Matador,"Comedy, Crime, Drama",96
+6.3,,,The Onion Movie,Comedy,86
+5.1,1.18,31,Dylan Dog: Dead of Night,"Action, Comedy, Crime",107
+6.9,0.91,50,Storytelling,"Comedy, Drama, Romance",87
+3.6,14.29,19,Ballistic: Ecks vs. Sever,"Action, Crime, Sci-Fi",91
+5.8,,,Dance of the Dead,"Comedy, Horror",87
+6.8,2.34,69,Redbelt,"Drama, Sport",99
+7.0,0.37,57,Towelhead,Drama,124
+6.8,1.31,56,Saints and Soldiers,"Action, Drama, War",90
+5.6,72.01,42,Fred Claus,"Comedy, Family, Fantasy",116
+6.8,20.34,75,A Prairie Home Companion,"Comedy, Drama, Music",105
+7.0,0.05,41,The Chumscrubber,"Comedy, Drama",108
+4.2,13.35,25,The Comebacks,"Comedy, Sport",84
+6.5,1.24,,Dostana,"Comedy, Drama, Romance",145
+6.8,0.04,57,Defendor,"Comedy, Crime, Drama",101
+5.1,29.37,17,Bless the Child,"Crime, Drama, Horror",107
+5.8,4.78,38,Just Visiting,"Comedy, Fantasy, Sci-Fi",88
+6.3,11.0,55,The Astronaut Farmer,"Adventure, Drama, Sci-Fi",104
+6.5,3.35,48,Emperor,"Drama, History, War",105
+7.1,0.34,37,The United States of Leland,Drama,108
+6.2,37.44,39,Man of the Year,"Comedy, Drama, Romance",115
+6.7,6.84,59,Moonlight Mile,"Drama, Romance",117
+4.9,0.11,,Rise: Blood Hunter,"Action, Horror, Mystery",97
+7.3,0.49,71,Tape,Drama,86
+5.9,0.05,25,The Million Dollar Hotel,"Drama, Mystery, Thriller",122
+7.4,13.88,77,Monsoon Wedding,"Comedy, Drama, Romance",114
+6.1,0.6,63,The Signal,"Horror, Sci-Fi, Thriller",103
+5.4,,,2001 Maniacs,"Comedy, Horror",87
+3.9,11.44,17,Material Girls,"Comedy, Family, Romance",98
+6.3,,,My Sassy Girl,"Comedy, Drama, Romance",92
+5.1,16.81,36,Rebound,"Comedy, Family, Sport",86
+6.4,4.36,69,Solitary Man,"Comedy, Drama, Romance",90
+5.6,0.02,31,5 Days of War,"Action, Drama, War",113
+6.8,0.62,63,Howl,"Biography, Drama, Romance",84
+7.3,3.89,76,Me and You and Everyone We Know,"Comedy, Drama",91
+6.9,0.97,54,The Hunting Party,"Adventure, Comedy, Drama",101
+4.7,27.05,27,The Musketeer,"Action, Adventure, Romance",104
+6.5,0.07,58,Leaves of Grass,"Comedy, Crime, Drama",105
+6.2,,,Parallels,"Action, Sci-Fi",83
+6.3,0.06,30,Meet Bill,"Comedy, Drama",93
+6.1,0.09,,Blind Dating,"Comedy, Romance",95
+5.3,,,My Mom's New Boyfriend,"Action, Comedy, Crime",97
+7.1,11.91,52,The Protector,"Action, Crime, Drama",111
+5.2,,,Universal Soldier: Regeneration,"Action, Sci-Fi, Thriller",97
+6.4,0.2,73,Prince Avalanche,"Comedy, Drama",94
+5.4,3.03,47,The Guru,"Comedy, Music, Romance",94
+6.7,12.21,59,Confidence,"Crime, Thriller",97
+5.7,0.58,37,"War, Inc.","Action, Comedy, Thriller",107
+4.2,21.47,16,Urban Legends: Final Cut,"Horror, Mystery, Romance",97
+6.4,10.1,52,Possession,"Drama, Mystery, Romance",102
+6.3,45.55,53,The Tigger Movie,"Animation, Comedy, Drama",77
+5.4,11.66,19,Surviving Christmas,"Comedy, Romance",91
+6.3,0.24,43,Youth Without Youth,"Drama, Fantasy, Mystery",124
+5.7,,,Dread,"Drama, Horror, Thriller",108
+5.1,,33,Air,"Drama, Sci-Fi, Thriller",95
+6.6,0.04,65,Animal Factory,"Crime, Drama",94
+6.7,0.73,59,The Shape of Things,"Comedy, Drama, Romance",96
+6.9,18.76,63,The Upside of Anger,"Comedy, Drama",118
+6.9,0.03,37,The Air I Breathe,"Crime, Drama, Thriller",95
+4.6,0.0,,Catch .44,"Action, Crime, Drama",94
+2.1,5.69,18,Who's Your Caddy?,"Comedy, Sport",93
+4.6,13.11,64,Dr. T & the Women,"Comedy, Drama, Romance",122
+6.2,0.61,55,Below,"Horror, Mystery, Thriller",105
+5.6,,,Horsemen,"Crime, Drama, Mystery",90
+7.1,46.46,69,Arthur Christmas,"Animation, Adventure, Comedy",97
+7.8,0.05,80,The Turin Horse,Drama,155
+5.1,,,Amusement,"Horror, Thriller",85
+6.3,0.02,41,Struck by Lightning,"Comedy, Drama",90
+6.8,11.43,47,The Shipping News,Drama,111
+7.2,2.51,82,Frozen River,"Crime, Drama",97
+6.7,14.88,57,Last Chance Harvey,"Drama, Romance",93
+5.2,0.02,41,The Day,"Action, Drama, Horror",87
+4.4,0.3,56,In the Land of Blood and Honey,"Drama, Romance, War",127
+6.7,0.22,54,Battle in Seattle,"Action, Drama",98
+6.5,10.91,61,Stop-Loss,"Drama, War",112
+6.1,22.43,50,City by the Sea,"Crime, Drama, Mystery",108
+6.1,1.96,66,Margot at the Wedding,"Comedy, Drama",91
+6.9,14.06,49,The Emperor's Club,Drama,109
+5.2,7.56,30,Over Her Dead Body,"Comedy, Fantasy, Romance",95
+6.6,0.62,68,"Kumiko, the Treasure Hunter",Drama,105
+6.7,0.49,83,Paranoid Park,"Crime, Drama, Mystery",85
+6.9,,64,Che: Part Two,"Biography, Drama, History",135
+5.9,5.11,31,Gossip,"Drama, Mystery, Thriller",90
+5.9,0.01,,Beta Test,"Action, Sci-Fi, Thriller",88
+6.6,,,Ripley's Game,"Crime, Drama, Mystery",110
+6.5,,,TiMER,"Comedy, Drama, Fantasy",99
+5.8,15.71,38,Paparazzi,"Action, Crime, Drama",84
+6.5,0.22,53,A Good Woman,"Drama, Comedy, Romance",93
+4.9,,29,Vehicle 19,"Action, Adventure, Crime",85
+6.3,21.47,59,The Last Mimzy,"Drama, Family, Sci-Fi",90
+5.4,,,Replicant,"Action, Sci-Fi, Thriller",100
+4.8,10.14,20,Hoodwinked Too! Hood vs. Evil,"Animation, Action, Comedy",86
+7.2,3.42,61,Metallica Through the Never,Music,93
+6.1,,,6 Bullets,"Action, Crime, Drama",115
+6.3,3.3,54,Art School Confidential,"Comedy, Drama",102
+7.4,6.67,66,City Island,"Comedy, Drama",104
+6.0,0.03,26,Waiting for Forever,"Comedy, Drama, Romance",95
+7.6,1.35,81,Wadjda,"Comedy, Drama",98
+7.0,0.16,70,Outsourced,"Comedy, Drama, Romance",103
+6.6,4.84,46,Hollywood Ending,"Comedy, Romance",112
+6.4,0.57,65,Down in the Valley,"Drama, Romance, Thriller",114
+6.9,0.86,55,Mirrormask,"Adventure, Fantasy",101
+4.8,8.79,38,The Seeker: The Dark Is Rising,"Adventure, Drama, Family",99
+6.5,0.93,56,Breaking and Entering,"Crime, Drama, Romance",120
+6.8,,,Cypher,"Mystery, Sci-Fi, Thriller",95
+5.1,0.03,36,The Son of No One,"Crime, Drama, Thriller",90
+5.6,24.04,39,Angel Eyes,"Drama, Romance",102
+4.9,20.04,13,Down to You,"Comedy, Drama, Romance",91
+5.7,0.18,22,Twelve,"Action, Crime, Drama",93
+6.3,1.0,64,Fast Food Nation,"Comedy, Drama, Romance",116
+5.5,45.25,29,Domestic Disturbance,"Crime, Mystery, Thriller",89
+6.1,1.31,49,The Good German,"Drama, Mystery, Thriller",105
+5.1,0.1,43,The Romantics,"Comedy, Drama, Romance",95
+7.4,5.02,77,Three Burials,"Adventure, Crime, Drama",121
+7.0,,,Ink,"Action, Drama, Fantasy",107
+7.0,17.87,59,The Contender,"Drama, Thriller",126
+5.5,,,Ninja,"Action, Crime, Drama",86
+4.9,0.02,50,Vanishing on 7th Street,"Horror, Mystery, Thriller",92
+6.2,0.55,43,The Final Cut,"Drama, Sci-Fi, Thriller",95
+4.8,7.75,38,The Return,"Horror, Mystery, Thriller",85
+7.5,1.07,74,What Maisie Knew,Drama,99
+5.2,49.77,43,Racing Stripes,"Adventure, Comedy, Drama",102
+6.5,0.14,44,Unknown,"Crime, Drama, Mystery",85
+5.6,,39,The Numbers Station,"Action, Thriller",89
+6.8,7.49,48,Martian Child,"Comedy, Drama, Family",106
+6.3,0.07,40,Better Living Through Chemistry,"Comedy, Drama",91
+6.0,4.61,27,Let's Go to Prison,"Comedy, Crime",84
+6.6,13.34,53,De-Lovely,"Biography, Drama, Music",125
+5.5,3.09,32,The Ex,"Comedy, Romance",89
+6.1,4.92,51,Birthday Girl,"Comedy, Crime, Thriller",93
+4.9,0.1,43,Survival of the Dead,"Comedy, Drama, Horror",90
+5.4,37.79,44,Head of State,Comedy,95
+6.4,0.01,43,The Brass Teapot,"Comedy, Fantasy, Thriller",101
+5.6,,,My Little Eye,"Drama, Horror, Mystery",95
+6.4,0.0,46,Ashby,"Comedy, Drama, Romance",100
+6.7,3.84,67,The Door in the Floor,"Comedy, Drama",111
+5.5,,,Bad Ass,"Action, Biography, Comedy",90
+5.0,16.3,38,An American Haunting,"Drama, History, Horror",83
+5.6,19.45,45,Valiant,"Animation, Adventure, Comedy",76
+4.2,0.0,38,V/H/S Viral,"Horror, Thriller",81
+6.7,0.71,73,Rocket Science,"Comedy, Drama",101
+5.5,0.06,49,Hatchet II,"Comedy, Horror, Thriller",85
+5.8,17.13,37,Annapolis,"Drama, Romance, Sport",108
+5.4,64.19,32,Down to Earth,"Comedy, Fantasy",87
+6.9,1.57,55,Veronica Guerin,"Biography, Crime, Drama",98
+4.6,15.36,23,Half Past Dead,"Action, Crime, Thriller",98
+6.5,2.43,64,You Kill Me,"Comedy, Crime, Romance",93
+7.6,0.38,52,Little Manhattan,"Comedy, Family, Romance",90
+5.3,0.08,,Eye See You,"Crime, Horror, Mystery",96
+5.1,0.19,25,Hell Ride,"Action, Drama, Thriller",84
+5.9,0.93,50,Management,"Comedy, Drama, Romance",94
+5.7,36.78,52,Bounce,"Drama, Romance",106
+5.5,,,Nine Dead,"Crime, Drama, Horror",98
+6.3,7.46,74,Cyrus,"Comedy, Drama, Romance",91
+5.7,,,Wedding Daze,"Comedy, Romance",90
+5.9,0.02,61,Grand Piano,"Music, Mystery, Thriller",90
+4.7,0.0,34,ATM,"Horror, Thriller",90
+5.3,4.81,12,Slackers,"Comedy, Romance",86
+6.8,3.58,66,Elegy,"Drama, Romance",112
+6.8,0.55,65,Ondine,"Drama, Mystery, Romance",111
+4.1,49.63,36,Are We Done Yet?,"Comedy, Family, Fantasy",92
+8.0,2.28,91,Waltz with Bashir,"Animation, Biography, Drama",90
+6.5,0.34,49,Sleuth,"Drama, Mystery, Thriller",88
+5.2,14.47,33,Welcome to Mooseport,"Comedy, Romance",110
+6.1,0.01,49,The Sacrament,"Horror, Thriller",99
+7.6,3.05,80,The Band's Visit,"Comedy, Drama, Music",87
+4.3,45.59,36,College Road Trip,"Adventure, Comedy, Drama",83
+5.9,9.69,50,Duplex,Comedy,89
+5.4,10.2,25,Sorority Boys,Comedy,93
+7.0,0.15,50,Welcome to the Rileys,Drama,110
+6.4,5.31,62,Made,"Comedy, Crime, Drama",95
+5.6,,,The Deaths of Ian Stone,"Horror, Thriller",87
+5.6,8.33,33,The Man,"Action, Comedy, Crime",83
+6.0,19.53,40,Igor,"Animation, Comedy, Family",87
+5.8,14.24,37,Amelia,"Adventure, Biography, Drama",111
+6.5,3.39,34,Fireflies in the Garden,Drama,120
+6.4,5.21,66,Bandslam,"Comedy, Drama, Family",111
+7.2,1.76,64,A Better Life,"Drama, Romance",98
+5.7,20.44,46,The In-Laws,"Action, Comedy, Thriller",98
+6.7,0.02,65,The Dead Girl,"Crime, Drama, Mystery",85
+6.7,9.18,74,A Mighty Heart,"Biography, Drama, History",108
+5.8,14.45,31,Life or Something Like It,"Comedy, Romance",103
+6.3,,,The Extraordinary Adventures of Adèle Blanc-Sec,"Action, Adventure, Fantasy",107
+6.6,4.03,78,Please Give,"Comedy, Drama",87
+5.4,47.89,38,The Jungle Book 2,"Animation, Adventure, Family",72
+6.7,3.17,55,Resurrecting the Champ,"Drama, Sport",112
+5.5,3.53,33,Blood and Chocolate,"Drama, Fantasy, Horror",98
+6.1,,,In the Electric Mist,"Crime, Drama, Mystery",117
+5.2,,,Quarantine 2: Terminal,"Horror, Mystery, Sci-Fi",86
+5.4,22.16,15,Darkness,Horror,88
+5.4,15.28,24,Bangkok Dangerous,"Action, Crime, Thriller",99
+5.3,,26,The Haunting in Connecticut 2: Ghosts of Georgia,"Drama, Horror, Mystery",100
+5.3,25.08,36,Alpha and Omega,"Animation, Adventure, Comedy",90
+4.7,112.95,49,Dr. Dolittle 2,"Comedy, Family, Fantasy",87
+7.1,9.18,77,Get Low,"Drama, Mystery",103
+7.5,,,Red Dog,"Biography, Comedy, Drama",92
+6.0,13.26,25,American Outlaws,"Action, Western",94
+4.8,10.6,35,Primeval,"Action, Adventure, Crime",93
+5.7,0.17,50,A.C.O.D.,Comedy,88
+4.8,,,The Grudge 3,"Horror, Mystery, Thriller",90
+5.4,10.4,27,Head Over Heels,"Comedy, Mystery, Romance",86
+6.6,5.79,47,Luther,"Biography, Drama, History",123
+6.6,1.33,69,Thumbsucker,"Comedy, Drama",96
+7.0,7.74,65,Being Julia,"Comedy, Drama, Romance",104
+4.7,84.5,32,The Santa Clause 3: The Escape Clause,"Adventure, Comedy, Family",97
+6.3,0.43,41,The Limits of Control,"Crime, Drama, Mystery",116
+5.5,0.08,64,The Innkeepers,"Drama, Horror, Mystery",101
+5.3,6.56,12,Strange Wilderness,"Adventure, Comedy",87
+5.7,15.99,50,Armored,"Action, Crime, Thriller",88
+6.1,11.63,30,Knockaround Guys,"Crime, Drama, Thriller",92
+6.5,12.41,45,Evening,"Drama, Romance",117
+6.3,6.86,70,Cedar Rapids,Comedy,87
+5.5,56.39,30,White Noise,"Drama, Horror, Mystery",101
+6.2,0.1,43,360,"Drama, Thriller",110
+5.4,35.37,34,The Messengers,"Horror, Mystery, Thriller",90
+7.1,1.17,65,Find Me Guilty,"Biography, Comedy, Crime",125
+6.1,,24,Assault on Wall Street,"Action, Crime, Thriller",99
+6.4,0.06,52,The Nines,"Drama, Fantasy, Mystery",100
+4.2,46.75,32,Boogeyman,"Drama, Horror, Mystery",89
+7.0,0.1,46,The Magic of Belle Isle,"Comedy, Drama",109
+7.2,6.61,85,The Savages,"Comedy, Drama",113
+7.2,,,If Only,"Comedy, Drama, Fantasy",92
+6.6,0.01,34,The Ledge,"Drama, Romance, Thriller",101
+4.6,1.02,33,Skinwalkers,"Action, Fantasy, Horror",110
+5.0,60.02,34,Snow Day,"Adventure, Comedy, Family",89
+5.6,22.73,36,Dickie Roberts: Former Child Star,Comedy,98
+4.5,23.22,32,Agent Cody Banks 2: Destination London,"Action, Adventure, Comedy",100
+5.5,32.1,37,What's the Worst That Could Happen?,"Comedy, Crime",94
+6.8,1.62,53,Keeping Mum,"Comedy, Crime",99
+7.2,10.18,75,Win Win,"Comedy, Drama, Sport",106
+5.7,1.09,,What Just Happened,"Comedy, Drama",104
+5.1,,,Grave Encounters 2,Horror,95
+5.4,21.38,49,Mars Needs Moms,"Animation, Adventure, Family",88
+6.8,0.07,66,Behind the Mask: The Rise of Leslie Vernon,"Comedy, Horror, Thriller",92
+4.9,6.47,42,The Big Bounce,"Comedy, Crime",88
+4.8,12.84,31,They,"Horror, Mystery, Thriller",89
+5.9,8.66,34,My Life in Ruins,"Comedy, Romance",95
+6.9,,59,Dead Snow 2: Red vs. Dead,"Action, Comedy, Horror",100
+6.1,,49,Cleaner,"Crime, Mystery, Thriller",88
+7.2,2.28,56,Adam,"Drama, Romance",99
+6.7,0.24,44,Chaos Theory,"Comedy, Drama, Romance",87
+3.6,,,Stan Helsing,"Comedy, Horror",108
+5.9,17.8,44,School for Scoundrels,Comedy,100
+5.8,0.45,67,Last Days,"Drama, Music",97
+6.2,,28,Bunraku,"Action, Drama, Fantasy",124
+4.9,0.48,,Lovewrecked,"Adventure, Comedy, Romance",87
+3.5,25.62,40,Dance Flick,"Action, Comedy, Music",83
+7.1,1.15,68,Infamous,"Biography, Crime, Drama",110
+7.4,,70,The Yellow Sea,"Action, Drama, Thriller",136
+7.2,3.29,63,Things We Lost in the Fire,Drama,118
+4.9,9.66,38,I Don't Know How She Does It,"Comedy, Romance",89
+7.0,34.1,61,My Dog Skip,"Comedy, Drama, Family",95
+5.1,,,Cherry Falls,"Horror, Mystery, Thriller",92
+4.1,15.82,34,Devil's Due,"Horror, Mystery, Thriller",89
+6.7,0.97,49,Cassandra's Dream,"Crime, Drama, Romance",108
+7.1,0.82,45,Latter Days,"Comedy, Drama, Romance",107
+5.8,,42,The English Teacher,"Comedy, Drama",93
+5.3,13.56,15,Tomcats,Comedy,95
+6.1,,48,The Den,"Horror, Mystery, Thriller",81
+5.7,0.96,66,Diary of the Dead,"Fantasy, Horror, Thriller",95
+5.5,3.02,39,From Prada to Nada,"Comedy, Drama, Romance",107
+6.3,,,Powder Blue,Drama,106
+5.0,0.01,58,Universal Soldier: Day of Reckoning,"Action, Horror, Mystery",114
+7.3,9.59,58,The Express,"Biography, Drama, Sport",130
+6.6,1.1,,Loving Annabelle,"Drama, Romance",76
+7.1,0.77,68,Heaven,"Crime, Drama, Romance",97
+7.2,0.76,41,The Salton Sea,"Crime, Drama, Mystery",103
+5.8,104.01,59,Paranormal Activity 3,Horror,83
+5.1,40.04,20,A Haunted House,"Comedy, Fantasy",86
+6.0,1.24,55,"For a Good Time, Call...",Comedy,85
+6.4,0.53,53,Being Flynn,Drama,102
+6.5,0.02,66,Stake Land,"Drama, Horror, Sci-Fi",98
+6.6,4.43,60,Spartan,"Action, Crime, Drama",106
+5.2,,44,Rapture-Palooza,"Comedy, Fantasy",85
+6.7,30.13,41,When the Game Stands Tall,"Drama, Family, Sport",115
+5.8,,,Absentia,"Drama, Horror, Mystery",87
+6.0,0.02,,Killshot,"Crime, Drama, Thriller",95
+5.3,73.78,22,Christmas with the Kranks,"Comedy, Family",99
+5.7,,,The Contract,"Action, Crime, Drama",96
+3.3,2.33,9,Bucky Larson: Born to Be a Star,Comedy,97
+6.6,9.06,57,Dark Blue,"Crime, Drama, Thriller",118
+5.2,0.01,,Mutant Chronicles,"Action, Adventure, Sci-Fi",111
+5.3,0.0,61,Wrecked,"Adventure, Drama, Mystery",91
+5.7,0.12,64,Kaboom,"Comedy, Mystery, Romance",86
+5.7,4.75,28,Atlas Shrugged: Part I,"Drama, Mystery, Sci-Fi",97
+6.2,6.89,61,Willard,"Drama, Horror, Sci-Fi",100
+5.7,59.7,37,Son of God,"Biography, Drama, History",138
+7.0,2.68,80,Junebug,"Comedy, Drama",106
+7.8,7.0,91,The Triplets of Belleville,"Animation, Comedy, Drama",78
+6.3,,33,Open Grave,"Horror, Mystery, Thriller",102
+6.9,0.22,69,World's Greatest Dad,"Comedy, Drama",99
+6.5,3.83,54,Melinda and Melinda,"Comedy, Drama, Romance",99
+4.9,8.59,18,Boat Trip,Comedy,94
+6.3,0.12,56,Afflicted,"Horror, Mystery, Thriller",85
+6.8,0.38,71,Smashed,Drama,81
+6.8,,36,Last Love,"Comedy, Drama, Romance",111
+6.0,0.1,49,Henry's Crime,"Comedy, Crime, Drama",108
+5.3,12.37,23,Ready to Rumble,"Comedy, Sport",107
+6.8,7.5,52,The Curse of the Jade Scorpion,"Comedy, Crime, Mystery",103
+6.5,11.85,45,Extraordinary Measures,Drama,106
+7.5,0.04,52,Rudderless,"Comedy, Drama, Music",105
+5.7,,65,We Are Still Here,Horror,84
+6.1,16.28,47,Swing Vote,"Comedy, Drama",120
+6.9,,,The Life and Death of Peter Sellers,"Biography, Comedy, Drama",122
+6.1,13.73,66,The Tailor of Panama,"Comedy, Drama, Thriller",109
+5.9,55.75,38,Free Birds,"Animation, Adventure, Comedy",91
+5.8,1.38,38,Girl Most Likely,Comedy,103
+5.4,9.4,37,Fun Size,"Adventure, Comedy",86
+6.1,5.01,50,Birth,"Drama, Mystery, Romance",100
+5.8,48.43,49,Peter Pan II: Return to Neverland,"Animation, Adventure, Family",72
+5.2,22.11,38,The Medallion,"Action, Comedy, Fantasy",88
+5.3,0.0,,Meeting Evil,"Crime, Drama, Mystery",89
+6.9,32.7,59,Dreamer: Inspired by a True Story,"Drama, Family, Sport",106
+6.7,0.12,46,Reservation Road,"Crime, Drama, Thriller",102
+6.7,,,Shattered,"Crime, Drama, Mystery",95
+7.5,,,Ten Inch Hero,"Comedy, Drama, Romance",102
+6.4,11.17,52,Be Kind Rewind,Comedy,102
+6.0,0.11,55,Pathology,"Crime, Horror, Thriller",95
+5.6,13.28,48,Sugar & Spice,"Comedy, Crime",81
+6.6,0.41,67,Sound of My Voice,"Drama, Mystery, Sci-Fi",85
+7.7,,,Interstate 60: Episodes of the Road,"Adventure, Comedy, Drama",116
+5.9,5.76,49,Lucky You,"Drama, Romance, Sport",124
+5.5,,42,Good People,"Action, Crime, Thriller",90
+7.1,1.29,76,Iris,"Biography, Drama, Romance",91
+7.2,0.12,56,God Bless America,"Comedy, Crime",105
+6.2,3.76,58,Fading Gigolo,Comedy,90
+3.8,17.6,23,Furry Vengeance,"Comedy, Family",92
+6.2,32.6,45,Proof of Life,"Action, Drama, Thriller",135
+7.2,,65,11:14,"Comedy, Crime, Drama",86
+5.8,,54,The Pact,"Horror, Mystery, Thriller",89
+6.0,5.11,30,Grind,"Adventure, Comedy, Sport",105
+4.6,21.7,36,Biker Boyz,"Action, Drama",110
+5.8,0.01,71,Smiley Face,Comedy,85
+6.8,11.43,64,Something New,"Comedy, Drama, Romance",99
+6.2,,,Assassination Games,"Action, Crime, Drama",101
+5.5,37.75,24,Autumn in New York,"Drama, Romance",103
+4.8,12.18,31,Envy,Comedy,99
+5.9,0.36,46,The Oranges,"Comedy, Drama, Romance",90
+5.2,,47,Open Windows,"Crime, Thriller",100
+6.3,0.01,14,A Little Bit of Heaven,"Comedy, Drama, Fantasy",106
+6.4,0.0,37,Flypaper,"Comedy, Crime, Mystery",87
+6.2,0.24,54,Gerry,"Adventure, Drama, Mystery",103
+3.8,4.42,12,The Adventures of Pluto Nash,"Comedy, Action, Sci-Fi",95
+7.5,8.66,82,The Namesake,Drama,122
+5.6,139.24,48,The Santa Clause 2,"Comedy, Family, Fantasy",104
+7.0,4.68,72,Igby Goes Down,"Comedy, Drama",98
+7.6,4.57,88,Away from Her,Drama,110
+7.1,8.86,47,Everybody's Fine,"Adventure, Drama",99
+5.4,0.07,45,Intruders,"Fantasy, Horror, Thriller",100
+5.7,,57,The Hole,"Adventure, Fantasy, Thriller",92
+5.3,,,Edison,"Action, Crime, Drama",99
+3.0,13.24,13,Daddy Day Camp,"Comedy, Family",93
+6.3,0.06,53,The Art of the Steal,"Comedy, Crime, Thriller",90
+7.8,1.05,70,Joyeux Noel,"Drama, History, Music",116
+4.8,4.26,21,Van Wilder 2: The Rise of Taj,"Comedy, Romance",97
+7.3,4.22,85,Before Night Falls,"Biography, Drama, Romance",133
+5.9,0.02,52,Wind Chill,"Drama, Horror, Thriller",91
+6.8,0.05,48,The Perfect Host,"Comedy, Crime, Thriller",93
+1.9,,,Pledge This!,Comedy,91
+6.4,0.02,37,Love and Other Impossible Pursuits,Drama,102
+5.8,0.26,60,Life of Crime,"Comedy, Crime",98
+7.2,0.41,75,The Believer,Drama,98
+5.2,36.99,40,Clockstoppers,"Action, Adventure, Comedy",94
+6.0,48.01,55,Nim's Island,"Adventure, Comedy, Family",96
+6.5,11.6,57,The Last Kiss,"Comedy, Drama, Romance",104
+7.1,4.6,73,The Lookout,"Crime, Drama, Thriller",99
+5.7,,21,The Angriest Man in Brooklyn,"Comedy, Drama",83
+4.9,26.5,42,The Woman in Black 2: Angel of Death,"Drama, Horror, Thriller",98
+6.2,0.04,38,Seeking Justice,"Action, Crime, Drama",105
+8.0,0.66,50,The Stoning of Soraya M.,Drama,114
+5.9,57.01,35,Escape from Planet Earth,"Animation, Adventure, Comedy",89
+6.2,16.14,53,Vanity Fair,Drama,141
+6.5,16.93,61,Crazy/Beautiful,"Drama, Romance",99
+7.2,0.16,48,A Love Song for Bobby Long,Drama,119
+6.4,1.66,45,Factory Girl,"Biography, Drama",90
+6.1,36.28,49,The Sentinel,"Action, Crime, Thriller",108
+6.5,20.11,61,Big Miracle,"Biography, Drama, Romance",107
+4.7,0.02,43,The ABCs of Death,"Comedy, Horror",129
+4.6,2.76,24,The Pyramid,"Action, Adventure, Horror",89
+7.0,0.14,55,Tigerland,"Drama, War",101
+5.3,37.38,47,The Wild,"Animation, Adventure, Comedy",82
+7.4,18.81,72,Akeelah and the Bee,Drama,112
+7.5,6.0,90,American Splendor,"Biography, Comedy, Drama",101
+6.0,0.02,24,Sex and Death 101,"Comedy, Drama, Romance",117
+5.6,35.01,24,The Skulls,"Action, Crime, Drama",106
+4.7,2.63,24,Captivity,"Crime, Drama, Horror",96
+6.8,4.04,56,Bottle Shock,"Comedy, Drama",110
+7.2,0.0,64,Nothing But the Truth,"Crime, Drama, Mystery",108
+6.3,63.54,65,Hope Springs,"Comedy, Drama, Romance",100
+7.3,17.51,81,A Mighty Wind,"Comedy, Music",91
+6.2,22.83,58,Prime,"Comedy, Drama, Romance",105
+6.8,,52,Comet,"Comedy, Drama, Romance",91
+4.0,26.44,15,Book of Shadows: Blair Witch 2,"Adventure, Fantasy, Horror",90
+6.4,8.36,38,Death to Smoochy,"Comedy, Crime, Drama",109
+7.9,1.0,61,Cowboy Bebop: The Movie,"Animation, Action, Crime",115
+6.1,6.29,46,One Night at McCool's,"Comedy, Crime",93
+4.7,5.41,40,Monkeybone,"Animation, Comedy, Fantasy",93
+5.1,12.51,43,Freedomland,"Crime, Drama, Mystery",113
+5.3,20.42,36,Little Black Book,"Comedy, Romance, Drama",111
+5.4,,,Blood Creek,Horror,90
+7.8,15.54,76,In America,Drama,105
+5.5,21.8,57,Mr 3000,"Comedy, Drama, Romance",104
+5.8,38.92,53,Earth to Echo,"Adventure, Family, Sci-Fi",91
+6.2,7.25,55,Friends with Kids,"Comedy, Drama, Romance",107
+5.8,37.13,50,The Guilt Trip,"Comedy, Drama",95
+5.9,10.05,39,Cry Wolf,"Drama, Horror, Mystery",90
+5.4,50.03,50,Home on the Range,"Animation, Adventure, Comedy",76
+6.4,2.71,65,Everything Must Go,"Comedy, Drama",97
+6.5,0.07,56,Ned Kelly,"Action, Adventure, Biography",110
+5.3,61.36,44,Stomp the Yard,"Drama, Music, Romance",109
+6.2,0.02,61,Adult World,"Comedy, Drama",97
+6.8,4.44,69,The Company Men,Drama,104
+5.5,36.35,53,Beauty Shop,Comedy,105
+5.6,15.41,27,A Guy Thing,"Comedy, Romance",101
+3.6,40.07,37,You Got Served,"Drama, Music",95
+5.3,,,The New Daughter,"Horror, Thriller",108
+5.5,5.9,52,Casa de mi Padre,"Comedy, Western",84
+6.5,1.47,55,The Joneses,Drama,96
+5.9,20.34,47,Reno 911!: Miami,"Comedy, Crime",84
+6.3,,,The Rebound,"Comedy, Romance",95
+5.8,15.16,38,And So It Goes,"Comedy, Drama, Romance",94
+6.4,61.34,45,Rules of Engagement,"Drama, Thriller, War",128
+6.2,7.22,37,All the King's Men,"Drama, Thriller",128
+5.7,,36,Deadgirl,Horror,101
+4.3,43.59,30,Cats & Dogs: The Revenge of Kitty Galore,"Action, Comedy, Family",82
+4.8,43.75,37,Underdog,"Action, Adventure, Comedy",84
+5.9,32.12,37,Analyze That,"Comedy, Crime",96
+5.1,13.59,22,The Ladies Man,Comedy,84
+5.3,30.01,47,Hollywood Homicide,"Action, Comedy, Crime",116
+4.2,26.0,36,The Adventures of Rocky & Bullwinkle,"Animation, Adventure, Comedy",92
+5.9,0.08,71,We Are What We Are,"Drama, Horror, Thriller",105
+6.3,13.9,22,Out Cold,"Comedy, Sport",89
+5.9,21.52,51,Just Wright,"Comedy, Romance, Sport",100
+6.8,3.12,76,Obvious Child,"Comedy, Drama, Romance",84
+6.7,2.96,79,In a World...,Comedy,93
+6.2,22.86,50,Two for the Money,"Drama, Sport, Thriller",122
+6.3,0.54,55,Romance & Cigarettes,"Comedy, Musical, Romance",105
+6.8,0.16,47,Restless,"Drama, Romance",91
+2.2,4.27,14,Glitter,"Drama, Music, Romance",104
+4.0,26.88,24,One Missed Call,"Horror, Mystery",87
+7.0,8.24,69,The Cooler,"Crime, Drama, Fantasy",101
+5.4,33.56,35,I Spy,"Action, Adventure, Comedy",97
+6.0,7.92,37,Miracle at St. Anna,"Action, Crime, Drama",160
+5.3,23.44,23,Eight Crazy Nights,"Animation, Comedy, Musical",76
+5.9,18.44,26,A Thousand Words,"Comedy, Drama",91
+6.1,,,The Poughkeepsie Tapes,"Horror, Mystery, Thriller",81
+6.3,20.57,36,The Invisible,"Crime, Drama, Fantasy",102
+6.2,0.06,42,Trapped,"Action, Crime, Drama",106
+6.5,74.54,47,Ladder 49,"Action, Drama, Thriller",115
+6.4,4.3,64,Enigma,"Drama, Mystery, Romance",119
+5.0,28.43,37,Garfield 2,"Animation, Comedy, Family",82
+4.8,14.64,25,My Soul to Take,"Horror, Mystery, Thriller",107
+7.5,6.52,87,Maria Full of Grace,"Crime, Drama",101
+2.1,4.92,14,From Justin to Kelly,"Comedy, Musical, Romance",81
+6.5,0.19,60,Lonely Hearts,"Crime, Drama, Romance",108
+7.2,10.46,70,Narc,"Crime, Drama, Mystery",105
+6.7,10.17,48,The Great Raid,"Action, Drama, War",132
+5.7,84.75,53,Paranormal Activity 2,Horror,91
+5.9,0.49,40,Phantom,"Drama, History, Thriller",98
+6.9,0.52,65,Tetro,Drama,127
+7.0,1.78,66,Son of Rambow,"Action, Adventure, Comedy",96
+7.0,34.52,42,Courageous,Drama,129
+6.0,80.94,65,Jimmy Neutron: Boy Genius,"Animation, Action, Adventure",82
+7.4,6.42,30,Little Boy,"Drama, History, War",106
+7.1,0.07,77,The Messenger,"Drama, Romance, War",113
+5.7,65.11,59,Barbershop 2: Back in Business,"Comedy, Drama",106
+6.3,,34,Mother's Day,"Drama, Horror, Thriller",112
+4.2,53.26,18,The Devil Inside,Horror,83
+5.9,20.98,47,The X Files: I Want to Believe,"Drama, Horror, Mystery",104
+6.4,0.01,24,Just Before I Go,"Comedy, Drama",95
+5.6,41.03,63,The Last Exorcism,"Drama, Horror, Thriller",87
+6.7,0.06,63,Cheap Thrills,"Comedy, Crime, Drama",88
+5.6,,45,Tracers,"Action, Crime, Drama",94
+6.0,77.27,36,Parental Guidance,"Comedy, Family",105
+5.1,81.17,29,Snow Dogs,"Adventure, Comedy, Family",99
+6.3,0.17,36,My Name Is Bruce,"Comedy, Fantasy, Horror",84
+6.5,4.43,32,Beyond Borders,"Adventure, Drama, Romance",127
+6.5,18.31,49,The Four Feathers,"Adventure, Drama, Romance",132
+6.5,2.93,47,Choke,"Comedy, Drama",92
+5.2,3.29,31,Pootie Tang,"Action, Adventure, Comedy",81
+5.2,25.2,26,Twisted,"Crime, Drama, Mystery",97
+7.0,33.23,74,Breach,"Biography, Crime, Drama",110
+6.5,0.05,61,Margaret,Drama,150
+5.6,,47,The Town That Dreaded Sundown,"Horror, Mystery, Thriller",86
+5.5,38.08,32,Showtime,"Action, Comedy, Crime",95
+7.1,3.33,67,Robot & Frank,"Comedy, Crime, Drama",89
+6.8,9.74,55,Rendition,"Drama, Thriller",122
+6.4,72.71,62,The Interpreter,"Crime, Mystery, Thriller",128
+5.5,40.08,33,Collateral Damage,"Action, Drama, Thriller",108
+5.0,,25,Welcome to the Jungle,"Action, Adventure, Comedy",95
+6.1,0.01,49,Welcome to the Punch,"Action, Crime, Thriller",99
+7.4,9.02,66,Transamerica,"Adventure, Comedy, Drama",103
+5.6,16.09,54,Imagine That,"Comedy, Drama, Family",107
+7.3,3.96,40,Peaceful Warrior,"Drama, Romance, Sport",120
+5.1,41.82,30,Exorcist: The Beginning,"Horror, Mystery, Thriller",114
+7.5,1.71,58,Everything Is Illuminated,"Comedy, Drama",106
+6.0,31.2,56,Leatherheads,"Comedy, Drama, Romance",114
+6.4,4.61,43,Love in the Time of Cholera,"Drama, Romance",139
+4.6,53.92,40,Paranormal Activity 4,Horror,88
+6.0,0.07,26,No One Lives,"Horror, Thriller",86
+7.8,5.13,68,The World's Fastest Indian,"Biography, Drama, Sport",127
+5.6,12.23,38,12 Rounds,"Action, Crime, Mystery",108
+6.1,10.97,31,Antitrust,"Action, Crime, Drama",105
+6.7,1.57,72,Your Sister's Sister,"Comedy, Drama",90
+5.1,1.71,38,The Vatican Tapes,"Horror, Thriller",91
+4.6,22.26,23,Deuce Bigalow: European Gigolo,Comedy,83
+5.7,23.36,37,Reindeer Games,"Action, Adventure, Crime",104
+6.6,3.09,59,Celeste & Jesse Forever,"Comedy, Drama, Romance",92
+7.1,,31,The Road Within,"Comedy, Drama",100
+6.4,,49,The Private Lives of Pippa Lee,"Comedy, Drama, Romance",98
+4.2,33.64,30,Marmaduke,"Comedy, Family",87
+6.5,,,Chaos,"Action, Crime, Drama",106
+6.7,7.76,57,Bad Words,"Comedy, Drama",89
+6.4,38.36,52,Last Holiday,Comedy,112
+5.0,32.46,42,Paranormal Activity: The Marked Ones,"Horror, Thriller",84
+6.7,0.87,52,My Blueberry Nights,"Drama, Romance",95
+6.9,24.19,55,Hearts in Atlantis,"Drama, Mystery",101
+4.4,37.92,22,"Big Mommas: Like Father, Like Son","Action, Comedy, Crime",107
+7.4,2.72,65,The Good Lie,"Biography, Drama",110
+6.4,0.23,63,The Foot Fist Way,Comedy,85
+4.5,18.01,22,Postal,"Action, Comedy, Thriller",100
+5.8,15.53,55,All the Pretty Horses,"Drama, Romance, Western",116
+5.9,0.01,58,Southbound,"Fantasy, Horror, Thriller",89
+6.3,3.25,51,You Will Meet a Tall Dark Stranger,"Comedy, Drama, Romance",98
+6.0,59.17,48,Planes: Fire & Rescue,"Animation, Adventure, Comedy",83
+5.2,,,And Soon the Darkness,"Crime, Horror, Mystery",91
+7.5,21.21,65,Amazing Grace,"Biography, Drama, History",118
+6.2,,51,The Rewrite,"Comedy, Romance",107
+4.7,90.19,47,"Legally Blonde 2: Red, White & Blonde",Comedy,95
+4.9,11.8,43,Meet Dave,"Adventure, Comedy, Family",90
+6.5,66.82,69,Changing Lanes,"Drama, Thriller",98
+7.2,6.78,61,Conviction,"Biography, Drama",107
+5.8,55.18,54,Why Did I Get Married?,"Comedy, Drama",113
+6.7,3.01,57,Albert Nobbs,"Drama, Romance",113
+6.3,,,Prozac Nation,"Biography, Drama, Romance",95
+4.6,4.69,15,College,Comedy,94
+6.2,0.07,40,Butter,Comedy,90
+5.0,19.69,21,Summer Catch,"Comedy, Drama, Romance",108
+5.0,9.06,31,First Daughter,"Comedy, Drama, Romance",106
+6.8,0.22,45,Happythankyoumoreplease,"Comedy, Drama, Romance",100
+5.2,17.69,24,Apollo 18,"Horror, Mystery, Sci-Fi",86
+5.7,,37,After the Dark,"Drama, Fantasy, Sci-Fi",107
+2.0,9.11,9,Superbabies: Baby Geniuses 2,"Comedy, Family, Sci-Fi",88
+4.1,,45,Zombie Strippers,"Comedy, Horror, Sci-Fi",94
+7.0,0.52,67,A Guide to Recognizing Your Saints,"Crime, Drama",100
+5.7,0.09,56,Knights of Badassdom,"Adventure, Comedy, Fantasy",86
+6.3,,54,David Brent: Life on the Road,"Comedy, Music",96
+5.9,0.07,53,Beowulf & Grendel,"Action, Adventure, Drama",103
+6.2,32.06,48,Mr. Magorium's Wonder Emporium,"Comedy, Family, Fantasy",93
+5.8,,46,Extinction,"Drama, Horror, Sci-Fi",112
+6.8,2.27,68,The East,"Adventure, Drama, Thriller",116
+6.4,32.13,49,Final Fantasy: The Spirits Within,"Animation, Action, Adventure",106
+6.8,36.79,56,The Brave One,"Crime, Drama, Thriller",122
+5.5,23.02,40,Bulletproof Monk,"Action, Comedy, Fantasy",104
+6.7,13.21,72,Ghost Town,"Comedy, Drama, Fantasy",102
+6.2,40.57,69,Duplicity,"Comedy, Crime, Romance",125
+6.0,41.85,39,Nights in Rodanthe,"Drama, Romance",97
+6.6,0.72,60,Middle Men,"Comedy, Crime, Drama",105
+5.0,19.3,31,Cursed,"Comedy, Horror",97
+5.9,,52,The Tall Man,"Crime, Drama, Horror",106
+6.6,33.46,28,Fireproof,"Drama, Romance",122
+6.7,6.98,77,Grandma,"Comedy, Drama",79
+7.2,1.73,,Che: Part One,"Biography, Drama, History",134
+6.7,3.5,51,Feast of Love,"Drama, Romance",97
+6.2,6.75,52,Running with Scissors,"Comedy, Drama",116
+7.2,,71,Copenhagen,"Adventure, Drama, Romance",98
+4.9,21.38,37,Cold Creek Manor,"Horror, Mystery, Thriller",118
+5.7,,32,The Forger,"Crime, Drama, Thriller",92
+6.4,0.38,29,The Quiet,"Crime, Drama, Horror",96
+6.4,3.2,43,Anything Else,"Comedy, Romance",108
+5.3,32.84,38,Balls of Fury,"Comedy, Crime, Sport",90
+6.7,70.53,59,The Best Man Holiday,"Comedy, Drama",123
+5.6,,14,The Accidental Husband,"Comedy, Romance",90
+5.3,28.93,22,The Watcher,"Crime, Horror, Mystery",97
+6.1,,,The Tournament,"Action, Thriller",95
+5.6,,34,The Lifeguard,"Drama, Romance",98
+6.7,8.82,78,The Deep End,"Crime, Drama, Mystery",101
+6.4,0.39,74,Ain't Them Bodies Saints,"Crime, Drama, Romance",96
+6.4,5.13,57,The Company You Keep,"Drama, Thriller",125
+7.5,0.04,58,Felon,"Crime, Drama",104
+3.7,15.22,14,Dungeons & Dragons,"Action, Adventure, Fantasy",107
+6.1,0.1,52,Man of Tai Chi,"Action, Drama",105
+7.4,,,Speak,Drama,89
+7.6,2.53,77,Sin Nombre,"Adventure, Crime, Drama",96
+7.3,0.32,62,Wristcutters: A Love Story,"Comedy, Drama, Fantasy",88
+5.0,32.55,23,Darkness Falls,"Fantasy, Horror, Mystery",86
+5.7,30.21,30,The Art of War,"Action, Adventure, Crime",117
+7.0,2.98,57,Miss Potter,"Biography, Drama",88
+5.6,16.73,29,New in Town,"Comedy, Romance",97
+5.4,,22,Home Sweet Hell,"Comedy, Crime, Thriller",98
+6.2,60.48,58,Shanghai Knights,"Action, Adventure, Comedy",114
+5.7,18.0,48,Admission,"Comedy, Drama, Romance",107
+6.1,27.34,32,Someone Like You...,"Comedy, Romance",97
+6.5,,55,Hours,"Drama, Thriller",97
+4.8,14.22,19,Supernova,"Horror, Sci-Fi, Thriller",90
+7.5,,,Keith,"Drama, Romance",93
+3.6,,,S. Darko,"Mystery, Sci-Fi, Thriller",103
+2.0,10.25,15,House of the Dead,"Action, Adventure, Horror",90
+6.1,4.22,76,Greenberg,"Comedy, Drama, Romance",107
+6.5,45.49,66,In Good Company,"Comedy, Drama, Romance",109
+4.6,18.3,30,Paranormal Activity: The Ghost Dimension,Horror,88
+7.1,3.15,74,Two Lovers,"Drama, Romance",110
+4.5,0.02,19,Bitch Slap,"Action, Comedy, Crime",109
+7.0,8.59,49,An Unfinished Life,"Drama, Romance",108
+6.3,19.98,54,Assault on Precinct 13,"Action, Crime, Drama",109
+6.1,69.69,45,The Kid,"Comedy, Family, Fantasy",104
+5.4,10.23,29,Pathfinder,"Action, Adventure, Drama",99
+5.5,8.46,43,MacGruber,"Action, Comedy, Romance",90
+5.6,,,The Butterfly Effect 3: Revelations,"Crime, Sci-Fi, Thriller",90
+6.3,19.08,49,Hart's War,"Drama, War",125
+6.9,8.29,71,Shadow of the Vampire,"Drama, Horror",92
+6.9,52.28,38,Radio,"Biography, Drama, Sport",109
+6.1,,29,13,"Drama, Thriller",91
+7.8,3.03,85,Hedwig and the Angry Inch,"Comedy, Drama, Music",95
+5.9,28.17,47,The Prince and Me,"Comedy, Family, Romance",111
+6.5,0.26,43,Under Suspicion,"Crime, Drama, Thriller",110
+6.1,57.89,47,Shall We Dance,"Comedy, Drama, Music",106
+4.7,20.38,18,Valentine,"Horror, Mystery, Thriller",96
+6.7,2.46,75,Mistress America,"Comedy, Drama",84
+5.0,22.46,39,Fame,"Comedy, Drama, Musical",107
+6.6,0.01,24,London,"Drama, Romance",92
+5.9,23.07,42,Sanctum,"Adventure, Drama, Thriller",108
+4.3,90.49,50,Madea Goes to Jail,"Comedy, Crime, Drama",103
+6.4,0.88,58,The Yards,"Crime, Drama, Romance",115
+6.3,28.33,38,After the Sunset,"Action, Comedy, Crime",97
+6.0,,,Thick as Thieves,"Action, Crime, Thriller",104
+5.3,0.0,48,Contracted,"Drama, Horror, Thriller",84
+6.7,0.21,69,Starter for 10,"Comedy, Drama, Romance",92
+7.2,2.22,73,Shattered Glass,"Drama, History",94
+1.8,,,Birdemic: Shock and Terror,"Horror, Romance, Thriller",105
+6.1,0.02,49,V/H/S/2,"Horror, Thriller",96
+3.3,,,The Starving Games,Comedy,83
+5.5,64.96,66,Stuart Little 2,"Animation, Adventure, Comedy",77
+6.3,0.07,52,Deadfall,"Crime, Drama, Thriller",95
+5.1,0.65,42,Alex Rider: Operation Stormbreaker,"Action, Adventure, Family",93
+7.7,9.18,85,You Can Count on Me,Drama,111
+6.5,41.58,60,Bandits,"Comedy, Crime, Drama",123
+5.4,73.03,51,Hotel for Dogs,"Comedy, Family",100
+6.2,13.4,49,Alfie,"Comedy, Drama, Romance",103
+6.3,20.22,45,Country Strong,"Drama, Music",117
+3.6,7.5,16,I Know Who Killed Me,"Crime, Mystery, Thriller",105
+3.0,18.99,14,Rollerball,"Action, Sci-Fi, Sport",98
+6.2,7.2,53,The Big Year,Comedy,100
+5.3,0.05,28,The Bag Man,"Crime, Drama, Thriller",108
+4.8,33.42,32,Black Knight,"Adventure, Comedy, Fantasy",95
+6.0,69.6,48,Divine Secrets of the Ya-Ya Sisterhood,Drama,116
+6.7,34.74,55,Take the Lead,"Drama, Music",118
+6.7,0.14,32,Repo! The Genetic Opera,"Horror, Musical, Sci-Fi",98
+5.8,0.97,70,Rampart,"Crime, Drama",108
+6.2,6.6,55,Bride & Prejudice,"Comedy, Drama, Musical",122
+6.3,17.8,51,Going the Distance,"Comedy, Romance",102
+3.7,8.74,17,Street Fighter: The Legend of Chun-Li,"Action, Crime, Thriller",96
+5.5,0.7,66,The Girlfriend Experience,Drama,77
+8.1,4.44,90,Persepolis,"Animation, Biography, Drama",96
+7.0,0.38,45,Hesher,"Comedy, Drama",106
+6.7,12.78,55,I Heart Huckabees,Comedy,107
+4.2,,30,Area 51,"Horror, Sci-Fi, Thriller",91
+5.0,0.3,20,The Informers,"Crime, Drama, Thriller",98
+6.8,5.28,74,The Skeleton Twins,"Comedy, Drama, Romance",93
+6.3,5.38,57,The Human Stain,"Drama, Romance, Thriller",106
+6.4,1.11,64,The Rover,"Action, Crime, Drama",103
+6.9,27.81,27,The Majestic,"Drama, Romance",152
+6.2,16.03,14,Kung Pow: Enter the Fist,"Action, Comedy",81
+6.5,58.64,62,Curious George,"Animation, Adventure, Comedy",87
+6.6,36.88,63,16 Blocks,"Action, Crime, Drama",102
+6.6,33.08,51,The Second Best Exotic Marigold Hotel,"Comedy, Drama",122
+6.6,1.43,36,The Art of Getting By,"Drama, Romance",83
+7.7,0.87,78,Control,"Biography, Drama, Music",122
+5.9,,37,The Double,"Action, Crime, Drama",98
+6.0,,49,Starry Eyes,"Drama, Fantasy, Horror",98
+5.6,35.76,31,National Security,"Action, Comedy, Crime",88
+5.7,0.16,57,Hatchet,"Comedy, Horror",85
+4.7,17.33,17,A Haunted House 2,"Comedy, Fantasy",86
+6.1,50.88,53,The Tale of Despereaux,"Animation, Adventure, Comedy",93
+4.2,22.76,30,The Gallows,"Horror, Thriller",81
+4.9,66.96,35,102 Dalmatians,"Adventure, Comedy, Family",100
+5.3,48.48,46,The Dilemma,"Comedy, Drama",111
+6.4,24.81,60,Our Idiot Brother,"Comedy, Drama",90
+5.9,19.22,34,My Best Friend's Girl,"Comedy, Romance",101
+6.2,42.07,56,Fever Pitch,"Comedy, Drama, Romance",104
+5.5,51.76,39,Exit Wounds,"Action, Comedy, Crime",101
+6.0,0.25,75,Night Moves,"Action, Drama, Thriller",112
+6.6,0.16,81,Experimenter,"Biography, Drama, History",98
+7.2,1.59,71,Nicholas Nickleby,"Adventure, Drama, Romance",132
+6.4,0.14,53,John Dies at the End,"Comedy, Horror, Sci-Fi",99
+5.8,0.02,28,The Divide,"Drama, Horror, Sci-Fi",112
+5.8,66.64,43,The Forgotten,"Drama, Horror, Mystery",91
+6.5,0.05,66,Heist,"Action, Crime, Drama",109
+7.1,,,In Your Eyes,"Fantasy, Romance",106
+4.6,29.33,33,Confessions of a Teenage Drama Queen,"Comedy, Family, Music",89
+7.0,8.6,77,Pollock,"Biography, Drama",122
+5.5,,60,They Came Together,"Comedy, Romance",83
+4.8,,,Tarzan,"Animation, Adventure, Drama",94
+7.2,4.33,78,Much Ado About Nothing,"Comedy, Drama, Romance",109
+6.9,1.0,52,Goya's Ghosts,"Biography, Drama, History",113
+5.0,,38,Extraterrestrial,"Horror, Sci-Fi",101
+6.0,22.41,47,The Alamo,"Drama, History, War",137
+2.3,5.18,9,Alone in the Dark,"Action, Horror, Sci-Fi",96
+7.3,2.99,82,The End of the Tour,"Biography, Drama",106
+5.4,20.63,29,Boys and Girls,"Comedy, Drama, Romance",94
+5.9,43.89,46,Must Love Dogs,"Comedy, Romance",98
+5.8,,36,Special Correspondents,Comedy,101
+6.5,30.17,43,Riding in Cars with Boys,"Biography, Comedy, Drama",132
+6.9,31.04,60,Calendar Girls,"Comedy, Drama",108
+5.6,16.47,28,The Hitcher,"Action, Crime, Horror",84
+4.1,4.93,18,The Apparition,"Horror, Thriller",82
+5.7,13.1,27,Playing for Keeps,"Comedy, Romance, Sport",105
+5.8,33.83,62,Stuck on You,Comedy,118
+6.2,0.01,52,London Boulevard,"Crime, Drama",103
+6.8,0.41,41,Spun,"Comedy, Crime, Drama",101
+4.2,1.89,24,A Sound of Thunder,"Action, Adventure, Horror",101
+6.2,,42,Ironclad,"Action, Adventure, Drama",121
+6.3,,,It's a Boy Girl Thing,"Comedy, Fantasy, Romance",95
+5.9,0.02,30,Kill Me Three Times,"Comedy, Crime, Thriller",90
+5.8,91.44,47,Heaven Is for Real,"Biography, Drama, Family",99
+6.6,0.02,37,Paper Man,"Comedy, Drama",110
+5.3,2.99,41,The Other Side of the Door,Horror,96
+5.8,20.67,41,Mad Money,"Comedy, Crime, Thriller",104
+7.0,8.2,65,Cadillac Records,"Biography, Drama, Music",109
+6.3,0.73,36,Party Monster,"Biography, Crime, Drama",98
+5.0,39.14,33,The Grudge 2,"Horror, Thriller",102
+7.0,1.43,64,Infinitely Polar Bear,"Comedy, Drama, Romance",90
+5.8,25.48,34,All About the Benjamins,"Action, Comedy, Crime",95
+7.0,23.53,60,Traitor,"Action, Crime, Drama",114
+5.5,0.3,43,Stolen,"Action, Crime, Drama",96
+6.5,4.24,60,"Jeff, Who Lives at Home","Comedy, Drama",83
+5.3,0.1,42,D.E.B.S.,"Action, Comedy, Romance",91
+5.6,,,Fire with Fire,"Action, Crime, Drama",97
+7.1,1.97,65,Coffee and Cigarettes,"Comedy, Drama, Music",95
+6.3,1.77,67,Somewhere,"Comedy, Drama",97
+5.9,10.41,33,Raise Your Voice,"Family, Music, Romance",103
+6.9,0.52,54,The Reluctant Fundamentalist,"Drama, Thriller",130
+5.9,43.91,25,The One,"Action, Sci-Fi, Thriller",87
+5.7,0.05,49,Texas Killing Fields,"Action, Crime, Drama",105
+7.6,37.71,77,Philomena,"Biography, Drama",98
+6.2,25.27,43,Jersey Girl,"Comedy, Drama, Romance",102
+6.8,50.84,61,The Boxtrolls,"Animation, Adventure, Comedy",96
+6.6,52.8,56,The Recruit,"Action, Drama, Mystery",115
+5.8,28.14,59,The Ant Bully,"Animation, Adventure, Comedy",88
+6.3,19.55,53,Astro Boy,"Animation, Action, Comedy",94
+6.9,14.62,73,Beyond the Lights,"Drama, Music, Romance",116
+5.1,15.03,17,See No Evil,"Action, Horror, Thriller",84
+7.4,,56,You're Not You,Drama,102
+5.6,72.78,42,Barnyard,"Animation, Comedy, Family",90
+5.5,,,Havoc,"Crime, Drama",85
+6.9,72.29,64,Dolphin Tale,"Drama, Family",113
+5.6,35.92,36,The Pink Panther 2,"Adventure, Comedy, Crime",92
+6.3,1.59,49,"New York, I Love You","Comedy, Drama, Romance",103
+5.6,0.08,50,Life After Beth,"Comedy, Horror, Romance",89
+6.7,0.42,62,Seraphim Falls,"Action, Drama, Thriller",115
+5.4,31.42,36,The Eye,"Horror, Mystery, Thriller",98
+4.8,57.74,43,The Animal,"Comedy, Sci-Fi",84
+6.2,16.02,53,O,"Drama, Romance, Thriller",95
+5.9,16.93,17,88 Minutes,"Crime, Drama, Mystery",108
+6.7,0.97,60,The Beaver,Drama,91
+4.5,32.62,29,Driven,"Action, Drama, Sport",116
+5.6,0.03,65,The Bay,"Horror, Sci-Fi, Thriller",84
+4.4,66.93,16,Kangaroo Jack,"Action, Adventure, Comedy",89
+7.0,36.45,56,Million Dollar Arm,"Biography, Drama, Sport",124
+5.4,,58,The Trust,"Crime, Drama, Thriller",92
+4.4,10.49,22,Getaway,"Action, Crime, Thriller",90
+7.1,0.12,52,5 to 7,"Comedy, Drama, Romance",95
+6.4,0.65,51,Parkland,"Drama, History, Mystery",93
+6.1,,58,Splinter,"Horror, Sci-Fi, Thriller",82
+7.0,35.29,74,Frankenweenie,"Animation, Comedy, Family",87
+4.4,61.12,43,The Shaggy Dog,"Comedy, Family, Fantasy",98
+7.5,8.06,69,The Painted Veil,"Drama, Romance",125
+7.7,9.42,79,The Visitor,Drama,104
+4.7,70.17,34,Big Momma's House 2,"Comedy, Crime",99
+7.2,6.78,65,In the Valley of Elah,"Crime, Drama, Mystery",121
+8.0,5.99,92,The Diving Bell and the Butterfly,"Biography, Drama",112
+4.6,12.8,21,Highlander: Endgame,"Action, Adventure, Fantasy",87
+5.8,64.25,37,The Nut Job,"Animation, Adventure, Comedy",85
+5.4,,37,Jessabelle,"Horror, Thriller",90
+4.4,123.31,38,Nutty Professor II: The Klumps,"Comedy, Romance, Sci-Fi",106
+6.7,31.05,,The Pirates! Band of Misfits,"Animation, Adventure, Comedy",88
+5.8,34.6,36,Cradle 2 the Grave,"Action, Crime, Drama",101
+6.8,9.53,69,Fair Game,"Biography, Drama, Thriller",108
+4.8,,,Flight 7500,"Horror, Mystery, Sci-Fi",97
+6.0,68.22,53,Mr. Popper's Penguins,"Comedy, Family, Fantasy",94
+4.6,,19,The Prince,"Action, Thriller",93
+3.8,94.51,41,Beverly Hills Chihuahua,"Adventure, Comedy, Drama",91
+7.4,15.85,84,Far from Heaven,Drama,107
+6.9,28.56,59,We Own the Night,"Crime, Drama, Thriller",117
+6.7,0.44,81,Upstream Color,"Drama, Sci-Fi",96
+4.6,16.24,22,Black Christmas,Horror,84
+6.8,3.52,55,The Brothers Bloom,"Adventure, Comedy, Drama",114
+6.2,15.0,47,Lions for Lambs,"Drama, Thriller, War",92
+5.7,93.61,44,America's Sweethearts,"Comedy, Romance",102
+4.2,6.77,36,Thunderbirds,"Action, Adventure, Comedy",95
+7.2,0.3,73,Thirst,"Drama, Horror, Romance",135
+5.9,18.88,25,Georgia Rule,"Comedy, Drama",113
+6.3,,65,Deathgasm,"Action, Comedy, Horror",86
+5.4,19.7,35,Man of the House,"Comedy, Crime",100
+4.4,26.87,37,xXx: State of the Union,"Action, Adventure, Crime",101
+6.2,0.51,66,The Two Faces of January,"Romance, Thriller",96
+6.6,7.02,72,Kissing Jessica Stein,"Comedy, Drama, Romance",97
+5.1,23.09,24,Stay Alive,"Fantasy, Horror, Sci-Fi",85
+7.5,15.65,45,Life as a House,Drama,125
+6.8,137.86,55,A Christmas Carol,"Animation, Drama, Family",96
+6.7,,63,Tallulah,"Comedy, Drama, Romance",111
+6.4,0.05,43,Feast,"Action, Comedy, Horror",95
+6.6,12.48,61,The Weather Man,"Comedy, Drama",102
+6.4,0.1,73,The House of the Devil,Horror,95
+6.8,9.53,36,Death Sentence,"Action, Crime, Thriller",105
+6.0,15.27,43,Catch and Release,"Comedy, Drama, Romance",124
+6.5,14.38,33,Awake,"Crime, Drama, Mystery",84
+6.5,20.28,66,Premium Rush,"Action, Crime, Sport",91
+7.4,50.34,49,K-PAX,"Drama, Sci-Fi",120
+4.6,32.24,40,Anacondas: The Hunt for the Blood Orchid,"Action, Adventure, Horror",97
+6.2,12.4,58,Undisputed,"Action, Crime, Drama",94
+5.4,76.23,44,The Ring Two,"Horror, Mystery, Thriller",110
+7.8,4.23,76,The Lunchbox,"Drama, Romance",104
+6.3,,32,The Good Neighbor,"Crime, Drama, Thriller",98
+6.8,10.01,48,Penelope,"Comedy, Fantasy, Romance",104
+6.1,24.4,34,15 Minutes,"Action, Crime, Drama",120
+5.2,,,Empire State,"Action, Crime, Drama",94
+6.1,48.64,62,About Last Night,"Comedy, Romance",100
+5.4,53.41,38,"Yours, Mine & Ours","Comedy, Family, Fantasy",88
+6.2,,,The Lazarus Project,"Drama, Horror, Mystery",100
+6.3,12.87,30,Gods and Generals,"Biography, Drama, History",219
+6.4,0.02,60,Breathe In,"Drama, Romance",98
+8.1,0.01,33,Elite Squad,"Action, Crime, Drama",115
+6.5,0.09,45,Mean Machine,"Comedy, Crime, Drama",99
+4.3,,,Wrong Turn 6: Last Resort,Horror,91
+7.1,43.55,53,We Are Marshall,"Drama, Sport",131
+6.2,39.8,56,The Ladykillers,"Comedy, Crime, Thriller",104
+5.6,30.31,48,The Banger Sisters,"Comedy, Drama",98
+5.4,0.03,25,Killing Season,"Action, Drama, Thriller",91
+5.4,10.21,32,Unfinished Business,Comedy,91
+7.3,21.08,62,Antwone Fisher,"Biography, Drama",120
+6.9,0.07,54,Puncture,"Biography, Drama",100
+4.8,33.86,17,All About Steve,"Comedy, Romance",99
+6.1,0.0,23,The Condemned,"Action, Crime, Thriller",113
+5.6,22.93,33,Love Happens,"Drama, Romance",109
+6.5,0.22,50,Fur: An Imaginary Portrait of Diane Arbus,"Biography, Drama, Romance",122
+7.1,1.82,57,Kinky Boots,"Comedy, Drama, Music",107
+7.1,3.77,63,The Merchant of Venice,"Drama, Romance",131
+6.0,27.69,30,Saw VI,"Horror, Mystery, Thriller",90
+7.2,16.35,61,White Oleander,Drama,109
+6.8,42.65,47,Max,"Adventure, Drama, Family",111
+5.1,25.89,30,Alex Cross,"Action, Crime, Mystery",101
+5.0,51.98,26,Temptation: Confessions of a Marriage Counselor,"Drama, Thriller",111
+6.8,0.2,45,The Burning Plain,"Crime, Drama, Romance",107
+4.4,,,Setup,"Action, Crime, Drama",85
+4.3,,,Cabin Fever 2: Spring Fever,Horror,86
+7.3,12.8,86,Beasts of the Southern Wild,"Adventure, Drama, Fantasy",93
+5.8,32.98,35,Friday After Next,"Comedy, Drama",85
+5.6,19.32,36,Runner Runner,"Crime, Thriller",88
+5.2,25.93,37,Shutter,"Horror, Mystery, Thriller",85
+6.9,0.01,54,Camp X-Ray,"Drama, War",117
+5.6,24.04,56,Don't Be Afraid of the Dark,"Fantasy, Horror, Thriller",99
+6.4,37.05,60,Keeping the Faith,"Comedy, Drama, Romance",128
+5.1,34.31,43,Malibu's Most Wanted,"Comedy, Crime",86
+6.2,41.03,48,Orange County,"Comedy, Drama",82
+5.1,11.96,24,Sorority Row,"Horror, Mystery",101
+5.1,14.97,24,Get Carter,"Action, Crime, Drama",102
+5.6,25.47,52,Dark Water,"Drama, Horror, Thriller",105
+6.5,33.31,66,The Informant!,"Biography, Comedy, Crime",108
+6.5,,50,Time Lapse,"Sci-Fi, Thriller",104
+7.4,7.36,82,The Squid and the Whale,"Comedy, Drama",81
+7.5,56.11,87,The Curse of the Were-Rabbit,"Animation, Adventure, Comedy",85
+6.9,32.66,54,Return to Me,"Comedy, Drama, Romance",115
+6.8,0.0,70,Ginger Snaps,"Drama, Fantasy, Horror",108
+5.8,35.42,46,The Ringer,"Comedy, Sport",94
+6.8,0.41,73,Cold in July,"Crime, Thriller",109
+5.3,6.37,35,Post Grad,"Comedy, Romance",88
+6.7,30.7,47,The Legend of Bagger Vance,"Drama, Fantasy, Sport",126
+5.1,119.44,41,G-Force,"Animation, Action, Adventure",88
+5.9,19.35,22,Saving Silverman,"Comedy, Crime, Romance",90
+5.4,1.8,58,Stone,"Drama, Thriller",105
+7.2,26.69,74,Winnie the Pooh,"Animation, Adventure, Comedy",63
+7.0,2.23,76,Rabbit Hole,Drama,91
+6.3,35.33,71,Intolerable Cruelty,"Comedy, Crime, Romance",100
+4.1,30.35,19,Halloween: Resurrection,"Comedy, Horror, Thriller",94
+5.0,,,So Undercover,"Action, Comedy",94
+6.4,,,Hidden,"Horror, Thriller",84
+6.7,10.53,48,Scoop,"Comedy, Crime, Mystery",96
+6.7,10.18,38,Facing the Giants,"Drama, Sport",111
+6.0,24.38,55,Ice Princess,"Comedy, Drama, Family",98
+7.5,31.5,80,"Good Night, and Good Luck.","Biography, Drama, History",93
+4.8,,,Tekken,"Action, Crime, Drama",92
+5.4,,69,The Monster,"Drama, Fantasy, Horror",91
+7.3,0.6,74,Mean Creek,"Crime, Drama",90
+5.5,12.55,49,I Think I Love My Wife,"Comedy, Drama, Romance",90
+7.0,1.12,29,Hector and the Search for Happiness,"Adventure, Comedy, Drama",114
+7.2,6.0,45,Chasing Mavericks,"Biography, Drama, Sport",116
+6.6,52.7,51,Diary of a Wimpy Kid: Rodrick Rules,"Comedy, Family",99
+4.9,14.02,33,New York Minute,"Comedy, Crime, Family",91
+6.8,0.54,43,Machine Gun Preacher,"Action, Biography, Crime",129
+5.5,16.25,27,The Perfect Man,"Comedy, Family, Romance",100
+6.7,0.15,58,May,"Drama, Horror",93
+4.2,,17,Vice,"Action, Adventure, Sci-Fi",96
+6.8,2.54,66,Truth,"Biography, Drama, History",125
+5.5,28.44,36,Employee of the Month,"Comedy, Romance",103
+5.9,55.39,33,The Haunting in Connecticut,"Drama, Horror, Mystery",92
+5.5,54.61,43,The Omen,Horror,110
+6.4,0.44,63,Laggies,"Comedy, Drama, Romance",99
+5.8,32.87,65,Bad News Bears,"Comedy, Sport",113
+3.3,40.36,12,The Master of Disguise,"Adventure, Comedy, Family",80
+5.3,50.55,30,The Tuxedo,"Action, Comedy, Sci-Fi",98
+6.3,2.15,42,Austenland,"Comedy, Romance",97
+6.1,13.75,50,Hit and Run,"Action, Comedy, Crime",100
+7.0,5.35,58,Danny Collins,"Comedy, Drama, Music",106
+4.6,82.67,27,Are We There Yet?,"Adventure, Comedy, Family",95
+5.3,,,Demonic,"Horror, Thriller",83
+6.7,0.05,70,Spring,"Comedy, Horror, Romance",109
+6.0,40.08,36,Righteous Kill,"Crime, Drama, Mystery",101
+6.5,35.75,52,The Mothman Prophecies,"Drama, Horror, Mystery",119
+5.7,33.04,36,Arthur,"Comedy, Romance",110
+6.5,51.39,45,Hoodwinked!,"Animation, Comedy, Crime",80
+6.9,31.18,65,The Debt,"Drama, Thriller",113
+7.0,56.0,72,ParaNorman,"Animation, Adventure, Comedy",92
+6.5,50.57,59,Music and Lyrics,"Comedy, Music, Romance",96
+5.0,4.54,7,Miss March,"Comedy, Romance",90
+6.4,29.81,35,Grudge Match,"Comedy, Drama, Sport",113
+6.8,4.42,83,Don't Think Twice,"Comedy, Drama",92
+6.6,56.94,77,Shanghai Noon,"Action, Adventure, Comedy",110
+6.2,40.34,47,Heartbreakers,"Comedy, Crime, Romance",123
+5.1,117.56,33,Big Momma's House,"Action, Comedy, Crime",99
+6.4,51.18,61,Muppets Most Wanted,"Adventure, Comedy, Crime",107
+4.5,14.25,13,Freddy Got Fingered,Comedy,87
+7.5,15.33,55,The Greatest Game Ever Played,"Biography, Drama, History",120
+5.4,17.32,29,Just My Luck,"Comedy, Fantasy, Romance",103
+5.7,0.01,65,The Hallow,Horror,97
+6.9,8.38,60,The Importance of Being Earnest,"Comedy, Drama, Romance",97
+1.5,2.78,18,Saving Christmas,"Comedy, Family",79
+7.0,,81,A Girl Walks Home Alone at Night,"Drama, Horror",101
+7.4,0.21,42,Trade,"Crime, Drama, Thriller",120
+4.7,,,Final Girl,"Action, Thriller",90
+5.3,,,The Resident,"Drama, Horror, Mystery",91
+5.3,15.62,35,Loser,"Comedy, Romance",98
+6.0,70.28,66,World Trade Center,"Drama, History, Thriller",129
+6.0,31.69,53,Quarantine,"Horror, Thriller",89
+7.2,42.64,58,Glory Road,"Biography, Drama, Sport",118
+5.1,1.16,57,The Lords of Salem,"Horror, Thriller",101
+6.3,0.13,66,Cop Car,"Action, Comedy, Crime",88
+7.2,,,Now Is Good,"Drama, Romance",103
+6.7,4.28,53,Goal! The Dream Begins,"Drama, Romance, Sport",118
+6.0,33.05,38,The Rite,"Drama, Horror, Mystery",114
+6.1,0.02,43,Violet & Daisy,"Action, Comedy, Crime",88
+5.6,52.58,45,Kicking & Screaming,"Comedy, Family, Romance",95
+5.9,25.54,36,Captain Corelli's Mandolin,"Drama, Music, Romance",131
+5.7,50.63,36,Diary of a Mad Black Woman,"Comedy, Drama, Romance",116
+5.2,30.98,45,Get Rich or Die Tryin',"Biography, Crime, Drama",117
+4.6,,33,Outcast,"Action, Adventure, Thriller",99
+4.8,66.02,47,Herbie Fully Loaded,"Adventure, Comedy, Family",101
+6.5,14.02,71,The Good Girl,"Drama, Romance",93
+6.6,2.04,65,I Love You Phillip Morris,"Biography, Comedy, Crime",98
+6.7,26.48,48,Sinbad: Legend of the Seven Seas,"Animation, Adventure, Comedy",86
+6.0,,,I Could Never Be Your Woman,"Comedy, Drama, Romance",97
+5.8,,,Blue Mountain State: The Rise of Thadland,"Comedy, Sport",90
+4.4,133.11,24,Alvin and the Chipmunks: Chipwrecked,"Animation, Adventure, Comedy",87
+6.2,0.75,69,Palo Alto,Drama,100
+6.4,47.12,44,Kate & Leopold,"Comedy, Fantasy, Romance",118
+5.6,37.95,53,40 Days and 40 Nights,"Comedy, Romance",96
+6.1,,42,Devil's Knot,"Biography, Crime, Drama",114
+5.4,25.2,42,Aliens in the Attic,"Animation, Adventure, Comedy",86
+2.8,48.55,11,Date Movie,"Comedy, Romance",83
+5.1,22.53,50,My Super Ex-Girlfriend,"Comedy, Romance, Sci-Fi",96
+6.2,0.24,43,Frozen,"Drama, Thriller",93
+6.3,17.0,59,Wimbledon,"Comedy, Romance, Sport",98
+7.3,4.86,66,"Paris, je t'aime","Comedy, Drama, Romance",120
+5.7,0.01,65,Honeymoon,"Horror, Mystery, Thriller",87
+6.6,10.51,54,Magic in the Moonlight,"Comedy, Romance",97
+5.8,18.0,34,The Glass House,"Crime, Drama, Mystery",106
+3.6,29.51,27,The Fog,Horror,100
+6.3,43.11,50,No Reservations,"Comedy, Drama, Romance",104
+6.4,0.32,63,Good Kill,"Drama, Thriller, War",102
+3.9,43.87,17,Prom Night,"Horror, Mystery",88
+5.3,0.02,37,Trespass,"Crime, Thriller",91
+5.6,29.06,33,The Stepfather,"Crime, Thriller",101
+6.1,,34,Erased,"Action, Thriller",100
+5.6,120.15,41,Four Christmases,"Comedy, Drama, Romance",88
+6.5,26.9,55,The Missing,"Adventure, Thriller, Western",137
+6.5,7.26,47,Big Trouble,"Comedy, Crime, Thriller",85
+6.3,35.03,61,A Very Harold & Kumar 3D Christmas,"Adventure, Comedy",90
+5.4,47.81,36,Big Fat Liar,"Adventure, Comedy, Family",88
+6.5,14.42,62,Hollywoodland,"Biography, Crime, Drama",126
+6.4,,72,He Never Died,"Comedy, Drama, Fantasy",99
+6.7,67.29,54,Hidalgo,"Action, Adventure, Biography",136
+6.5,15.28,63,Youth in Revolt,"Comedy, Drama, Romance",90
+6.9,0.37,74,Joe,"Crime, Drama",117
+5.5,10.43,25,Moms' Night Out,Comedy,98
+5.8,15.1,39,"The Goods: Live Hard, Sell Hard",Comedy,89
+6.8,14.73,49,Tristan + Isolde,"Action, Drama, Romance",125
+5.6,23.04,61,Fighting,"Action, Drama, Sport",105
+6.4,25.28,81,Top Five,"Comedy, Romance",102
+6.2,0.15,44,A Good Old Fashioned Orgy,"Comedy, Romance",95
+7.1,9.45,58,Away We Go,"Comedy, Drama, Romance",98
+7.1,10.21,79,Kinsey,"Biography, Drama, Romance",118
+7.0,24.52,58,Unleashed,"Action, Crime, Drama",103
+7.7,6.17,76,A Very Long Engagement,"Drama, Mystery, Romance",133
+6.7,7.44,55,Taking Woodstock,"Biography, Comedy, Drama",120
+5.7,20.29,40,Brick Mansions,"Action, Crime, Sci-Fi",90
+7.3,37.77,57,The Secret Life of Bees,Drama,114
+6.7,6.06,49,The Way of the Gun,"Action, Crime, Drama",119
+6.2,42.4,45,Step Up 3D,"Drama, Music, Romance",107
+5.0,28.56,29,Swimfan,"Drama, Thriller",85
+4.6,100.25,35,Yogi Bear,"Animation, Adventure, Comedy",80
+6.6,0.01,22,Barefoot,"Comedy, Drama, Romance",90
+6.2,85.11,49,Open Season,"Animation, Adventure, Comedy",86
+5.9,3.99,37,P2,"Crime, Horror, Thriller",98
+5.6,17.78,38,Bad Santa 2,"Comedy, Crime, Drama",92
+6.1,110.33,47,Fun with Dick and Jane,"Comedy, Crime",90
+4.9,17.08,46,Seed of Chucky,"Comedy, Fantasy, Horror",87
+6.7,15.71,45,Pride and Glory,"Crime, Drama, Thriller",130
+4.7,20.26,27,Pulse,"Horror, Sci-Fi, Thriller",90
+6.6,77.09,62,U-571,"Action, War",116
+5.9,69.24,48,Vertical Limit,"Action, Adventure, Drama",124
+6.1,,47,"Crouching Tiger, Hidden Dragon: Sword of Destiny","Action, Adventure, Drama",96
+5.7,,,Cubeº: Cube Zero,"Horror, Mystery, Sci-Fi",97
+6.3,55.0,38,Don't Say a Word,"Drama, Mystery, Thriller",113
+4.0,21.22,41,Torque,"Action, Comedy, Crime",84
+1.9,0.03,7,The Hottie & the Nottie,"Comedy, Romance",91
+5.1,47.81,41,Agent Cody Banks,"Action, Adventure, Comedy",102
+5.6,,28,Survivor,"Action, Crime, Thriller",96
+6.2,6.41,53,The Rocker,"Comedy, Music",102
+7.6,31.57,90,United 93,"Drama, History, Thriller",111
+5.8,11.56,52,Get Over It,"Comedy, Romance",87
+5.9,,,100 Girls,"Comedy, Romance",94
+6.7,58.87,64,Surf's Up,"Animation, Comedy, Family",85
+7.4,,,An American Crime,"Biography, Crime, Drama",98
+5.6,,,Curse of Chucky,"Horror, Thriller",97
+3.8,4.54,15,In the Name of the King: A Dungeon Siege Tale,"Action, Adventure, Fantasy",127
+7.1,12.99,84,The Quiet American,"Drama, Mystery, Romance",101
+6.8,0.23,35,Kingsglaive: Final Fantasy XV,"Animation, Action, Adventure",110
+6.4,10.28,62,Shopgirl,"Drama, Romance",106
+5.5,16.32,24,The Whole Ten Yards,"Comedy, Crime, Thriller",98
+7.4,12.55,80,Love & Mercy,"Biography, Drama, Music",121
+4.3,48.12,39,Fat Albert,"Comedy, Family, Fantasy",93
+7.1,17.54,78,Enough Said,"Comedy, Drama, Romance",93
+6.5,13.08,47,Flyboys,"Action, Adventure, Drama",140
+5.8,0.1,55,V/H/S,"Mystery, Sci-Fi, Thriller",116
+6.1,42.09,39,Planet 51,"Animation, Adventure, Comedy",91
+7.1,130.18,67,The Peanuts Movie,"Animation, Adventure, Comedy",88
+7.4,35.93,86,In the Bedroom,"Crime, Drama",130
+7.0,11.24,54,Bobby,"Biography, Drama, History",117
+7.6,7.44,64,Disconnect,"Drama, Thriller",115
+5.7,23.98,31,Perfect Stranger,"Crime, Drama, Horror",109
+5.5,43.0,35,Rumor Has It...,"Comedy, Drama, Romance",97
+6.0,14.16,39,Dirty Dancing: Havana Nights,"Drama, Music, Romance",86
+4.8,29.58,27,Did You Hear About the Morgans?,"Comedy, Drama, Romance",103
+5.6,,38,The Ward,"Horror, Mystery, Thriller",89
+4.8,25.64,37,Crocodile Dundee in Los Angeles,"Adventure, Comedy, Crime",92
+6.2,,54,I Am Not a Serial Killer,"Drama, Horror, Thriller",104
+6.1,7.0,53,Our Brand Is Crisis,"Comedy, Drama",107
+4.0,18.87,22,Shark Night 3D,"Horror, Thriller",90
+6.5,,,Stretch,"Comedy, Crime",94
+5.4,7.03,36,Turistas,"Horror, Mystery, Thriller",93
+7.4,6.86,41,Running Scared,"Action, Crime, Drama",122
+6.1,9.68,49,S1m0ne,"Comedy, Drama, Sci-Fi",117
+5.9,25.68,34,21 & Over,Comedy,93
+3.3,13.21,16,Feardotcom,"Crime, Horror, Thriller",101
+6.5,26.54,34,Basic,"Action, Crime, Drama",98
+5.6,42.67,26,Because I Said So,"Comedy, Romance",102
+5.9,,40,Mine,"Thriller, War",106
+5.4,40.69,31,Max Payne,"Action, Crime, Drama",100
+7.4,0.23,65,Black Dynamite,"Action, Comedy",84
+6.4,4.48,33,Mindhunters,"Crime, Horror, Mystery",106
+5.6,44.88,31,Cop Out,"Action, Comedy, Crime",107
+6.6,2.01,77,The Immigrant,"Drama, Romance",120
+6.1,0.21,53,The Killer Inside Me,"Crime, Drama, Thriller",109
+5.4,24.83,28,Season of the Witch,"Action, Adventure, Fantasy",95
+6.0,10.17,36,Domino,"Action, Adventure, Biography",127
+6.7,177.4,55,Home,"Animation, Adventure, Comedy",94
+7.7,0.7,73,Mysterious Skin,"Drama, Mystery",105
+6.1,1.1,65,The Overnight,"Comedy, Mystery",79
+5.1,34.51,31,Hot Pursuit,"Action, Comedy, Crime",87
+5.6,52.54,26,No Good Deed,"Crime, Drama, Thriller",84
+7.0,75.6,72,The Rookie,"Drama, Family, Sport",127
+5.7,90.29,39,Planes,"Animation, Adventure, Comedy",91
+6.9,17.74,67,Mr. Holmes,"Drama, Mystery",104
+3.4,36.66,18,Vampires Suck,Comedy,82
+6.3,0.59,57,The Disappearance of Eleanor Rigby: Them,"Drama, Romance",123
+6.5,40.91,63,Out of Time,"Action, Crime, Drama",105
+7.8,16.76,75,The Motorcycle Diaries,"Adventure, Biography, Drama",126
+4.9,8.43,35,Ghosts of Mars,"Action, Horror, Sci-Fi",98
+5.7,40.39,61,Blue Crush,"Drama, Romance, Sport",104
+7.3,36.91,61,Matchstick Men,"Comedy, Crime, Drama",116
+5.9,63.3,36,Saw IV,"Horror, Mystery, Thriller",93
+5.1,93.39,47,Cats & Dogs,"Action, Comedy, Family",87
+6.5,10.88,39,Dead Man Down,"Action, Crime, Drama",118
+5.0,18.12,,Chernobyl Diaries,"Horror, Mystery, Thriller",86
+6.7,0.71,59,The Ballad of Jack and Rose,Drama,112
+6.8,9.2,75,Bernie,"Biography, Comedy, Crime",104
+7.1,1.41,76,99 Homes,Drama,112
+6.3,0.16,40,Outlander,"Action, Adventure, Sci-Fi",115
+6.4,1.03,59,Elvis & Nixon,"Comedy, History",86
+6.4,1.17,62,Black Sea,"Adventure, Drama, Thriller",114
+7.8,0.14,66,Shelter,"Drama, Romance, Sport",97
+7.4,3.44,49,The Ultimate Gift,"Drama, Family, Romance",114
+6.4,0.13,77,Mississippi Grind,"Comedy, Drama",108
+4.8,62.25,34,Bewitched,"Comedy, Fantasy, Romance",102
+5.3,59.48,42,The Stepford Wives,"Comedy, Horror, Sci-Fi",93
+5.6,30.16,37,Bad Company,"Action, Adventure, Comedy",116
+7.0,12.83,40,Wicker Park,"Drama, Mystery, Romance",114
+6.5,0.04,40,The Slammin' Salmon,Comedy,90
+5.0,32.12,35,Stealth,"Action, Adventure, Sci-Fi",121
+6.0,34.24,40,The Hunted,"Action, Crime, Drama",94
+7.4,8.81,73,Queen of Katwe,"Biography, Drama, Sport",124
+3.4,26.28,19,Dumb and Dumberer: When Harry Met Lloyd,Comedy,85
+5.7,,,Last Shift,"Horror, Mystery, Thriller",90
+2.9,2.41,18,BloodRayne,"Action, Adventure, Fantasy",95
+7.3,81.61,64,Eight Below,"Adventure, Drama, Family",120
+6.4,0.26,60,Great Expectations,"Drama, Romance",128
+6.1,30.06,25,Dragonfly,"Drama, Fantasy, Mystery",104
+7.1,0.26,77,Blue Ruin,"Crime, Drama, Thriller",90
+6.1,93.35,42,Two Weeks Notice,"Comedy, Romance",101
+5.1,,35,Everly,"Action, Thriller",92
+5.1,28.09,25,Abduction,"Action, Mystery, Thriller",106
+6.9,,45,Odd Thomas,"Comedy, Fantasy, Horror",97
+4.4,18.5,18,Ultraviolet,"Action, Sci-Fi, Thriller",88
+5.8,48.75,45,Firewall,"Crime, Thriller",105
+5.9,16.12,44,Jobs,"Biography, Drama",128
+5.6,57.65,25,The Benchwarmers,"Comedy, Sport",80
+6.8,0.45,38,Crossing Over,"Crime, Drama",113
+7.9,13.76,89,Letters from Iwo Jima,"Drama, History, War",141
+6.4,,,ARQ,"Sci-Fi, Thriller",88
+6.3,60.06,56,The Family Stone,"Comedy, Drama, Romance",103
+4.9,26.9,27,The Women,"Comedy, Drama",114
+5.7,,,Gambit,"Comedy, Crime",89
+5.9,25.46,34,The Fourth Kind,"Mystery, Sci-Fi, Thriller",98
+6.4,,,The Experiment,"Drama, Thriller",96
+6.7,12.81,49,Shoot 'Em Up,"Action, Comedy, Crime",86
+6.1,12.19,46,Chasing Liberty,"Comedy, Romance",111
+5.8,18.94,67,Haywire,"Action, Thriller",93
+4.8,42.67,30,The Unborn,"Drama, Horror, Mystery",88
+6.4,26.2,64,Blood Work,"Action, Crime, Drama",110
+6.8,47.64,65,Dan in Real Life,"Comedy, Drama, Romance",98
+6.2,3.35,76,Maggie's Plan,"Comedy, Drama, Romance",98
+7.7,18.59,80,Frost/Nixon,"Biography, Drama, History",122
+7.1,6.3,44,The Jacket,"Drama, Fantasy, Horror",103
+7.7,5.74,81,The Station Agent,"Comedy, Drama",89
+5.9,35.16,35,Star Wars: The Clone Wars,"Animation, Action, Adventure",98
+6.6,36.02,40,Derailed,"Crime, Drama, Thriller",108
+6.1,86.91,50,The Campaign,Comedy,85
+6.6,51.85,47,The Odd Life of Timothy Green,"Comedy, Drama, Family",105
+5.9,15.74,21,3000 Miles to Graceland,"Action, Comedy, Crime",125
+7.1,2.0,57,Bubba Ho-Tep,"Comedy, Fantasy, Horror",92
+4.5,219.61,41,Alvin and the Chipmunks: The Squeakquel,"Animation, Comedy, Family",88
+6.2,28.69,32,Untraceable,"Crime, Horror, Mystery",101
+6.2,0.01,,Rogue,"Action, Adventure, Horror",99
+7.2,2.54,67,Ruby Sparks,"Comedy, Drama, Fantasy",104
+4.3,11.63,26,Zoom,"Action, Adventure, Comedy",83
+6.1,35.61,41,Larry Crowne,"Comedy, Drama, Romance",98
+6.2,14.97,65,Solaris,"Drama, Mystery, Romance",99
+2.4,6.07,18,Gigli,"Comedy, Crime, Romance",121
+7.4,22.2,68,Hustle & Flow,"Crime, Drama, Music",116
+6.2,0.41,48,I'm Still Here,"Comedy, Drama, Music",108
+5.2,51.43,47,Like Mike,"Comedy, Family, Fantasy",99
+7.6,15.8,61,The Kite Runner,Drama,128
+6.2,19.36,54,Vacancy,"Crime, Horror, Thriller",85
+5.7,,49,Devil's Pass,"Horror, Mystery, Sci-Fi",100
+5.5,108.09,41,Hop,"Animation, Adventure, Comedy",95
+5.7,56.4,63,Drumline,"Comedy, Drama, Romance",118
+6.5,32.75,56,Hereafter,"Drama, Fantasy",129
+6.4,,33,The Baytown Outlaws,"Action, Comedy, Crime",98
+5.8,56.75,20,Saw V,"Horror, Mystery, Thriller",92
+6.2,32.68,38,Taking Lives,"Crime, Drama, Mystery",103
+2.9,10.01,21,Bratz,"Comedy, Family, Music",110
+7.4,45.01,67,Frequency,"Crime, Drama, Mystery",118
+5.3,,37,Are You Here,"Comedy, Drama",114
+7.0,3.95,54,Charlie Bartlett,"Comedy, Drama, Romance",97
+7.0,1.32,66,Another Earth,"Drama, Romance, Sci-Fi",92
+6.8,19.72,71,The Pledge,"Crime, Drama, Mystery",124
+7.6,19.59,31,The Life of David Gale,"Crime, Drama, Thriller",130
+6.8,3.32,62,Veronica Mars,"Crime, Drama, Mystery",107
+7.0,,,Get the Gringo,"Action, Crime, Drama",96
+5.3,,31,Get a Job,Comedy,83
+4.4,71.04,13,Paul Blart: Mall Cop 2,"Action, Comedy, Crime",94
+5.9,0.59,58,To the Wonder,"Drama, Romance",112
+6.8,8.94,62,Saved!,"Comedy, Drama",92
+6.1,0.09,45,She's Funny That Way,Comedy,93
+5.5,0.28,44,Southland Tales,"Comedy, Drama, Mystery",145
+6.3,50.65,41,Resident Evil: Extinction,"Action, Horror, Sci-Fi",94
+5.8,,11,Some Kind of Beautiful,"Comedy, Romance",99
+5.1,25.63,41,Mr. Woodcock,"Comedy, Romance, Sport",87
+6.1,31.72,51,Transporter 3,"Action, Adventure, Crime",104
+4.9,42.78,33,Gulliver's Travels,"Adventure, Comedy, Family",85
+4.6,,,Wrong Turn 4: Bloody Beginnings,Horror,93
+7.5,19.66,61,Reign Over Me,Drama,124
+6.3,13.6,57,Osmosis Jones,"Animation, Action, Adventure",95
+6.3,4.72,50,True Story,"Crime, Drama, Mystery",99
+7.1,60.06,70,Bad Santa,"Comedy, Crime, Drama",91
+6.9,38.43,52,Gridiron Gang,"Crime, Drama, Sport",125
+7.2,59.71,61,Secretariat,"Biography, Drama, Family",123
+6.1,37.76,64,Sky Captain and the World of Tomorrow,"Action, Adventure, Mystery",106
+6.8,,,Dog Soldiers,"Action, Horror, Thriller",105
+5.4,49.49,19,Old Dogs,"Comedy, Family",88
+7.1,57.79,63,Invincible,"Biography, Drama, Sport",105
+6.2,19.49,55,The Eagle,"Action, Adventure, Drama",114
+6.0,14.9,45,Step Up All In,"Drama, Music, Romance",112
+6.2,20.7,71,Land of the Dead,"Horror, Sci-Fi, Thriller",93
+6.7,0.05,60,Turbo Kid,"Action, Adventure, Comedy",93
+7.0,16.94,63,Boiler Room,"Crime, Drama, Thriller",120
+6.3,0.01,44,13 Sins,"Horror, Thriller",93
+7.1,12.29,63,Miss Pettigrew Lives for a Day,"Comedy, Romance",92
+5.4,15.63,51,The Man with the Iron Fists,Action,95
+4.2,18.85,22,The Legend of Hercules,"Action, Adventure, Fantasy",99
+6.0,37.49,38,Raising Helen,"Comedy, Drama, Romance",119
+6.4,,,"Angus, Thongs and Perfect Snogging","Comedy, Drama, Romance",100
+5.7,17.48,34,Red Planet,"Action, Sci-Fi, Thriller",106
+6.4,0.33,61,Welcome to Collinwood,"Comedy, Crime",86
+5.5,,18,Momentum,"Action, Crime, Thriller",96
+6.5,102.0,54,Bad Grandpa,Comedy,92
+4.6,3.82,22,Max Steel,"Action, Adventure, Family",92
+7.1,16.0,67,Confessions of a Dangerous Mind,"Biography, Comedy, Crime",113
+6.3,75.78,66,Barbershop,"Comedy, Drama",102
+6.1,,33,Kidnapping Mr. Heineken,"Action, Biography, Crime",95
+6.5,17.14,55,Safe,"Action, Crime, Thriller",94
+5.7,30.54,39,The Sitter,"Action, Comedy, Crime",81
+6.9,3.34,56,Harsh Times,"Action, Crime, Drama",116
+5.9,25.61,53,Nancy Drew,"Comedy, Crime, Family",99
+5.8,38.23,69,Undercover Brother,"Action, Comedy",86
+5.0,75.37,27,Garfield,"Animation, Comedy, Family",80
+6.6,26.16,56,Ramona and Beezus,"Adventure, Comedy, Family",103
+6.7,12.8,82,Rachel Getting Married,"Drama, Romance",113
+5.7,0.06,49,Cooties,"Action, Comedy, Horror",88
+5.5,56.13,28,Just Married,"Comedy, Romance",95
+6.1,66.81,43,The Mexican,"Adventure, Comedy, Crime",123
+5.3,37.49,34,The Back-up Plan,"Comedy, Romance",104
+5.7,35.35,36,The Watch,"Action, Comedy, Sci-Fi",102
+5.1,94.01,45,Maid in Manhattan,"Comedy, Drama, Romance",105
+6.1,26.18,36,A Man Apart,"Action, Crime, Drama",109
+6.7,19.16,66,Tuck Everlasting,"Drama, Family, Fantasy",90
+6.5,47.81,47,The Skeleton Key,"Drama, Horror, Mystery",104
+7.3,34.59,67,Thirteen Days,"Drama, History, Thriller",145
+4.3,79.57,47,Hannah Montana: The Movie,"Comedy, Drama, Family",102
+7.6,13.01,71,House of Sand and Fog,"Crime, Drama",126
+6.8,111.51,59,Mr. Peabody & Sherman,"Animation, Adventure, Comedy",92
+5.6,19.48,28,Timeline,"Action, Adventure, Sci-Fi",116
+6.9,55.01,53,The Guardian,"Action, Adventure, Drama",139
+6.7,27.15,43,Brooklyn's Finest,"Crime, Drama, Thriller",132
+6.7,31.49,64,Nick and Norah's Infinite Playlist,"Comedy, Drama, Music",90
+6.8,3.57,61,The Jane Austen Book Club,"Comedy, Drama, Romance",106
+6.8,33.77,30,Where the Heart Is,"Comedy, Drama, Romance",120
+6.7,,,Blood and Bone,"Action, Drama",93
+5.1,12.28,29,Hot Tub Time Machine 2,"Comedy, Sci-Fi",93
+5.4,,27,I.T.,"Action, Crime, Drama",95
+6.2,,,Big Stan,"Action, Comedy",105
+5.5,,,Killing Me Softly,"Drama, Mystery, Romance",100
+5.9,15.07,45,The Invasion,"Sci-Fi, Thriller",99
+6.9,50.29,52,Serendipity,"Comedy, Romance",90
+6.5,0.08,66,Byzantium,"Drama, Fantasy, Horror",118
+6.5,0.04,45,Blood Ties,"Crime, Drama, Thriller",127
+6.0,40.23,44,Bridget Jones: The Edge of Reason,"Comedy, Drama, Romance",108
+6.4,0.01,31,Charlie Countryman,"Comedy, Drama, Romance",103
+5.4,71.02,34,The Smurfs 2,"Animation, Adventure, Comedy",105
+6.2,17.23,31,Fired Up!,Comedy,90
+5.9,,37,True Memoirs of an International Assassin,"Action, Comedy",98
+4.7,18.84,45,The Marine,"Action, Drama, Thriller",92
+6.7,12.01,62,The Gift,"Drama, Fantasy, Horror",111
+7.3,7.08,84,Before the Devil Knows You're Dead,"Crime, Drama, Thriller",117
+6.8,35.05,63,Green Zone,"Action, Drama, Thriller",115
+6.7,36.84,60,Notorious,"Biography, Crime, Drama",122
+5.8,23.19,43,Monte Carlo,"Adventure, Comedy, Family",109
+6.8,,,Trick 'r Treat,"Comedy, Horror, Thriller",82
+4.8,60.76,16,God's Not Dead,Drama,113
+6.8,4.17,64,Goon,"Comedy, Sport",92
+5.4,10.13,50,Prom,"Comedy, Drama, Family",104
+6.7,6.53,50,The Rules of Attraction,"Comedy, Drama, Romance",110
+6.3,,41,The 9th Life of Louis Drax,"Mystery, Thriller",108
+7.0,0.75,72,Inland Empire,"Drama, Mystery, Thriller",180
+7.0,4.01,72,Safety Not Guaranteed,"Comedy, Drama, Romance",86
+6.4,26.84,45,Elizabethtown,"Comedy, Drama, Romance",123
+7.2,0.04,72,The Woodsman,Drama,87
+6.4,28.57,43,The Uninvited,"Drama, Horror, Mystery",87
+7.6,7.49,73,The Man Who Wasn't There,"Crime, Drama",116
+7.2,5.79,81,Beginners,"Comedy, Drama, Romance",105
+6.3,11.89,45,Sydney White,"Comedy, Drama, Romance",108
+5.6,32.67,25,When in Rome,"Comedy, Romance",91
+5.5,10.28,,Whiteout,"Action, Crime, Horror",101
+6.2,,,Blitz,"Action, Comedy, Crime",97
+6.5,1.36,56,Genius,"Biography, Drama",104
+5.7,32.85,41,Drillbit Taylor,"Comedy, Drama",110
+5.9,51.1,35,Hide and Seek,"Drama, Horror, Mystery",101
+5.6,0.19,52,Maggie,"Drama, Horror",95
+5.6,35.67,36,Jeepers Creepers II,Horror,104
+7.0,2.44,65,Pawn Sacrifice,"Biography, Drama, Sport",115
+5.6,,44,All the Boys Love Mandy Lane,Horror,90
+6.2,19.7,49,Broken City,"Action, Crime, Drama",109
+6.5,32.88,60,In Her Shoes,"Comedy, Drama, Romance",130
+5.9,54.03,67,Barbershop: The Next Cut,"Comedy, Drama",111
+5.0,60.02,36,Tooth Fairy,"Comedy, Family, Fantasy",101
+5.9,49.88,46,Red Tails,"Action, Adventure, Drama",125
+6.7,51.87,51,The Call,"Crime, Thriller",94
+6.6,21.97,75,Joy Ride,"Mystery, Thriller",97
+4.9,3.75,22,The Cold Light of Day,"Action, Crime, Drama",93
+5.4,14.25,47,Josie and the Pussycats,"Comedy, Music",98
+5.9,68.92,49,Guess Who,"Comedy, Romance",105
+5.7,,,Bandidas,"Action, Comedy, Crime",93
+6.0,,,The Taking of Deborah Logan,"Horror, Mystery, Thriller",90
+5.2,15.59,27,View from the Top,"Comedy, Romance",87
+6.6,1.7,69,Bad Lieutenant: Port of Call New Orleans,"Crime, Drama",122
+6.4,28.73,55,Baby Boy,"Crime, Drama, Romance",130
+6.9,4.46,50,Anonymous,"Drama, Thriller",130
+6.5,83.03,58,Turbo,"Animation, Adventure, Comedy",96
+6.8,3.9,65,A United Kingdom,"Biography, Drama, Romance",111
+6.3,36.87,51,Risen,"Action, Adventure, Drama",107
+6.3,13.79,32,Repo Men,"Action, Crime, Sci-Fi",111
+5.7,,50,Skiptrace,"Action, Adventure, Comedy",107
+6.5,35.07,43,Step Up Revolution,"Drama, Music, Romance",99
+6.7,48.32,47,Just Like Heaven,"Comedy, Fantasy, Romance",95
+4.8,0.01,44,Zombeavers,"Comedy, Horror",77
+7.2,65.02,85,About Schmidt,"Comedy, Drama",125
+6.2,52.47,59,Wall Street: Money Never Sleeps,Drama,133
+6.6,1.06,43,Wonderland,"Crime, Drama, Mystery",104
+6.6,48.02,46,Secret Window,"Drama, Mystery, Thriller",96
+5.4,42.35,39,Resident Evil: Retribution,"Action, Horror, Sci-Fi",95
+6.1,37.05,49,30 Minutes or Less,"Action, Comedy, Crime",83
+6.4,0.32,68,Compliance,"Biography, Crime, Drama",90
+7.3,0.47,76,Submarine,"Comedy, Drama, Romance",97
+6.4,43.25,51,Star Trek: Nemesis,"Action, Adventure, Sci-Fi",116
+6.3,54.15,41,TMNT,"Animation, Action, Adventure",87
+6.8,58.2,65,Ali,"Biography, Drama, Sport",157
+5.7,0.01,48,Pet,"Horror, Thriller",94
+6.1,7.01,62,Bug,"Drama, Horror, Thriller",102
+6.1,,37,Automata,"Action, Sci-Fi, Thriller",109
+6.4,18.44,58,The Invention of Lying,"Comedy, Fantasy, Romance",100
+6.8,,52,Stonehearst Asylum,"Drama, Horror, Mystery",112
+5.5,82.57,34,Cheaper by the Dozen 2,"Adventure, Comedy, Family",94
+7.3,51.8,62,Finding Forrester,Drama,136
+7.2,48.82,56,Men of Honor,"Biography, Drama",129
+6.0,21.28,35,Dream House,"Drama, Mystery, Thriller",84
+6.8,6.01,55,Hitchcock,"Biography, Drama",98
+7.3,13.1,64,Frailty,"Crime, Drama, Thriller",100
+7.7,0.07,52,Detachment,Drama,98
+7.3,7.06,70,Quills,"Biography, Drama",124
+6.1,4.2,58,A Hologram for the King,"Comedy, Drama, Romance",98
+7.1,0.51,66,The One I Love,"Drama, Fantasy, Romance",91
+6.0,0.09,,Carriers,"Drama, Horror, Sci-Fi",84
+5.8,60.05,54,Brüno,Comedy,81
+6.0,,58,The Woman,Horror,101
+6.2,,48,Rememory,"Drama, Mystery, Sci-Fi",111
+5.4,0.18,36,Serena,"Drama, Romance",109
+7.1,88.63,75,The Muppets,"Adventure, Comedy, Family",103
+6.9,30.51,71,Get on Up,"Biography, Drama, Music",139
+5.8,118.7,45,The Break-Up,"Comedy, Drama, Romance",106
+6.3,20.3,52,Down with Love,"Comedy, Romance",101
+6.8,8.32,55,Tenacious D in The Pick of Destiny,"Adventure, Comedy, Music",93
+5.3,4.75,46,In the Cut,"Mystery, Thriller",119
+3.5,11.68,28,Fifty Shades of Black,Comedy,92
+6.8,20.21,64,Appaloosa,"Crime, Drama, Romance",115
+5.7,25.12,36,The Reaping,"Horror, Thriller",99
+6.4,33.3,56,Mr. Bean's Holiday,"Comedy, Family",90
+6.5,3.3,41,Stand Up Guys,"Action, Comedy, Crime",95
+6.1,4.6,31,Deception,"Crime, Drama, Mystery",107
+6.7,31.67,61,The Soloist,"Biography, Drama, Music",117
+5.9,0.27,40,Passengers,"Drama, Fantasy, Horror",93
+5.7,54.54,22,New Year's Eve,"Comedy, Romance",113
+4.3,58.65,26,Littleman,"Comedy, Crime",98
+6.8,31.6,64,One Hour Photo,"Drama, Thriller",96
+5.0,,28,Rage,"Action, Crime, Thriller",92
+7.6,30.23,65,The Great Debaters,"Biography, Drama, Romance",126
+5.5,142.61,30,The Smurfs,"Animation, Adventure, Comedy",103
+6.8,85.34,48,Brother Bear,"Animation, Adventure, Comedy",85
+5.3,26.41,22,One for the Money,"Action, Comedy, Crime",91
+6.9,1.48,87,The Diary of a Teenage Girl,"Drama, Romance",102
+6.7,13.92,43,Hot Rod,Comedy,88
+6.7,35.17,58,K-19: The Widowmaker,"Drama, History, Thriller",138
+5.8,36.79,46,The Heartbreak Kid,"Comedy, Romance",116
+5.1,85.85,66,Spy Kids 2: Island of Lost Dreams,"Action, Adventure, Comedy",100
+5.6,75.63,46,"You, Me and Dupree","Comedy, Romance",110
+5.9,70.33,50,Shaft,"Action, Crime, Thriller",99
+6.4,56.62,52,Rat Race,"Adventure, Comedy",112
+7.1,12.41,49,People Like Us,"Comedy, Drama",114
+7.0,2.08,61,The Wackness,"Comedy, Drama, Romance",99
+5.1,85.89,33,Alvin and the Chipmunks: The Road Chip,"Animation, Adventure, Comedy",92
+5.7,9.48,48,Bullet to the Head,"Action, Thriller",92
+6.1,6.84,38,The Collection,"Horror, Thriller",82
+6.2,42.59,49,Krampus,"Comedy, Fantasy, Horror",98
+5.9,39.52,30,The Texas Chainsaw Massacre: The Beginning,"Horror, Thriller",91
+6.3,58.02,50,Step Up 2: The Streets,"Drama, Music, Romance",98
+5.9,0.61,69,Welcome to Me,"Comedy, Drama",87
+4.4,13.92,33,Soul Plane,Comedy,86
+7.2,2.69,85,Half Nelson,Drama,106
+6.1,27.76,52,The Switch,"Comedy, Drama, Romance",101
+6.9,50.82,76,Syriana,"Drama, Thriller",128
+7.5,33.42,68,Doubt,"Drama, Mystery",104
+5.8,33.47,47,Semi-Pro,"Comedy, Sport",91
+3.8,32.24,24,The Love Guru,"Comedy, Romance, Sport",87
+2.3,39.74,17,Epic Movie,"Adventure, Comedy",86
+7.7,17.65,86,Nebraska,"Adventure, Comedy, Drama",115
+5.7,7.38,32,Paranoia,"Action, Crime, Drama",106
+6.6,22.75,48,Titan A.E.,"Animation, Action, Adventure",94
+6.3,16.69,54,To Rome with Love,"Comedy, Romance",112
+4.9,37.3,23,The Roommate,"Drama, Thriller",91
+7.2,1.23,70,Elephant,"Crime, Drama, Thriller",81
+4.8,19.78,30,The Spirit,"Action, Crime, Fantasy",103
+6.1,36.92,33,Uptown Girls,"Comedy, Drama, Romance",92
+6.3,7.57,77,While We're Young,"Comedy, Drama, Mystery",97
+6.2,1.1,50,Red State,"Action, Crime, Horror",88
+7.4,4.43,64,The Way,"Adventure, Comedy, Drama",123
+5.6,31.61,31,House at the End of the Street,"Drama, Horror, Thriller",101
+6.1,55.97,52,Romeo Must Die,"Action, Crime, Thriller",115
+5.0,48.48,34,Miss Congeniality 2: Armed & Fabulous,"Action, Comedy, Crime",115
+5.4,,44,Barely Lethal,"Action, Adventure, Comedy",96
+5.7,0.0,,I Spit on Your Grave 2,"Horror, Thriller",106
+6.2,25.93,46,The Nanny Diaries,"Comedy, Drama, Romance",105
+5.7,26.28,31,Love the Coopers,"Comedy, Fantasy, Romance",107
+6.4,43.04,58,The Night Before,"Adventure, Comedy, Fantasy",101
+7.8,2.89,82,Waking Life,"Animation, Drama, Fantasy",99
+6.5,66.53,51,Contraband,"Action, Crime, Drama",109
+7.3,56.44,91,The Queen,"Biography, Drama",103
+6.3,53.79,43,Paycheck,"Action, Mystery, Sci-Fi",119
+5.4,47.06,21,Killers,"Action, Comedy, Romance",100
+2.2,17.02,20,Son of the Mask,"Comedy, Family, Fantasy",94
+5.4,17.32,53,Eight Legged Freaks,"Action, Comedy, Horror",99
+5.9,44.28,38,Confessions of a Shopaholic,"Comedy, Family, Romance",104
+5.1,19.08,30,"I, Frankenstein","Action, Fantasy, Horror",92
+5.1,20.8,32,The Hills Have Eyes II,"Horror, Thriller",89
+7.3,44.13,64,St. Vincent,"Comedy, Drama",102
+5.7,10.51,41,Sabotage,"Action, Crime, Drama",109
+6.8,,26,The Ottoman Lieutenant,"Drama, War",106
+6.4,,72,The Devil's Candy,"Drama, Horror, Thriller",79
+6.0,,31,Absolutely Anything,"Comedy, Sci-Fi",85
+6.5,11.04,47,In the Land of Women,"Comedy, Drama, Romance",97
+6.6,63.91,48,Last Vegas,"Comedy, Drama",105
+7.0,4.02,73,I'm Not There.,"Biography, Drama, Music",135
+5.9,26.82,54,Ricki and the Flash,"Comedy, Drama, Music",101
+6.3,29.47,51,A Walk in the Woods,"Adventure, Biography, Comedy",104
+5.8,0.04,42,Lost River,"Drama, Fantasy, Mystery",95
+6.2,0.36,51,Lovelace,"Biography, Drama",93
+5.7,20.99,64,Looney Tunes: Back in Action,"Animation, Adventure, Comedy",91
+6.2,80.24,48,Saw III,"Horror, Mystery, Thriller",108
+1.9,14.19,15,Disaster Movie,Comedy,87
+6.3,49.01,54,Diary of a Wimpy Kid: Dog Days,"Comedy, Family",94
+4.9,33.39,35,Halloween II,Horror,105
+6.6,,59,The Final Girls,"Comedy, Horror",88
+6.4,67.79,26,War Room,Drama,120
+5.0,17.53,16,Silent Hill: Revelation,Horror,95
+5.5,82.93,31,Monster-in-Law,"Comedy, Romance",101
+5.9,11.65,36,Gone,"Drama, Mystery, Thriller",94
+4.5,50.86,38,Ouija,"Horror, Thriller",89
+2.7,38.23,9,Meet the Spartans,Comedy,86
+5.0,20.78,47,Blair Witch,"Horror, Thriller",89
+5.8,126.29,24,Mr. Deeds,"Comedy, Romance",96
+6.2,0.03,43,Redemption,"Action, Crime, Drama",100
+6.6,4.03,53,Irrational Man,"Comedy, Drama",95
+6.0,40.91,51,Windtalkers,"Action, Drama, War",134
+6.2,30.69,35,Mirrors,"Horror, Mystery",110
+6.6,6.0,48,"Run, Fatboy, Run","Comedy, Romance, Sport",100
+5.3,,24,Misconduct,"Crime, Drama, Mystery",106
+7.7,13.06,67,25th Hour,Drama,135
+6.8,71.07,71,The Score,"Crime, Drama, Thriller",124
+6.6,183.37,61,The Polar Express,"Animation, Adventure, Family",100
+5.7,,28,Hick,"Comedy, Drama",99
+6.2,13.1,56,The Rum Diary,"Comedy, Drama",119
+5.2,25.8,31,The Lazarus Effect,"Horror, Mystery, Sci-Fi",83
+6.2,32.42,54,The Men Who Stare at Goats,"Comedy, War",94
+5.1,15.01,30,The Cave,"Action, Adventure, Horror",97
+5.6,132.72,39,Bringing Down the House,Comedy,105
+6.9,58.71,52,Water for Elephants,"Drama, Romance",120
+5.8,,23,The Cobbler,"Comedy, Drama, Fantasy",99
+7.1,,,Unthinkable,"Drama, Thriller",97
+6.8,195.33,58,Ice Age: The Meltdown,"Animation, Adventure, Comedy",91
+6.8,47.03,54,Jersey Boys,"Biography, Drama, Music",134
+5.7,134.51,35,Identity Thief,"Action, Comedy, Crime",111
+4.9,68.26,25,Obsessed,"Drama, Romance, Thriller",108
+5.4,37.66,29,Red Riding Hood,"Fantasy, Horror, Mystery",100
+5.8,35.99,41,What a Girl Wants,"Comedy, Drama, Family",105
+6.6,73.66,68,Monster House,"Animation, Adventure, Comedy",91
+5.9,46.46,47,The Legend of Zorro,"Action, Adventure, Western",129
+6.0,60.27,55,Baby Mama,"Comedy, Romance",99
+5.6,5.0,41,Bubble Boy,"Adventure, Comedy, Romance",84
+6.5,25.45,52,The International,"Action, Crime, Drama",118
+4.4,13.12,25,Jason X,"Action, Horror, Sci-Fi",91
+7.1,0.7,85,Tangerine,"Comedy, Crime, Drama",88
+5.7,,,Security,"Action, Crime, Thriller",88
+6.6,3.57,65,The Runaways,"Biography, Drama, Music",106
+4.9,75.85,34,The Haunted Mansion,"Comedy, Family, Fantasy",88
+6.3,3.07,48,Chloe,"Drama, Mystery, Romance",96
+7.2,27.44,70,Love & Basketball,"Drama, Romance, Sport",124
+6.2,0.05,36,Red Lights,"Drama, Fantasy, Horror",114
+6.4,19.38,52,The Producers,"Comedy, Musical",134
+6.9,18.21,43,The Last Castle,"Action, Drama, Thriller",131
+6.6,7.6,55,Promised Land,Drama,106
+6.2,0.35,67,Maps to the Stars,"Comedy, Drama",111
+6.6,72.27,40,Vantage Point,"Action, Crime, Drama",90
+6.9,2.32,61,Trance,"Crime, Drama, Mystery",101
+7.0,20.81,86,The Kids Are All Right,"Comedy, Drama, Romance",106
+5.1,90.71,40,Scary Movie 4,Comedy,83
+6.5,198.0,77,Happy Feet,"Animation, Adventure, Comedy",108
+6.4,35.19,,The Number 23,"Action, Drama, Mystery",98
+6.0,0.04,25,Walk of Shame,Comedy,95
+6.3,41.54,48,High Crimes,"Crime, Drama, Mystery",115
+5.9,1.51,49,Jane Got a Gun,"Action, Drama, Western",98
+6.8,154.53,71,Horton Hears a Who!,"Animation, Adventure, Comedy",86
+5.6,45.71,24,Saw 3D: The Final Chapter,"Horror, Mystery",90
+5.9,0.11,36,After.Life,"Drama, Horror, Mystery",104
+7.3,18.32,68,North Country,Drama,126
+7.1,11.49,37,The Words,"Drama, Mystery, Romance",102
+6.3,2.96,41,Before I Go to Sleep,"Drama, Mystery, Thriller",92
+5.3,27.74,32,Sinister 2,"Horror, Mystery, Thriller",97
+5.9,47.85,29,Premonition,"Drama, Fantasy, Mystery",96
+7.5,3.08,67,"Synecdoche, New York","Comedy, Drama",124
+7.2,33.52,40,Pay It Forward,Drama,123
+5.7,0.06,42,Clown,"Drama, Fantasy, Horror",100
+7.2,2.55,61,Carnage,"Comedy, Drama",80
+6.6,45.8,44,Underworld: Rise of the Lycans,"Action, Adventure, Fantasy",92
+6.5,31.01,57,Morning Glory,"Comedy, Drama, Romance",107
+6.2,27.67,35,Hannibal Rising,"Crime, Drama, Horror",121
+5.9,49.13,45,The Possession,"Horror, Thriller",92
+5.9,17.43,44,The Ruins,Horror,90
+7.4,44.47,60,"McFarland, USA","Biography, Drama, Sport",129
+6.5,219.96,48,National Treasure: Book of Secrets,"Action, Adventure, Family",124
+6.8,52.33,52,The Lake House,"Drama, Fantasy, Romance",99
+7.8,1.34,70,The Little Prince,"Animation, Adventure, Drama",108
+6.3,43.1,56,Transporter 2,"Action, Crime, Thriller",87
+6.0,59.57,37,My Big Fat Greek Wedding 2,"Comedy, Romance",94
+6.3,22.47,36,War,"Action, Crime, Thriller",103
+7.2,32.77,64,Team America: World Police,"Action, Comedy",98
+5.8,24.01,49,Around the World in 80 Days,"Action, Adventure, Comedy",120
+6.1,21.01,47,Flight of the Phoenix,"Action, Adventure, Drama",113
+7.4,28.75,88,Capote,"Biography, Crime, Drama",114
+6.4,,66,Wheelman,"Action, Crime, Mystery",82
+4.9,84.53,39,Tammy,"Comedy, Romance",97
+5.9,60.13,37,Resident Evil: Afterlife,"Action, Adventure, Horror",96
+7.1,0.03,63,Spy Game,"Action, Crime, Thriller",126
+5.2,20.82,39,Paul Blart: Mall Cop,"Action, Comedy, Crime",91
+6.1,38.35,40,Evolution,"Comedy, Sci-Fi",101
+4.9,43.34,34,Year One,"Adventure, Comedy",97
+5.6,88.72,47,Failure to Launch,"Comedy, Romance",97
+7.1,73.28,52,Spirit: Stallion of the Cimarron,"Animation, Adventure, Family",83
+5.3,18.6,51,Aquamarine,"Comedy, Family, Fantasy",104
+5.9,46.01,37,Made of Honor,"Comedy, Romance",101
+7.7,75.33,73,Ray,"Biography, Drama, Music",152
+7.3,46.41,62,The Best Exotic Marigold Hotel,"Comedy, Drama, Romance",124
+4.5,36.61,27,Taxi,"Action, Comedy, Crime",97
+5.8,47.6,44,Into the Storm,"Action, Thriller",89
+5.7,2.28,33,Collide,"Action, Crime, Thriller",99
+5.5,71.73,33,RV,"Adventure, Comedy, Family",99
+6.5,70.01,40,Act of Valor,"Action, Adventure, Drama",110
+6.2,15.03,64,Killing Them Softly,"Crime, Drama, News",97
+6.7,149.26,65,Puss in Boots,"Animation, Action, Adventure",90
+6.4,62.32,39,Underworld Awakening,"Action, Fantasy, Horror",88
+6.5,7.87,58,City of Ember,"Adventure, Family, Fantasy",90
+6.1,0.54,43,American Pastoral,"Crime, Drama",108
+4.9,33.02,26,Dracula 2000,"Action, Fantasy, Horror",99
+7.1,46.57,56,Phone Booth,"Crime, Thriller",81
+5.8,98.78,39,The Green Hornet,"Action, Comedy, Crime",119
+6.2,10.81,61,Extract,"Comedy, Crime, Romance",92
+6.4,40.22,48,Hardball,"Drama, Sport",106
+5.3,43.8,25,License to Wed,"Comedy, Romance",91
+4.3,,23,Exposed,"Crime, Drama, Fantasy",102
+5.7,30.61,63,Open Water,"Adventure, Drama, Horror",79
+5.6,17.23,53,Wanderlust,"Comedy, Romance",98
+3.5,38.54,37,Spy Kids 4: All the Time in the World,"Action, Adventure, Comedy",89
+5.9,22.53,44,The Incredible Burt Wonderstone,"Adventure, Comedy, Fantasy",100
+5.4,100.46,37,Evan Almighty,"Comedy, Family, Fantasy",96
+6.4,65.45,55,The Taking of Pelham 123,"Action, Crime, Thriller",106
+6.3,24.98,38,The November Man,"Action, Crime, Thriller",108
+7.2,5.31,45,Whatever Works,"Comedy, Romance",93
+6.4,1.02,38,Third Person,"Drama, Romance",137
+6.2,91.06,53,Save the Last Dance,"Drama, Music, Romance",112
+5.9,34.6,49,The 6th Day,"Action, Mystery, Sci-Fi",123
+6.2,134.94,41,Ride Along,"Action, Comedy, Crime",99
+6.5,0.13,68,Europa Report,"Drama, Mystery, Sci-Fi",90
+7.5,31.66,38,August Rush,"Drama, Music",114
+6.6,21.84,48,A Lot Like Love,"Comedy, Drama, Romance",107
+7.6,24.79,71,Thank You for Smoking,"Comedy, Drama",92
+6.3,10.27,24,The Boondock Saints II: All Saints Day,"Action, Crime, Thriller",118
+7.6,9.17,77,A Single Man,"Drama, Romance",99
+6.2,43.06,39,Reign of Fire,"Action, Adventure, Fantasy",101
+6.4,38.11,34,Ninja Assassin,"Action, Crime, Fantasy",99
+5.9,110.36,49,The Grudge,"Horror, Mystery, Thriller",91
+5.8,13.37,68,Friends with Money,"Comedy, Drama, Romance",88
+4.5,26.64,33,Superhero Movie,"Action, Comedy",75
+6.6,4.71,54,Hands of Stone,"Action, Biography, Drama",111
+6.9,16.29,45,Elizabeth: The Golden Age,"Biography, Drama, History",114
+6.1,0.03,43,Equals,"Drama, Romance, Sci-Fi",101
+6.0,37.17,46,28 Days,"Comedy, Drama",103
+6.9,6.26,87,All Is Lost,"Action, Adventure, Drama",106
+6.6,0.69,45,Fanboys,"Adventure, Comedy, Drama",90
+5.6,22.52,49,The Black Dahlia,"Crime, Drama, Mystery",121
+6.7,3.59,43,Wish I Was Here,"Comedy, Drama",106
+5.4,42.67,56,The Lizzie McGuire Movie,"Adventure, Comedy, Family",94
+6.4,16.01,44,The Raven,"Crime, Mystery, Thriller",110
+6.5,30.1,57,Daybreakers,"Action, Fantasy, Horror",98
+5.5,51.55,51,My Bloody Valentine,"Horror, Mystery, Thriller",101
+5.5,67.06,22,The Bounty Hunter,"Action, Comedy, Romance",110
+6.5,57.89,71,Red Eye,"Mystery, Thriller",85
+5.7,,19,Reasonable Doubt,"Crime, Thriller",91
+7.1,6.35,63,It's Kind of a Funny Story,"Comedy, Drama, Romance",101
+6.1,31.87,50,Murder by Numbers,"Crime, Mystery, Thriller",115
+6.7,83.35,53,Penguins of Madagascar,"Animation, Adventure, Comedy",92
+6.9,3.63,41,Stay,"Drama, Mystery, Thriller",99
+7.4,53.36,83,Corpse Bride,"Animation, Drama, Family",77
+5.1,44.34,56,The Three Stooges,"Comedy, Family",92
+5.7,67.17,52,Race to Witch Mountain,"Action, Adventure, Family",98
+7.4,19.39,73,Wonder Boys,"Comedy, Drama",107
+6.6,14.44,63,"Hello, My Name Is Doris","Comedy, Drama, Romance",90
+6.4,0.26,62,Wakefield,Drama,106
+6.6,53.03,50,Letters to Juliet,"Adventure, Comedy, Drama",105
+5.5,31.19,48,The Core,"Action, Adventure, Sci-Fi",135
+5.8,25.7,28,You Again,"Comedy, Family, Romance",105
+6.4,45.29,40,Here Comes the Boom,"Action, Comedy, Sport",105
+6.1,14.43,50,American Ultra,"Action, Comedy, Sci-Fi",96
+6.0,0.12,68,Z for Zachariah,"Drama, Sci-Fi, Thriller",98
+7.4,24.14,65,Clerks II,Comedy,97
+5.0,0.37,51,The Brown Bunny,Drama,93
+6.4,59.07,49,Behind Enemy Lines,"Action, Drama, Thriller",106
+3.7,23.64,36,The Wicker Man,"Horror, Mystery, Thriller",102
+5.6,15.05,47,The Box,"Drama, Fantasy, Mystery",115
+6.2,51.2,35,Resident Evil: Apocalypse,"Action, Horror, Sci-Fi",94
+6.5,42.93,51,Snitch,"Action, Drama, Thriller",112
+3.3,40.2,27,Catwoman,"Action, Crime, Fantasy",104
+6.7,32.54,66,Bend It Like Beckham,"Comedy, Drama, Romance",112
+2.8,,5,The Human Centipede III (Final Sequence),"Comedy, Horror",102
+5.8,135.39,48,Chicken Little,"Animation, Adventure, Comedy",81
+7.1,,31,Fathers & Daughters,Drama,116
+4.3,,38,Cell,"Action, Drama, Horror",98
+6.3,131.54,49,Rio 2,"Animation, Adventure, Comedy",101
+6.2,90.65,44,The Game Plan,"Comedy, Family, Sport",110
+4.9,47.43,47,Poltergeist,"Horror, Thriller",93
+3.5,32.02,11,Scary Movie 5,Comedy,86
+7.4,2.06,72,Brick,"Action, Crime, Drama",110
+7.3,3.76,88,Anomalisa,"Animation, Comedy, Drama",90
+6.8,35.76,58,Trouble with the Curve,"Drama, Sport",111
+6.1,0.34,71,Drinking Buddies,"Comedy, Drama, Romance",90
+6.9,12.19,55,The 33,"Biography, Drama, History",127
+5.4,10.71,44,Drive Angry,"Action, Fantasy, Thriller",104
+7.0,14.6,65,My Week with Marilyn,"Biography, Drama",99
+5.5,35.08,29,The Hot Chick,"Comedy, Fantasy",104
+5.5,110.0,49,Scary Movie 3,Comedy,84
+6.2,18.21,42,Next,"Action, Sci-Fi, Thriller",96
+6.1,88.24,55,Starsky & Hutch,"Comedy, Crime",101
+6.2,66.95,54,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Comedy, Family",81
+6.0,63.45,65,Miami Vice,"Action, Crime, Thriller",134
+6.1,78.03,52,The Monuments Men,"Drama, History, War",118
+6.1,,37,Heist,"Action, Crime, Thriller",93
+5.1,8.5,41,The Quiet Ones,Horror,98
+7.1,33.6,79,Flags of our Fathers,"Drama, History, War",135
+8.0,4.18,61,Dancer in the Dark,"Crime, Drama, Musical",140
+7.3,0.08,49,Stuck in Love,"Comedy, Drama, Romance",97
+5.6,17.07,52,Win a Date with Tad Hamilton!,"Comedy, Romance",95
+5.8,3.45,61,The To Do List,"Comedy, Romance",104
+5.8,61.98,43,The Wolfman,"Drama, Fantasy, Horror",103
+5.1,24.72,32,The Sweetest Thing,"Comedy, Romance",88
+5.6,21.78,28,The Big Wedding,"Comedy, Drama, Romance",89
+6.2,5.73,50,Closed Circuit,"Crime, Drama, Mystery",96
+6.7,25.29,27,Sweet November,"Drama, Romance",119
+5.1,47.86,27,When a Stranger Calls,"Crime, Horror, Mystery",87
+6.5,11.29,57,Casanova,"Adventure, Comedy, Drama",112
+6.4,15.86,69,The Birth of a Nation,"Biography, Drama, History",120
+5.7,10.39,35,The Perfect Score,"Comedy, Crime",93
+5.3,60.4,33,The Wedding Planner,"Comedy, Romance",103
+7.3,28.48,45,Mr. Brooks,"Crime, Drama, Thriller",120
+6.4,0.12,62,Centurion,"Action, Adventure, Drama",97
+6.1,0.72,56,On the Road,"Adventure, Drama, Romance",124
+6.9,0.42,68,Primer,"Drama, Sci-Fi, Thriller",77
+5.0,84.22,34,Scooby-Doo 2: Monsters Unleashed,"Adventure, Comedy, Family",93
+6.1,0.08,58,The Midnight Meat Train,"Horror, Mystery, Thriller",100
+6.4,119.79,59,Cloudy with a Chance of Meatballs 2,"Animation, Action, Adventure",95
+7.2,6.0,79,The Sessions,"Biography, Comedy, Drama",95
+7.7,16.25,70,21 Grams,"Crime, Drama, Thriller",124
+7.0,94.13,66,Julie & Julia,"Biography, Drama, Romance",118
+6.2,16.81,34,Dead Silence,"Fantasy, Horror, Mystery",89
+5.6,5.84,66,The Bling Ring,"Biography, Crime, Drama",90
+4.8,0.48,38,DOA: Dead or Alive,"Action, Adventure",87
+3.1,14.0,12,Left Behind,"Action, Drama, Fantasy",110
+6.0,16.25,33,Original Sin,"Drama, Mystery, Romance",116
+6.6,65.96,76,The Manchurian Candidate,"Drama, Mystery, Sci-Fi",129
+6.3,104.57,43,American Wedding,Comedy,96
+6.4,1.06,54,Thanks for Sharing,"Comedy, Drama, Romance",112
+7.3,47.4,79,Precious,Drama,110
+7.5,18.75,72,Still Alice,Drama,101
+5.9,58.17,29,Without a Paddle,"Adventure, Comedy, Mystery",95
+5.8,10.32,45,Straw Dogs,"Action, Drama, Thriller",110
+5.3,14.79,32,"I Love You, Beth Cooper","Comedy, Romance",102
+6.1,0.02,47,Maniac,"Horror, Thriller",89
+6.5,1.99,64,Shortbus,"Drama, Romance",101
+5.6,82.23,38,The Pink Panther,"Adventure, Comedy, Crime",93
+7.2,13.74,79,Broken Flowers,"Comedy, Drama, Mystery",106
+6.4,42.04,48,Spanglish,"Comedy, Drama, Romance",131
+6.2,44.09,63,The Sisterhood of the Traveling Pants 2,"Comedy, Drama, Romance",119
+6.1,,28,6 Souls,"Horror, Mystery, Thriller",112
+3.8,0.12,17,The Human Centipede II (Full Sequence),Horror,91
+6.1,31.73,32,The Wedding Date,"Comedy, Romance",90
+7.6,0.69,37,Mr. Church,"Comedy, Drama",104
+4.3,0.0,,Singularity,"Action, Adventure, Drama",92
+5.5,148.38,27,Little Fockers,"Comedy, Romance",98
+7.1,47.54,56,The Kingdom,"Action, Drama, Thriller",110
+5.5,21.6,31,Your Highness,"Adventure, Comedy, Fantasy",102
+7.3,41.31,90,Gosford Park,"Comedy, Drama, Mystery",131
+5.7,56.05,37,Be Cool,"Comedy, Crime, Music",118
+6.4,56.36,56,Once Upon a Time in Mexico,"Action, Thriller",102
+7.2,187.17,55,The Croods,"Animation, Action, Adventure",98
+6.5,103.37,76,Dreamgirls,"Drama, Music, Musical",130
+6.9,31.85,46,Extremely Loud & Incredibly Close,"Adventure, Drama, Mystery",129
+7.5,36.61,64,Freedom Writers,"Biography, Crime, Drama",123
+6.7,107.52,52,Epic,"Animation, Adventure, Family",102
+7.0,14.48,62,Big Eyes,"Biography, Crime, Drama",106
+5.9,39.05,36,Something Borrowed,"Comedy, Drama, Romance",112
+6.2,,46,The Whole Truth,"Crime, Drama, Mystery",93
+4.3,5.97,26,Basic Instinct 2,"Drama, Mystery, Thriller",114
+5.5,7.61,27,Mortdecai,"Action, Comedy, Crime",107
+6.0,162.99,62,The SpongeBob Movie: Sponge Out of Water,"Animation, Adventure, Comedy",92
+5.2,66.48,30,The Final Destination,"Fantasy, Horror, Mystery",82
+6.4,18.3,64,Fright Night,"Action, Comedy, Horror",106
+6.9,30.06,51,Jay and Silent Bob Strike Back,Comedy,104
+6.8,71.99,64,1408,"Drama, Horror",104
+5.6,64.94,46,Mirror Mirror,"Adventure, Comedy, Drama",106
+7.5,18.62,78,Best in Show,Comedy,90
+6.7,47.73,59,The Rundown,"Action, Adventure, Comedy",104
+7.0,7.7,79,Loving,"Biography, Drama, Romance",123
+6.1,17.3,,Inkheart,"Adventure, Family, Fantasy",106
+6.6,2.43,68,The Homesman,"Drama, Western",122
+5.7,33.37,41,Monster Trucks,"Action, Adventure, Comedy",104
+5.7,42.74,51,Death at a Funeral,Comedy,92
+6.3,31.16,29,How High,"Comedy, Fantasy",93
+6.4,26.87,53,Stick It,"Comedy, Drama, Sport",103
+5.4,63.03,40,The Boss,Comedy,99
+4.7,41.8,29,Aliens vs. Predator: Requiem,"Action, Horror, Sci-Fi",94
+7.0,5.74,79,A Most Violent Year,"Crime, Drama, Thriller",125
+6.0,10.96,51,Doomsday,"Action, Sci-Fi, Thriller",105
+7.2,70.27,63,Rocky Balboa,"Drama, Sport",102
+6.8,25.3,51,The Transporter,"Action, Crime, Thriller",92
+7.9,44.67,89,The Artist,"Comedy, Drama, Romance",100
+6.6,241.44,62,My Big Fat Greek Wedding,"Comedy, Drama, Romance",95
+7.4,4.06,82,Frances Ha,"Comedy, Drama, Romance",86
+7.1,12.23,71,Far from the Madding Crowd,"Drama, Romance",119
+8.0,61.65,69,Cinderella Man,"Biography, Drama, Sport",144
+7.4,93.47,42,The Bucket List,"Adventure, Comedy, Drama",97
+6.6,64.67,74,Flushed Away,"Animation, Adventure, Comedy",85
+7.1,5.5,73,A Scanner Darkly,"Animation, Crime, Drama",100
+7.0,55.68,53,Legend of the Guardians: The Owls of Ga'Hoole,"Animation, Action, Adventure",97
+7.9,8.11,94,Before Midnight,"Drama, Romance",109
+7.1,11.01,56,Lords of Dogtown,"Biography, Drama, Sport",107
+6.3,139.85,45,Taken 2,"Action, Crime, Thriller",92
+6.6,87.04,40,Saw II,"Horror, Mystery",93
+6.2,140.13,44,Rush Hour 3,"Action, Comedy, Crime",91
+5.8,65.18,38,Think Like a Man Too,"Comedy, Romance",106
+6.8,17.24,73,A Most Wanted Man,"Crime, Drama, Thriller",122
+5.1,1.34,56,A Dirty Shame,Comedy,89
+5.9,27.09,20,Joe Dirt,"Adventure, Comedy, Drama",91
+6.7,75.07,46,The Exorcism of Emily Rose,"Drama, History, Horror",119
+7.1,4.19,50,The Water Diviner,"Drama, History, War",111
+5.3,12.56,49,Silent House,"Drama, Horror, Mystery",86
+6.7,0.32,76,The Guest,"Mystery, Thriller",100
+6.3,118.59,64,Blades of Glory,"Comedy, Sport",93
+6.6,7.92,73,Arbitrage,"Drama, Thriller",107
+5.7,29.14,41,Priest,"Action, Fantasy, Horror",87
+6.1,,,Ask Me Anything,Drama,100
+6.2,28.08,51,Johnny English,"Action, Adventure, Comedy",87
+6.1,0.22,50,The Zero Theorem,"Comedy, Drama, Fantasy",107
+6.3,127.35,61,Anchorman 2: The Legend Continues,Comedy,119
+7.3,10.14,70,The Walk,"Adventure, Biography, Crime",123
+5.2,217.33,39,Alvin and the Chipmunks,"Animation, Comedy, Family",92
+5.9,142.11,48,xXx,"Action, Adventure, Thriller",124
+6.4,36.32,43,Death Race,"Action, Sci-Fi, Thriller",105
+6.4,0.03,51,White Bird in a Blizzard,"Drama, Mystery, Thriller",91
+7.3,,55,The Fundamentals of Caring,"Comedy, Drama",97
+6.8,4.85,62,Bleed for This,"Biography, Drama, Sport",117
+6.6,52.08,57,The Forbidden Kingdom,"Action, Adventure, Fantasy",104
+7.5,83.3,65,Saving Mr. Banks,"Biography, Comedy, Drama",125
+5.6,32.48,59,Unfriended,"Drama, Horror, Mystery",83
+6.3,38.58,45,Surrogates,"Action, Crime, Mystery",89
+5.9,0.25,43,Spread,"Comedy, Drama, Romance",97
+7.7,22.25,83,Adaptation.,"Comedy, Drama",114
+6.2,17.62,42,Parker,"Action, Crime, Romance",118
+6.3,1.72,53,Billy Lynn's Long Halftime Walk,"Drama, War",113
+6.3,82.99,68,Charlotte's Web,"Comedy, Family, Fantasy",97
+6.6,4.07,63,Denial,"Biography, Drama",109
+6.1,0.2,61,10 Years,"Comedy, Drama, Romance",100
+6.0,68.67,41,Sahara,"Action, Adventure, Comedy",124
+5.4,30.21,46,How Do You Know,"Comedy, Drama, Romance",121
+5.3,30.22,37,Honey,"Drama, Music, Romance",94
+5.1,0.78,35,31,"Horror, Thriller",102
+6.5,0.38,58,Session 9,"Horror, Mystery",97
+7.7,51.68,67,Finding Neverland,"Biography, Drama, Family",106
+6.2,50.58,57,Jack Ryan: Shadow Recruit,"Action, Drama, Thriller",105
+5.5,17.22,30,Seventh Son,"Action, Adventure, Fantasy",102
+5.9,28.97,24,The New Guy,Comedy,88
+6.0,5.78,36,Victor Frankenstein,"Drama, Horror, Sci-Fi",110
+6.3,0.03,52,Mr. Right,"Action, Comedy, Romance",95
+6.9,11.54,55,The Conspirator,"Crime, Drama, History",122
+6.9,80.21,62,Disturbia,"Drama, Mystery, Thriller",105
+6.6,91.55,51,Think Like a Man,"Comedy, Romance",122
+7.3,165.25,67,Kung Fu Panda 2,"Animation, Action, Adventure",90
+6.6,0.1,50,Last Night,"Drama, Romance",93
+6.4,1.87,49,Cake,Drama,102
+6.5,1.03,65,Kill Your Darlings,"Biography, Drama, Romance",104
+5.5,91.05,45,The Scorpion King,"Action, Adventure, Fantasy",92
+6.6,71.2,62,The Spiderwick Chronicles,"Adventure, Family, Fantasy",96
+7.0,196.57,50,Ice Age: Dawn of the Dinosaurs,"Animation, Action, Adventure",94
+5.8,54.1,41,Final Destination 3,"Fantasy, Horror, Mystery",93
+7.1,43.85,53,Soul Surfer,"Biography, Drama, Family",112
+6.5,69.77,32,Swordfish,"Action, Crime, Thriller",99
+7.1,143.15,53,Marley & Me,"Comedy, Drama, Family",115
+7.0,62.66,58,Jarhead,"Biography, Drama, War",125
+6.3,128.2,64,Robots,"Animation, Adventure, Comedy",91
+6.7,17.17,52,Center Stage,"Drama, Music, Romance",115
+6.6,90.57,49,"Me, Myself & Irene",Comedy,116
+5.5,34.02,58,Snakes on a Plane,"Action, Adventure, Crime",105
+6.7,62.32,36,Underworld: Evolution,"Action, Adventure, Fantasy",106
+5.6,8.01,41,Machete Kills,"Action, Crime, Sci-Fi",107
+7.1,41.39,75,About a Boy,"Comedy, Drama, Romance",101
+6.4,90.46,73,Space Cowboys,"Action, Adventure, Thriller",130
+6.6,161.32,49,Ice Age: Continental Drift,"Animation, Adventure, Comedy",88
+7.6,40.14,67,Stranger Than Fiction,"Comedy, Drama, Fantasy",113
+6.4,336.05,56,Minions,"Animation, Action, Adventure",91
+7.3,120.28,72,Seabiscuit,"Drama, History, Sport",140
+7.4,49.2,51,My Sister's Keeper,"Drama, Family",109
+6.6,37.31,59,J. Edgar,"Biography, Crime, Drama",137
+6.0,0.05,64,In a Valley of Violence,"Action, Crime, Drama",104
+6.5,3.78,,Batman: The Killing Joke,"Animation, Action, Crime",76
+7.0,2.45,60,Kill the Messenger,"Biography, Crime, Drama",112
+5.4,9.44,33,Sleepover,"Comedy, Family, Romance",89
+7.1,38.18,60,Treasure Planet,"Animation, Adventure, Family",95
+6.9,7.46,47,A Good Year,"Comedy, Drama, Romance",117
+5.1,94.78,34,"10,000 BC","Action, Adventure, Drama",109
+6.0,89.26,26,Taken 3,"Action, Thriller",108
+7.3,30.03,69,The Bank Job,"Crime, Drama, Romance",111
+8.0,2.63,71,The Raid 2,"Action, Crime, Thriller",150
+6.2,3.59,46,We Are Your Friends,"Drama, Music, Romance",96
+6.4,60.97,65,Get Him to the Greek,"Adventure, Comedy, Music",109
+6.5,137.75,56,Dinosaur,"Animation, Adventure, Family",82
+5.5,104.3,39,Daddy Day Care,"Comedy, Family",92
+6.9,173.4,64,Elf,"Comedy, Family, Fantasy",97
+6.5,32.0,60,Cellular,"Action, Crime, Thriller",94
+7.3,49.03,82,Michael Clayton,"Crime, Drama, Mystery",119
+6.3,74.08,42,Along Came a Spider,"Drama, Thriller",104
+6.3,35.61,61,The American,"Crime, Drama, Thriller",105
+6.1,12.63,31,House of 1000 Corpses,Horror,89
+5.3,39.46,38,Little Nicky,"Comedy, Fantasy",90
+5.7,40.01,25,Enough,"Crime, Drama, Thriller",115
+7.2,17.47,72,Dope,"Action, Comedy, Crime",103
+6.6,29.12,49,The Mechanic,"Action, Crime, Thriller",93
+6.5,23.24,44,Faster,"Action, Crime, Drama",98
+5.6,27.87,40,Beastly,"Drama, Fantasy, Romance",86
+6.6,101.11,43,Eagle Eye,"Action, Crime, Mystery",118
+6.0,,,Circle,"Drama, Horror, Mystery",87
+6.5,31.16,37,Charlie St. Cloud,"Drama, Fantasy, Romance",99
+4.3,51.77,34,Ghost Rider: Spirit of Vengeance,"Action, Fantasy, Thriller",96
+7.1,71.76,30,John Q,"Crime, Drama, Thriller",116
+5.8,0.69,45,The Paperboy,"Crime, Drama, Horror",107
+5.8,59.69,38,Gothika,"Horror, Mystery, Thriller",98
+6.2,3.25,49,The Fifth Estate,"Biography, Drama, Thriller",128
+7.5,64.38,68,Miracle,"Biography, Drama, History",135
+5.3,0.53,44,By the Sea,"Drama, Romance",122
+7.3,71.51,64,Chocolat,"Drama, Romance",121
+6.6,53.37,39,Life as We Know It,"Comedy, Drama, Romance",114
+7.6,41.41,52,Secondhand Lions,"Comedy, Drama, Family",109
+6.7,3.41,68,Like Crazy,"Drama, Romance",86
+8.0,1.01,82,Short Term 12,Drama,96
+4.8,26.58,34,The Forest,"Horror, Mystery, Thriller",93
+4.4,0.05,,LOL,"Comedy, Drama, Romance",97
+6.4,,37,The Frozen Ground,"Crime, Drama, Mystery",105
+5.8,95.17,43,The Princess Diaries 2: Royal Engagement,"Comedy, Family, Romance",113
+7.3,12.57,85,An Education,Drama,100
+5.9,,,Ken Park,Drama,93
+7.0,1.98,49,Demolition,"Comedy, Drama",101
+6.4,145.1,43,American Pie 2,Comedy,108
+6.6,43.73,48,Tears of the Sun,"Action, Drama, Thriller",121
+6.5,198.35,56,Monsters vs. Aliens,"Animation, Action, Adventure",94
+6.3,20.57,63,Keanu,"Action, Comedy",100
+5.3,0.45,53,Bachelorette,"Comedy, Romance",87
+6.2,13.25,25,Case 39,"Horror, Mystery, Thriller",109
+7.9,128.08,93,"Crouching Tiger, Hidden Dragon","Action, Adventure, Fantasy",120
+6.2,16.93,49,The Thing,"Horror, Mystery, Sci-Fi",103
+6.3,8.31,46,Johnny English Reborn,"Action, Adventure, Comedy",101
+7.8,22.49,53,Lucky Number Slevin,"Crime, Drama, Mystery",110
+7.4,8.58,67,Death at a Funeral,Comedy,90
+6.7,1.99,62,Killer Joe,"Crime, Drama, Thriller",102
+5.5,109.21,23,Couples Retreat,Comedy,113
+7.4,11.24,76,Jane Eyre,"Drama, Romance",120
+6.6,43.31,55,Edge of Darkness,"Crime, Drama, Mystery",117
+5.8,23.99,54,Observe and Report,"Action, Comedy, Crime",86
+6.7,64.46,35,The Wedding Ringer,Comedy,101
+6.7,59.95,61,The Good Shepherd,"Drama, History, Thriller",167
+7.1,31.74,60,9,"Animation, Action, Adventure",79
+5.8,10.64,39,The Gunman,"Action, Crime, Drama",115
+5.8,41.01,41,John Tucker Must Die,"Comedy, Romance",89
+5.9,42.59,50,Final Destination 5,"Fantasy, Horror, Mystery",92
+6.3,107.92,68,Paranormal Activity,"Horror, Mystery, Thriller",86
+6.4,3.66,61,Laurel Canyon,Drama,103
+6.5,1.29,44,Funny Games,"Crime, Drama, Horror",111
+6.3,17.41,50,Dark Skies,"Horror, Sci-Fi, Thriller",97
+7.0,9.4,52,Black Snake Moan,"Drama, Music",116
+6.8,26.42,55,Street Kings,"Action, Crime, Drama",109
+5.5,89.14,56,Scream 3,"Horror, Mystery",116
+7.4,5.97,70,Lars and the Real Girl,"Comedy, Drama, Romance",106
+5.3,67.35,28,A Good Day to Die Hard,"Action, Thriller",98
+6.9,114.05,67,Bolt,"Animation, Adventure, Comedy",96
+6.9,20.76,53,Free State of Jones,"Action, Biography, Drama",139
+7.4,5.66,83,20th Century Women,"Comedy, Drama",119
+6.3,89.71,53,Flightplan,"Horror, Thriller",98
+6.5,5.7,76,A Dangerous Method,"Biography, Drama, Romance",99
+5.9,37.52,42,Abraham Lincoln: Vampire Hunter,"Action, Fantasy, Horror",105
+5.6,60.67,50,Poseidon,"Action, Adventure, Drama",98
+5.6,86.21,36,Dumb and Dumber To,"Adventure, Comedy",109
+6.0,33.63,55,The Gambler,"Crime, Drama, Thriller",111
+4.4,10.73,27,The Darkness,"Horror, Thriller",92
+6.5,18.47,66,You're Next,"Horror, Thriller",95
+5.9,168.27,27,Wild Hogs,"Adventure, Comedy",100
+6.4,21.01,26,Van Wilder: Party Liaison,"Comedy, Romance",92
+6.9,50.86,51,The Road to El Dorado,"Animation, Adventure, Comedy",89
+7.0,6.09,33,Grandma's Boy,Comedy,94
+7.3,58.01,63,The Lincoln Lawyer,"Crime, Drama, Thriller",118
+6.1,110.1,33,Bedtime Stories,"Comedy, Family, Fantasy",99
+7.5,31.49,81,A History of Violence,"Crime, Drama, Thriller",96
+6.8,27.55,58,The Finest Hours,"Action, Drama, History",117
+6.6,34.64,44,Hostage,"Action, Crime, Drama",113
+7.3,5.49,77,Rescue Dawn,"Adventure, Biography, Drama",120
+6.8,81.56,69,Unstoppable,"Action, Thriller",98
+5.5,58.72,24,Bride Wars,"Comedy, Romance",89
+7.5,52.08,89,Selma,"Biography, Drama, History",128
+4.7,24.41,34,Elektra,"Action, Adventure, Crime",97
+7.4,6.22,88,Ghost World,"Comedy, Drama",111
+6.6,226.16,48,Rush Hour 2,"Action, Comedy, Crime",90
+6.5,130.32,54,Get Smart,"Action, Adventure, Comedy",110
+6.8,0.32,50,Super,"Action, Comedy, Drama",96
+8.1,5.79,90,Before Sunset,"Drama, Romance",80
+7.3,0.03,39,Pelé: Birth of a Legend,"Biography, Drama, Sport",107
+5.3,16.97,48,The Counsellor,"Crime, Drama, Thriller",117
+7.4,33.58,82,The Constant Gardener,"Drama, Mystery, Romance",129
+7.8,0.08,79,Beasts of No Nation,"Drama, War",137
+7.4,57.49,54,Memoirs of a Geisha,"Drama, Romance",145
+6.6,112.74,57,It's Complicated,"Comedy, Drama, Romance",120
+6.5,7.77,69,Slither,"Comedy, Horror, Sci-Fi",95
+7.0,124.87,66,Cloudy with a Chance of Meatballs,"Animation, Action, Adventure",90
+7.3,11.0,64,The Young Victoria,"Biography, Drama, History",105
+6.6,26.44,59,Run All Night,"Action, Crime, Drama",114
+7.8,35.74,63,Changeling,"Biography, Crime, Drama",141
+6.3,36.92,42,The Family,"Comedy, Crime, Thriller",111
+3.4,37.19,27,Crossroads,"Comedy, Drama, Romance",93
+5.5,65.66,43,Lara Croft Tomb Raider: The Cradle of Life,"Action, Adventure, Fantasy",117
+6.8,96.4,65,Panic Room,"Crime, Drama, Thriller",112
+7.5,16.1,85,Fruitvale Station,"Biography, Drama, Romance",85
+7.0,1.03,65,Buried,"Drama, Mystery, Thriller",95
+6.1,34.9,65,Ouija: Origin of Evil,"Horror, Thriller",99
+6.6,49.55,53,Australia,"Adventure, Drama, Romance",165
+7.6,21.49,53,The Book Thief,"Drama, War",131
+5.9,45.02,40,Smurfs: The Lost Village,"Animation, Adventure, Comedy",90
+6.2,46.96,38,Final Destination 2,"Fantasy, Horror, Mystery",90
+6.5,39.12,55,The Crazies,"Horror, Thriller",101
+5.5,25.86,36,Æon Flux,"Action, Adventure, Drama",93
+7.2,28.64,58,Defiance,"Action, Drama, History",137
+7.4,77.59,68,The Adventures of Tintin,"Animation, Action, Adventure",107
+7.4,21.5,68,The Way Way Back,"Comedy, Drama",103
+6.4,182.62,59,The Perfect Storm,"Action, Adventure, Drama",130
+6.0,,35,Very Good Girls,"Drama, Romance",91
+6.9,,63,Suite Française,"Drama, Romance, War",107
+6.3,98.71,56,Date Night,"Comedy, Crime, Romance",88
+5.7,4.99,45,Club Dread,"Comedy, Horror, Mystery",104
+6.5,82.39,30,Let's Be Cops,"Comedy, Crime",104
+6.3,6.92,42,Take Me Home Tonight,"Comedy, Drama, Romance",97
+5.7,80.57,50,Eat Pray Love,"Drama, Romance",133
+7.5,13.24,93,Inside Llewyn Davis,"Drama, Music",104
+7.1,37.02,64,State of Play,"Action, Crime, Drama",127
+4.2,111.76,57,Spy Kids 3: Game Over,"Action, Adventure, Comedy",84
+7.4,37.49,74,Invictus,"Biography, Drama, History",134
+5.5,17.61,46,Hostel: Part II,"Crime, Horror, Thriller",94
+7.2,116.63,66,Lee Daniels' The Butler,"Biography, Drama",132
+5.7,22.47,28,Hitman: Agent 47,"Action, Adventure, Crime",96
+7.0,27.83,57,Crank,"Action, Crime, Thriller",88
+5.7,80.2,52,Nacho Libre,"Comedy, Family, Sport",92
+7.4,21.59,76,Mud,Drama,130
+7.1,5.35,76,Margin Call,"Drama, Thriller",107
+6.7,6.62,59,Seeking a Friend for the End of the World,"Adventure, Comedy, Drama",101
+6.6,34.29,44,This Is Where I Leave You,"Comedy, Drama",103
+3.5,39.18,38,The Adventures of Sharkboy and Lavagirl 3-D,"Action, Adventure, Family",93
+6.8,16.12,30,Waiting...,Comedy,94
+6.5,1.21,41,Child 44,"Crime, Drama, Thriller",137
+5.7,,20,Would You Rather,Horror,93
+5.6,113.09,30,The Pacifier,"Action, Comedy, Drama",95
+5.4,0.35,57,Teeth,"Comedy, Fantasy, Horror",94
+7.5,7.86,60,Trumbo,"Biography, Drama",124
+7.5,5.46,75,Little Children,"Drama, Romance",136
+6.2,13.63,41,Crank: High Voltage,"Action, Crime, Thriller",96
+5.3,30.34,30,Queen of the Damned,"Drama, Fantasy, Horror",101
+7.1,28.5,58,Brothers,"Drama, Thriller, War",105
+6.7,0.46,38,"Men, Women & Children","Comedy, Drama",119
+7.9,2.28,64,The Fall,"Adventure, Comedy, Drama",117
+7.6,40.31,28,I Am Sam,Drama,132
+7.3,17.84,78,Punch-Drunk Love,"Comedy, Drama, Romance",95
+5.8,17.0,66,Splice,"Drama, Horror, Sci-Fi",104
+3.8,0.38,24,Piranha 3DD,"Comedy, Horror",83
+6.9,13.04,68,Whip It,"Drama, Sport",111
+6.5,254.46,44,The Hangover Part II,"Comedy, Mystery",102
+6.9,13.36,52,Labor Day,"Drama, Romance",111
+6.3,22.92,53,Ella Enchanted,"Comedy, Family, Fantasy",96
+7.0,85.42,66,The SpongeBob SquarePants Movie,"Animation, Adventure, Comedy",87
+5.6,60.88,34,Mission to Mars,"Adventure, Sci-Fi, Thriller",114
+6.8,10.33,28,Pandorum,"Action, Horror, Mystery",108
+6.0,35.79,42,The Boy,"Horror, Mystery, Thriller",97
+6.2,45.86,44,Walking Tall,"Action, Crime",86
+7.2,1.29,61,The Kings of Summer,"Adventure, Comedy, Drama",95
+6.3,0.58,57,All Good Things,"Crime, Drama, Mystery",101
+6.9,216.39,60,Madagascar 3: Europe's Most Wanted,"Animation, Adventure, Comedy",93
+7.1,34.53,55,Concussion,"Biography, Drama, Sport",123
+4.8,34.34,,Texas Chainsaw 3D,"Horror, Thriller",92
+5.4,44.81,31,Red Dawn,"Action, Sci-Fi, Thriller",93
+5.5,33.72,35,Dreamcatcher,"Drama, Horror, Sci-Fi",134
+7.5,1.2,33,Equilibrium,"Action, Drama, Sci-Fi",107
+7.0,9.19,79,A Serious Man,"Comedy, Drama",106
+5.4,1.82,55,Tusk,"Comedy, Drama, Horror",102
+5.8,55.25,34,Ghosts of Girlfriends Past,"Comedy, Fantasy, Romance",100
+6.0,90.41,34,Get Hard,"Comedy, Crime",100
+7.5,0.34,55,Green Street Hooligans,"Crime, Drama, Sport",109
+6.4,7.71,29,The Collector,"Horror, Thriller",90
+5.2,63.08,35,A Nightmare on Elm Street,"Crime, Drama, Horror",95
+5.6,33.62,25,R.I.P.D.,"Action, Adventure, Comedy",96
+6.4,182.81,47,What Women Want,"Comedy, Fantasy, Romance",127
+6.2,79.96,41,Knowing,"Drama, Mystery, Sci-Fi",121
+7.6,47.4,74,Munich,"Drama, History, Thriller",164
+5.6,21.16,56,Cabin Fever,Horror,93
+7.2,67.36,78,Insomnia,"Drama, Mystery, Thriller",118
+6.7,76.23,71,Pete's Dragon,"Action, Adventure, Comedy",102
+6.7,155.02,67,Over the Hedge,"Animation, Adventure, Comedy",83
+6.9,63.22,52,The Holiday,"Comedy, Romance",138
+6.7,0.32,55,Liberal Arts,"Comedy, Drama, Romance",97
+6.1,14.01,35,What's Your Number?,"Comedy, Romance",106
+6.8,18.32,63,Walk Hard: The Dewey Cox Story,"Comedy, Music",96
+7.2,79.88,72,War Horse,"Drama, History, War",146
+7.1,63.41,47,The Time Traveler's Wife,"Drama, Fantasy, Romance",107
+6.8,7.52,64,Proof,"Drama, Mystery",100
+6.2,0.02,31,Winter's Tale,"Drama, Fantasy, Mystery",118
+5.8,3.61,40,Table 19,"Comedy, Drama, Romance",87
+3.6,35.27,27,The Flintstones in Viva Rock Vegas,"Comedy, Family, Romance",90
+6.5,25.92,33,Leap Year,"Comedy, Romance",100
+5.8,82.62,37,Freddy vs. Jason,"Action, Horror, Thriller",97
+6.6,47.14,59,Nanny McPhee,"Comedy, Family, Fantasy",97
+6.2,33.58,44,Devil,"Horror, Mystery, Thriller",80
+6.9,15.23,53,Alpha Dog,"Biography, Crime, Drama",122
+6.5,0.0,42,Anna,"Drama, Mystery, Sci-Fi",99
+6.0,120.06,37,I Now Pronounce You Chuck & Larry,"Comedy, Romance",115
+7.3,82.58,84,The Descendants,"Comedy, Drama",115
+6.7,180.01,61,Madagascar: Escape 2 Africa,"Animation, Action, Adventure",89
+6.9,97.82,61,Meet the Robinsons,"Animation, Adventure, Comedy",95
+6.5,1.84,44,Henry Poole Is Here,"Comedy, Drama",99
+6.7,75.61,55,2 Guns,"Action, Comedy, Crime",109
+4.9,21.43,18,The Darkest Hour,"Action, Adventure, Horror",89
+6.0,7.95,30,Punisher: War Zone,"Action, Adventure, Crime",103
+6.2,37.9,49,Jeepers Creepers,"Horror, Mystery",90
+7.1,61.69,44,Miracles from Heaven,"Biography, Drama, Family",109
+6.0,37.88,49,Bedazzled,"Comedy, Fantasy",93
+6.3,23.39,30,Endless Love,"Drama, Romance",104
+6.3,3.64,32,Scouts Guide to the Zombie Apocalypse,"Action, Comedy, Crime",93
+6.3,,54,The Discovery,"Drama, Mystery, Romance",102
+6.3,51.86,60,Funny People,"Comedy, Drama",146
+6.9,63.69,56,Unknown,"Action, Mystery, Thriller",113
+5.7,26.38,38,Ben-Hur,"Action, Adventure, Drama",123
+5.9,37.92,51,The Brothers Grimm,"Adventure, Comedy, Fantasy",118
+5.1,75.03,38,Eragon,"Action, Adventure, Family",104
+6.6,179.5,58,Hitch,"Comedy, Romance",118
+7.5,3.9,68,The Assassination of Jesse James by the Coward Robert Ford,"Biography, Crime, Drama",160
+6.6,3.71,76,Midnight Special,"Action, Drama, Mystery",112
+6.1,63.15,46,The Sorcerer's Apprentice,"Action, Adventure, Family",109
+2.6,9.35,45,Dragonball: Evolution,"Action, Adventure, Fantasy",85
+6.4,73.1,52,White House Down,"Action, Drama, Thriller",131
+7.4,368.06,62,Despicable Me 2,"Animation, Adventure, Comedy",98
+6.3,38.36,28,47 Ronin,"Action, Adventure, Drama",128
+7.4,0.33,57,I Origins,"Drama, Romance, Sci-Fi",106
+7.2,17.75,82,Steve Jobs,"Biography, Drama",122
+8.0,3.23,79,Sing Street,"Comedy, Drama, Music",106
+6.6,32.36,38,Entourage,Comedy,104
+6.3,0.04,48,The Take,"Action, Crime, Drama",92
+4.3,22.38,37,The Bye Bye Man,"Horror, Thriller",97
+6.2,29.26,67,Zathura: A Space Adventure,"Action, Adventure, Comedy",101
+5.6,100.29,47,Bad Teacher,Comedy,92
+6.7,9.24,51,Hardcore Henry,"Action, Adventure, Sci-Fi",96
+7.2,78.12,65,We Were Soldiers,"Action, Drama, History",138
+6.8,16.03,76,Adventureland,"Comedy, Drama, Romance",107
+7.2,6.53,90,Winter's Bone,Drama,100
+5.7,,,2:22,Thriller,98
+6.4,0.02,45,Two Night Stand,"Comedy, Romance",86
+6.6,39.57,53,30 Days of Night,"Horror, Thriller",113
+5.9,56.68,42,The Time Machine,"Action, Adventure, Sci-Fi",96
+7.4,24.34,56,Across the Universe,"Drama, Fantasy, Musical",133
+5.5,79.37,40,The Day the Earth Stood Still,"Drama, Sci-Fi, Thriller",104
+5.6,,40,Wild Card,"Action, Crime, Drama",92
+7.1,40.96,67,The Ides of March,"Drama, Thriller",101
+5.9,112.2,30,The Hangover Part III,"Comedy, Crime",100
+6.7,124.73,66,Something's Gotta Give,"Comedy, Drama, Romance",128
+7.2,3.87,56,The Man Who Knew Infinity,"Biography, Drama",108
+5.5,,42,Marauders,"Action, Crime, Mystery",107
+5.8,138.61,46,Cheaper by the Dozen,"Comedy, Family",98
+7.1,1.01,58,Hard Candy,"Crime, Drama, Thriller",104
+7.5,34.3,69,Babel,Drama,143
+7.6,51.4,53,Enemy at the Gates,"Drama, History, War",131
+5.8,0.15,62,The Void,"Horror, Mystery, Sci-Fi",90
+6.9,17.04,53,The Devil's Rejects,"Crime, Horror",107
+6.0,67.63,37,The Tourist,"Action, Adventure, Crime",103
+5.9,45.06,45,Hall Pass,"Comedy, Romance",105
+6.5,,68,Imperium,"Crime, Drama, Thriller",109
+6.3,,,Spectral,"Action, Mystery, Sci-Fi",107
+5.9,88.1,44,Along Came Polly,"Comedy, Romance",90
+6.7,75.79,42,The Family Man,"Comedy, Drama, Fantasy",125
+5.7,41.15,41,What to Expect When You're Expecting,"Comedy, Drama, Romance",110
+6.3,44.67,42,The Internship,Comedy,119
+4.7,35.39,30,The Boy Next Door,"Romance, Thriller",91
+6.7,82.35,52,Blade II,"Action, Horror, Sci-Fi",117
+7.3,67.26,57,Coach Carter,"Biography, Drama, Sport",136
+5.9,177.24,42,Night at the Museum: Battle of the Smithsonian,"Adventure, Comedy, Family",105
+7.2,123.48,75,Rango,"Animation, Adventure, Comedy",107
+6.0,,29,Playing It Cool,"Comedy, Romance",94
+6.5,63.86,45,Mona Lisa Smile,Drama,117
+5.7,0.56,53,Knight of Cups,"Drama, Romance",118
+6.1,0.6,54,The Signal,"Sci-Fi, Thriller",97
+7.8,6.74,74,Me and Earl and the Dying Girl,"Comedy, Drama",105
+5.2,102.49,31,The Mummy: Tomb of the Dragon Emperor,"Action, Adventure, Fantasy",112
+6.6,24.85,39,Never Back Down,"Action, Drama, Sport",110
+7.0,1.54,45,Bully,"Biography, Crime, Drama",108
+7.1,39.24,49,Pitch Black,"Horror, Sci-Fi",109
+7.6,25.03,77,Grindhouse,"Action, Horror, Thriller",191
+7.3,10.14,51,The Fountain,"Drama, Sci-Fi",96
+6.3,23.02,42,Transcendence,"Drama, Mystery, Romance",119
+6.3,76.42,46,Knight and Day,"Action, Adventure, Comedy",109
+6.3,80.01,43,Dear John,"Drama, Romance, War",108
+7.3,54.24,55,The Hundred-Foot Journey,"Comedy, Drama",122
+6.6,2.06,66,Auto Focus,"Biography, Crime, Drama",105
+4.9,60.52,33,After Earth,"Action, Adventure, Sci-Fi",100
+7.4,15.79,54,Eddie the Eagle,"Biography, Comedy, Drama",106
+4.7,10.54,33,Jonah Hex,"Action, Drama, Fantasy",81
+5.8,19.66,49,Nine,"Drama, Musical, Romance",118
+6.6,18.62,40,Man on a Ledge,"Action, Adventure, Crime",102
+6.1,260.04,46,How the Grinch Stole Christmas,"Comedy, Family, Fantasy",104
+6.3,61.33,40,The Cell,"Horror, Sci-Fi, Thriller",107
+7.1,66.66,69,Charlie Wilson's War,"Biography, Comedy, Drama",102
+6.6,100.54,51,Due Date,"Action, Adventure, Comedy",95
+4.4,95.35,27,Sex and the City 2,"Comedy, Drama, Romance",146
+6.3,104.39,53,The Chronicles of Narnia: The Voyage of the Dawn Treader,"Adventure, Family, Fantasy",113
+6.3,,45,Sand Castle,"Drama, War",113
+6.9,173.01,39,National Treasure,"Action, Adventure, Family",131
+7.0,64.04,59,Deja Vu,"Action, Crime, Sci-Fi",126
+6.3,39.69,35,Hitman,"Action, Crime, Drama",100
+7.1,31.25,69,Monster's Ball,"Drama, Romance",111
+7.4,0.79,81,The Wailing,"Horror, Mystery, Thriller",156
+5.5,30.11,28,Ghost Ship,Horror,91
+6.0,27.37,34,The Last Witch Hunter,"Action, Adventure, Fantasy",106
+6.3,32.0,56,Paper Towns,"Drama, Mystery, Romance",109
+6.2,28.84,62,The Five-Year Engagement,"Comedy, Romance",124
+7.5,27.28,79,High Fidelity,"Comedy, Drama, Music",113
+7.6,4.11,73,The Raid: Redemption,"Action, Crime, Thriller",101
+5.7,110.49,34,Valentine's Day,"Comedy, Romance",125
+5.9,127.15,38,2 Fast 2 Furious,"Action, Crime, Thriller",107
+5.2,,,Cult of Chucky,"Horror, Thriller",91
+5.8,54.73,42,Office Christmas Party,Comedy,105
+6.2,1.8,57,The Wall,"Drama, Thriller, War",88
+6.6,45.17,61,Zoolander,Comedy,90
+6.8,77.23,71,Where the Wild Things Are,"Adventure, Drama, Family",101
+5.4,7.1,51,Blackhat,"Crime, Drama, Mystery",133
+7.1,,,Planet Terror,"Action, Comedy, Horror",105
+7.9,,,The Man from Earth,"Drama, Fantasy, Sci-Fi",87
+7.1,13.41,66,Megan Leavey,"Biography, Drama, War",116
+5.3,71.31,29,Scary Movie 2,Comedy,83
+7.1,32.17,75,Side Effects,"Crime, Drama, Mystery",106
+5.3,32.06,41,House of Wax,"Horror, Mystery, Thriller",108
+6.8,50.47,46,If I Stay,"Drama, Fantasy, Music",107
+6.5,71.96,50,The Purge: Anarchy,"Action, Horror, Sci-Fi",103
+5.4,20.99,40,Aloha,"Comedy, Drama, Romance",105
+7.4,183.14,80,The Simpsons Movie,"Animation, Adventure, Comedy",87
+6.1,57.33,41,Next Friday,Comedy,98
+6.6,0.03,75,Super Dark Times,"Drama, Thriller",100
+6.2,80.57,38,The Texas Chainsaw Massacre,Horror,98
+5.2,115.8,35,Ghost Rider,"Action, Fantasy, Horror",114
+6.9,48.46,64,Peter Pan,"Adventure, Family, Fantasy",113
+6.0,65.23,33,The Amityville Horror,"Drama, Horror, Mystery",90
+7.1,10.72,69,The Drop,"Crime, Drama",106
+7.2,37.74,58,August: Osage County,Drama,121
+6.2,30.7,40,3 Days to Kill,"Action, Drama, Thriller",117
+6.7,133.38,48,Angels & Demons,"Mystery, Thriller",138
+6.7,123.09,66,The Good Dinosaur,"Animation, Adventure, Comedy",93
+7.2,0.07,65,Coherence,"Mystery, Sci-Fi, Thriller",89
+6.5,88.92,28,The Ugly Truth,"Comedy, Romance",96
+5.6,32.19,37,Fist Fight,Comedy,91
+6.7,,67,The Girl with All the Gifts,"Drama, Horror, Thriller",111
+6.6,11.1,64,Café Society,"Comedy, Drama, Romance",96
+7.9,26.24,81,The Wrestler,"Drama, Sport",109
+7.6,0.22,65,Tucker and Dale vs Evil,"Comedy, Horror",89
+5.6,60.79,27,Coyote Ugly,"Comedy, Drama, Music",100
+7.1,37.88,76,Wild,"Adventure, Biography, Drama",115
+6.0,160.86,48,Shark Tale,"Animation, Adventure, Comedy",90
+5.9,62.95,33,The Last Song,"Drama, Music, Romance",107
+7.6,18.34,82,127 Hours,"Adventure, Biography, Drama",94
+6.5,65.33,48,Step Up,"Crime, Drama, Music",104
+6.7,40.12,33,Resident Evil,"Action, Horror, Sci-Fi",100
+6.6,26.59,60,Machete,"Action, Crime, Thriller",105
+7.2,2.96,59,Anthropoid,"Biography, History, Thriller",120
+6.7,71.35,34,Safe Haven,"Drama, Romance, Thriller",115
+6.1,58.27,47,Halloween,"Fantasy, Horror",109
+5.7,,,Little Evil,"Comedy, Horror",94
+5.9,38.52,47,Rock of Ages,"Comedy, Drama, Musical",123
+5.9,90.84,32,Ride Along 2,"Action, Comedy",102
+6.9,74.49,49,Four Brothers,"Action, Crime, Drama",109
+6.1,39.26,47,Lakeview Terrace,"Crime, Drama, Thriller",110
+5.7,0.78,37,Only God Forgives,"Crime, Drama",90
+6.2,110.23,70,Freaky Friday,"Comedy, Family, Fantasy",97
+7.4,2.14,90,Paterson,"Comedy, Drama, Romance",118
+7.7,104.45,72,Road to Perdition,"Crime, Drama, Thriller",117
+6.1,,,Excision,"Drama, Horror",81
+6.1,29.2,52,Nanny McPhee Returns,"Comedy, Family, Fantasy",109
+7.0,60.36,63,Burn After Reading,"Comedy, Crime, Drama",96
+5.8,83.55,37,Battle Los Angeles,"Action, Sci-Fi",116
+7.3,2.7,66,The Way Back,"Adventure, Drama, History",133
+6.5,12.28,34,Self/less,"Action, Mystery, Sci-Fi",117
+6.1,0.02,,Wild Child,"Comedy, Drama, Romance",124
+7.4,25.89,61,Frida,"Biography, Drama, Romance",123
+6.1,126.63,54,Bee Movie,"Animation, Adventure, Comedy",91
+6.7,139.31,47,Matrix Revolutions,"Action, Sci-Fi",129
+6.1,80.17,35,Jumper,"Action, Adventure, Sci-Fi",88
+6.6,42.1,83,Drag Me to Hell,"Horror, Thriller",99
+6.8,81.16,48,21,"Crime, Drama, Thriller",123
+6.5,68.54,55,Road Trip,"Adventure, Comedy",93
+7.8,48.02,84,Kubo and the Two Strings,"Animation, Action, Adventure",101
+6.3,,74,Creep,"Horror, Thriller",77
+7.0,42.75,46,Rambo,"Action, Thriller, War",92
+7.1,148.31,47,Hotel Transylvania,"Animation, Comedy, Family",91
+6.3,279.26,41,Meet the Fockers,"Comedy, Romance",115
+7.0,3.37,83,Everybody Wants Some!!,Comedy,117
+6.9,67.29,61,Role Models,Comedy,99
+7.0,0.66,79,American Honey,"Adventure, Drama, Romance",163
+6.6,83.59,40,Insidious: Chapter 2,"Horror, Mystery, Thriller",106
+5.8,17.36,47,Masterminds,"Action, Comedy, Crime",95
+5.8,66.47,30,The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy",110
+5.8,83.67,37,Wrath of the Titans,"Action, Adventure, Fantasy",99
+5.3,,36,Naked,"Comedy, Romance",96
+7.6,24.15,62,Lord of War,"Crime, Drama, Thriller",122
+4.8,100.83,48,Charlie's Angels: Full Throttle,"Action, Adventure, Comedy",106
+6.5,19.78,40,Homefront,"Action, Crime, Drama",100
+5.5,100.02,54,You Don't Mess with the Zohan,Comedy,113
+6.3,9.09,26,Meet the Blacks,"Comedy, Horror",94
+6.8,7.69,65,The Imaginarium of Doctor Parnassus,"Adventure, Fantasy, Mystery",123
+6.2,26.05,36,That Awkward Moment,"Comedy, Romance",94
+6.4,105.81,45,How to Lose a Guy in 10 Days,"Comedy, Romance",116
+7.0,106.83,88,Chicken Run,"Animation, Adventure, Comedy",84
+4.5,27.78,25,Rings,"Drama, Horror",102
+7.2,134.53,69,Live Free or Die Hard,"Action, Adventure, Thriller",128
+6.9,13.82,62,The Duchess,"Biography, Drama, History",110
+6.9,1.94,60,The Iceman,"Biography, Crime, Drama",106
+7.3,128.51,89,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy,84
+6.2,32.62,47,Just Friends,"Comedy, Romance",96
+3.4,74.16,23,Jack and Jill,Comedy,91
+6.0,402.11,35,Transformers: Revenge of the Fallen,"Action, Adventure, Sci-Fi",150
+7.1,62.5,60,The Adjustment Bureau,"Romance, Sci-Fi, Thriller",106
+7.2,85.29,63,Anchorman: The Legend of Ron Burgundy,Comedy,94
+6.3,54.45,40,Horrible Bosses 2,"Comedy, Crime",108
+6.8,22.25,58,Victoria & Abdul,"Biography, Drama, History",111
+7.7,17.11,82,Eastern Promises,"Crime, Drama, Mystery",100
+7.1,75.59,54,Old School,Comedy,88
+5.8,101.2,68,Noah,"Action, Adventure, Drama",138
+6.8,28.83,54,Draft Day,"Drama, Sport",110
+6.9,143.62,63,Rio,"Animation, Adventure, Comedy",96
+5.6,34.93,19,Good Luck Chuck,"Comedy, Fantasy, Romance",96
+7.4,1.73,85,Take Shelter,"Drama, Thriller",120
+7.6,96.52,74,The Others,"Horror, Mystery, Thriller",104
+7.6,39.87,68,The Illusionist,"Drama, Mystery, Romance",110
+6.4,30.66,44,Delivery Man,"Comedy, Drama",105
+6.0,100.24,50,Cowboys & Aliens,"Action, Sci-Fi, Thriller",119
+6.5,8.4,49,Sex Drive,"Adventure, Comedy, Romance",109
+6.2,4.4,79,Dear White People,"Comedy, Drama, Romance",108
+6.7,13.96,81,Jackie,"Biography, Drama, History",100
+5.1,14.3,32,Wish Upon,"Fantasy, Horror, Thriller",90
+7.5,2.22,56,Perfume: The Story of a Murderer,"Crime, Drama, Fantasy",147
+6.4,22.33,47,Project Almanac,"Drama, Mystery, Sci-Fi",106
+7.4,16.17,62,Begin Again,"Comedy, Drama, Music",104
+6.4,118.31,65,Salt,"Action, Crime, Mystery",100
+7.4,52.9,83,Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical",116
+6.5,101.65,35,Gone in Sixty Seconds,"Action, Crime, Thriller",118
+6.5,26.31,57,A Walk Among the Tombstones,"Crime, Drama, Mystery",114
+5.7,21.2,38,Mechanic: Resurrection,"Action, Adventure, Crime",98
+6.8,27.29,38,No Escape,"Action, Thriller",103
+5.8,18.47,45,Into the Blue,"Action, Adventure, Crime",110
+6.8,51.58,64,The Grey,"Action, Adventure, Drama",117
+6.7,54.73,48,Project X,"Comedy, Crime, Drama",88
+7.0,13.84,48,One Day,"Drama, Romance",107
+7.2,82.27,74,Bridge to Terabithia,"Adventure, Drama, Family",96
+6.2,191.45,57,Cars 2,"Animation, Adventure, Comedy",106
+6.5,27.7,61,Oculus,"Horror, Mystery",104
+6.7,57.26,47,The Whole Nine Yards,"Comedy, Crime",98
+6.6,125.32,49,Terminator Salvation,"Action, Adventure, Sci-Fi",115
+4.4,21.37,26,Skyline,"Action, Sci-Fi, Thriller",97
+7.6,41.0,68,End of Watch,"Action, Crime, Drama",109
+6.2,64.0,56,Diary of a Wimpy Kid,"Comedy, Family",94
+5.3,85.91,33,Annie,"Comedy, Drama, Family",118
+6.5,60.46,39,The Lucky One,"Drama, Romance",101
+6.4,39.44,47,Burlesque,"Drama, Music, Musical",119
+6.7,9.39,68,Popstar: Never Stop Never Stopping,"Comedy, Music",87
+6.6,75.66,70,Contagion,"Drama, Thriller",106
+6.8,31.6,54,From Hell,"Horror, Mystery, Thriller",122
+6.8,43.61,52,Under the Tuscan Sun,"Comedy, Drama, Romance",113
+6.2,79.73,55,Dark Shadows,"Comedy, Fantasy, Horror",113
+7.6,31.84,84,Milk,"Biography, Drama",128
+6.2,17.01,54,Rock Star,"Drama, Music",105
+6.5,98.93,41,Olympus Has Fallen,"Action, Drama, Thriller",119
+7.1,18.23,64,Harold & Kumar Go to White Castle,"Adventure, Comedy",88
+7.3,125.6,73,Erin Brockovich,"Biography, Drama",131
+7.1,49.44,61,Runaway Jury,"Crime, Drama, Thriller",127
+6.2,38.18,52,Scream 4,"Horror, Mystery",111
+6.3,5.98,24,The Loft,"Mystery, Romance, Thriller",108
+6.2,57.74,45,Takers,"Action, Crime, Thriller",107
+7.3,5.69,53,RocknRolla,"Action, Crime, Thriller",114
+7.2,11.9,67,The Darjeeling Limited,"Adventure, Comedy, Drama",91
+6.1,70.11,51,The Golden Compass,"Adventure, Family, Fantasy",113
+5.6,20.76,34,Sleepless,"Action, Crime, Thriller",95
+7.0,166.24,73,Meet the Parents,"Comedy, Romance",108
+7.8,93.62,79,The Fighter,"Biography, Drama, Sport",116
+6.7,1.11,71,Macbeth,"Drama, History, War",113
+5.3,28.78,34,Point Break,"Action, Crime, Sport",114
+5.0,64.51,34,The Happening,"Sci-Fi, Thriller",91
+5.2,28.03,34,Doom,"Action, Adventure, Horror",105
+6.4,227.95,49,Hancock,"Action, Crime, Drama",92
+7.0,29.08,53,Rent,"Drama, Musical, Romance",135
+6.3,58.88,43,Total Recall,"Action, Adventure, Mystery",118
+6.6,31.46,56,Zack and Miri Make a Porno,"Comedy, Romance",101
+6.7,53.33,36,Final Destination,"Horror, Thriller",98
+6.2,21.2,38,"As Above, So Below","Horror, Mystery, Thriller",93
+6.8,125.01,43,The Vow,"Drama, Romance",104
+6.8,13.3,85,The Tree of Life,"Drama, Fantasy",139
+7.3,0.06,64,The Road,"Adventure, Drama",111
+5.7,70.23,29,Fool's Gold,"Action, Adventure, Comedy",112
+7.4,93.93,81,Master and Commander: The Far Side of the World,"Action, Adventure, Drama",138
+7.6,41.68,80,The Hours,"Drama, Romance",110
+6.4,118.91,45,The Sum of All Fears,"Action, Drama, Thriller",124
+7.1,129.13,57,The Ring,"Horror, Mystery",115
+6.2,317.1,65,Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure, Fantasy",122
+6.6,217.54,46,The Da Vinci Code,"Mystery, Thriller",149
+5.5,7.79,31,Vampire Academy,"Action, Comedy, Fantasy",104
+5.8,101.7,57,Journey to the Center of the Earth,"Action, Adventure, Family",93
+6.3,81.48,48,Ted 2,Comedy,115
+6.0,99.97,53,Gnomeo & Juliet,"Animation, Comedy, Family",84
+6.3,238.37,58,Shrek Forever After,"Animation, Adventure, Comedy",93
+6.3,12.63,52,Triple 9,"Action, Crime, Drama",115
+5.7,,44,Aftermath,"Drama, Thriller",94
+6.2,78.05,59,Tower Heist,"Action, Comedy, Crime",104
+7.1,37.43,33,The Longest Ride,"Drama, Romance",123
+5.6,42.29,36,Lady in the Water,"Drama, Fantasy, Mystery",110
+6.2,135.65,52,Anger Management,Comedy,106
+7.3,24.01,62,The Life Aquatic with Steve Zissou,"Adventure, Comedy, Drama",119
+5.9,70.84,48,Shallow Hal,"Comedy, Drama, Fantasy",114
+6.7,242.83,46,Bruce Almighty,"Comedy, Drama, Fantasy",101
+6.7,26.81,50,The Other Boleyn Girl,"Biography, Drama, History",115
+7.3,103.41,57,Rise of the Guardians,"Animation, Adventure, Family",97
+6.1,150.36,42,Daddy's Home,Comedy,96
+6.9,134.03,66,Mission: Impossible III,"Action, Adventure, Thriller",126
+5.0,300.53,58,The Twilight Saga: Eclipse,"Adventure, Drama, Fantasy",124
+6.8,84.05,52,Atlantis: The Lost Empire,"Animation, Action, Adventure",95
+5.6,80.28,29,AVP: Alien vs. Predator,"Action, Horror, Sci-Fi",101
+6.9,66.38,60,Warm Bodies,"Comedy, Horror, Romance",98
+7.2,145.79,73,Lilo & Stitch,"Animation, Adventure, Comedy",85
+6.3,150.16,68,Neighbors,Comedy,97
+4.0,95.67,27,Norbit,"Comedy, Romance",102
+5.9,26.63,35,The Host,"Action, Adventure, Romance",125
+5.8,3.91,48,Morgan,"Action, Horror, Sci-Fi",92
+3.8,101.15,19,The Cat in the Hat,"Adventure, Comedy, Family",82
+6.5,47.38,59,Savages,"Crime, Drama, Romance",131
+7.9,124.99,79,Life of Pi,"Adventure, Drama, Fantasy",127
+6.3,352.39,42,Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi",154
+7.6,124.12,86,Traffic,"Crime, Drama, Thriller",147
+5.9,30.72,44,Kidnap,"Action, Crime, Drama",95
+6.7,12.71,69,The New World,"Biography, Drama, History",135
+6.5,0.81,64,Sleeping with Other People,"Comedy, Drama, Romance",101
+7.3,50.15,67,The Book of Life,"Animation, Adventure, Comedy",95
+6.1,15.42,32,Wrong Turn,Horror,84
+7.3,268.49,65,Monsters University,"Animation, Adventure, Comedy",104
+6.8,48.09,53,Sinister,"Horror, Mystery, Thriller",110
+6.6,32.72,42,The Last House on the Left,"Horror, Thriller",110
+6.7,169.7,44,Hotel Transylvania 2,"Animation, Comedy, Family",89
+7.0,71.44,70,"I Love You, Man","Comedy, Romance",105
+5.2,21.3,36,Conan the Barbarian,"Action, Adventure, Fantasy",113
+5.1,80.27,33,The Dukes of Hazzard,"Action, Adventure, Comedy",104
+6.7,,29,The Girl Next Door,"Crime, Drama, Horror",91
+6.4,12.05,54,The Last Stand,"Action, Crime, Thriller",107
+5.2,80.36,30,Zookeeper,"Comedy, Family, Romance",102
+6.0,83.91,39,The Other Woman,"Comedy, Romance",109
+7.3,58.24,54,The Secret Life of Walter Mitty,"Adventure, Comedy, Drama",114
+7.0,,75,I Don't Feel at Home in This World Anymore.,"Comedy, Crime, Drama",93
+5.7,73.21,24,Hollow Man,"Action, Horror, Sci-Fi",112
+6.6,13.65,42,Burnt,"Comedy, Drama",101
+7.1,1.36,81,Locke,Drama,85
+5.6,34.3,39,Alexander,"Action, Adventure, Biography",175
+7.2,31.97,59,"Definitely, Maybe","Comedy, Drama, Romance",112
+5.3,,28,Once Upon a Time in Venice,"Action, Comedy, Thriller",94
+6.4,214.03,46,The Lorax,"Animation, Adventure, Comedy",86
+7.2,57.64,79,Fences,Drama,139
+7.8,107.1,83,Captain Phillips,"Biography, Drama, Thriller",134
+4.7,28.85,34,Zoolander 2,Comedy,101
+6.9,0.02,55,The First Time,"Comedy, Drama, Romance",95
+5.7,55.29,58,Neighbors 2: Sorority Rising,Comedy,92
+6.2,63.95,62,Sky High,"Adventure, Comedy, Family",100
+7.3,3.68,64,Sunshine,"Adventure, Sci-Fi, Thriller",107
+7.7,20.3,72,Gone Baby Gone,"Crime, Drama, Mystery",114
+6.5,0.02,67,Better Watch Out,"Crime, Horror, Thriller",89
+6.7,71.54,66,Bridget Jones's Diary,"Comedy, Drama, Romance",97
+7.2,61.19,70,Friday Night Lights,"Action, Drama, Sport",118
+7.3,33.41,78,Blue Jasmine,Drama,98
+7.8,54.23,61,The Count of Monte Cristo,"Action, Adventure, Drama",131
+5.4,49.44,32,Land of the Lost,"Adventure, Comedy, Sci-Fi",102
+7.5,71.5,94,Sideways,"Comedy, Drama, Romance",126
+6.3,108.25,52,The Princess Diaries,"Comedy, Family, Romance",111
+6.7,57.01,49,American Reunion,Comedy,113
+6.2,,68,Before I Wake,"Drama, Fantasy, Horror",97
+5.7,,22,The Do-Over,"Action, Adventure, Comedy",108
+6.4,250.86,48,Night at the Museum,"Adventure, Comedy, Family",108
+6.2,6.86,44,The Brothers Grimsby,"Action, Adventure, Comedy",83
+5.9,51.44,25,A Cinderella Story,"Comedy, Family, Romance",95
+7.3,52.16,64,Identity,"Mystery, Thriller",90
+6.1,52.22,52,Insidious: Chapter 3,"Horror, Mystery, Thriller",97
+4.7,296.62,44,The Twilight Saga: New Moon,"Adventure, Drama, Fantasy",130
+7.6,4.6,61,"Lust, Caution","Drama, Romance, Thriller",157
+6.5,44.74,30,The Replacements,"Comedy, Sport",118
+6.5,141.62,62,The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family",150
+6.7,0.29,42,Wet Hot American Summer,"Comedy, Romance",97
+7.7,1.75,45,Flipped,"Comedy, Drama, Romance",90
+6.2,58.61,52,RoboCop,"Action, Crime, Sci-Fi",117
+6.8,40.26,65,Hanna,"Action, Drama, Thriller",111
+6.3,37.08,39,The Change-Up,"Comedy, Fantasy",112
+6.3,54.76,31,This Means War,"Action, Comedy, Romance",103
+6.3,65.19,51,Jack the Giant Slayer,"Adventure, Fantasy",114
+5.8,122.52,41,G.I. Joe: Retaliation,"Action, Adventure, Sci-Fi",110
+6.4,41.78,52,The Hills Have Eyes,"Horror, Thriller",107
+6.3,0.09,27,I Spit on Your Grave,"Horror, Thriller",108
+7.1,1.19,50,Kill the Irishman,"Biography, Crime, Drama",106
+6.6,85.02,51,The Expendables 2,"Action, Adventure, Thriller",103
+7.1,16.38,86,The Master,Drama,138
+5.1,,40,Sandy Wexler,Comedy,130
+5.7,64.06,34,Ice Age: Collision Course,"Animation, Adventure, Comedy",94
+7.0,26.0,81,The World's End,"Action, Comedy, Sci-Fi",109
+6.0,59.28,55,The Lego Ninjago Movie,"Animation, Action, Adventure",101
+6.4,2.34,45,She's the Man,"Comedy, Romance, Sport",105
+7.3,39.46,83,Crazy Heart,"Drama, Music, Romance",112
+6.1,80.28,36,What Happens in Vegas,"Comedy, Romance",99
+6.8,11.33,63,Out of the Furnace,"Action, Crime, Drama",116
+6.9,0.64,67,The Stanford Prison Experiment,"Biography, Drama, History",122
+8.0,138.8,88,The King's Speech,"Biography, Comedy, Drama",118
+6.4,52.0,51,Predators,"Action, Adventure, Sci-Fi",107
+7.0,19.07,75,Waitress,"Comedy, Drama, Romance",108
+6.2,65.21,55,The Visit,"Horror, Thriller",94
+5.8,65.42,41,Battleship,"Action, Adventure, Sci-Fi",131
+8.0,57.37,64,Blood Diamond,"Adventure, Drama, Thriller",143
+5.1,38.54,36,Sex Tape,"Comedy, Romance",94
+6.3,150.37,66,Terminator 3: Rise of the Machines,"Action, Sci-Fi",109
+6.2,82.16,59,Beowulf,"Animation, Action, Adventure",115
+7.2,95.64,73,Cold Mountain,"Adventure, Drama, History",154
+6.7,26.76,29,The Best of Me,"Drama, Romance",118
+6.3,25.53,56,W.,"Biography, Drama, History",129
+7.0,191.72,71,22 Jump Street,"Action, Comedy, Crime",112
+6.8,97.69,46,Yes Man,"Comedy, Romance",104
+5.5,112.72,71,Spy Kids,"Action, Adventure, Comedy",88
+6.7,114.33,55,Dodgeball: A True Underdog Story,"Comedy, Sport",92
+7.1,53.7,39,P.S. I Love You,"Drama, Romance",126
+5.4,24.27,27,The Spy Next Door,"Action, Comedy, Family",94
+6.8,72.68,56,Storks,"Animation, Adventure, Comedy",87
+6.4,64.17,48,17 Again,"Comedy, Drama, Fantasy",102
+7.1,144.8,59,"I, Robot","Action, Crime, Drama",115
+7.8,45.51,69,"O Brother, Where Art Thou?","Adventure, Comedy, Crime",107
+6.6,6.11,52,The Interview,Comedy,112
+6.2,30.58,40,Deliver Us from Evil,"Action, Biography, Crime",118
+7.5,102.61,77,The Aviator,"Biography, Drama, History",170
+7.1,75.76,51,The Intern,"Comedy, Drama",121
+6.6,24.25,59,Bridget Jones's Baby,"Comedy, Romance",118
+7.0,12.1,81,Foxcatcher,"Biography, Drama, Sport",134
+6.9,12.06,61,Sunshine Cleaning,"Comedy, Drama",91
+7.6,34.19,58,The Reader,"Drama, Romance",124
+7.0,75.98,50,Constantine,"Drama, Fantasy, Thriller",121
+5.8,1.65,69,The Little Hours,"Comedy, Romance",90
+7.0,51.97,42,Underworld,"Action, Fantasy, Thriller",121
+6.3,19.19,46,Beerfest,Comedy,110
+7.1,104.4,73,The Princess and the Frog,"Animation, Adventure, Comedy",97
+5.6,36.93,31,That's My Boy,Comedy,116
+7.0,37.41,57,Paul,"Adventure, Comedy, Sci-Fi",104
+6.7,7.22,49,Gold,"Adventure, Drama, Thriller",120
+5.5,125.31,52,Charlie's Angels,"Action, Adventure, Comedy",98
+7.7,53.61,76,3:10 to Yuma,"Action, Adventure, Crime",122
+6.1,10.16,44,The Belko Experiment,"Action, Horror, Thriller",89
+6.4,55.48,66,The BFG,"Adventure, Family, Fantasy",117
+5.9,62.52,28,London Has Fallen,"Action, Drama, Thriller",99
+6.7,25.13,49,Escape Plan,"Action, Crime, Mystery",115
+6.5,15.48,63,A Perfect Getaway,"Adventure, Mystery, Thriller",98
+6.3,80.08,60,Goosebumps,"Adventure, Comedy, Family",103
+6.6,155.06,46,Fast & Furious,"Action, Crime, Thriller",107
+7.9,115.65,81,District 9,"Sci-Fi, Thriller",112
+6.6,46.98,31,Silent Hill,Horror,125
+6.0,62.51,45,The Fast and the Furious: Tokyo Drift,"Action, Crime, Thriller",104
+7.0,218.82,62,Ted,"Comedy, Fantasy",106
+6.3,51.88,46,King Arthur,"Action, Adventure, Drama",126
+5.6,152.65,53,Sex and the City,"Comedy, Drama, Romance",145
+7.7,0.57,86,Loveless,Drama,127
+7.0,3.22,79,Green Room,"Crime, Horror, Thriller",95
+6.4,137.36,45,Click,"Comedy, Drama, Fantasy",107
+7.3,93.77,76,Flight,"Drama, Thriller",138
+6.6,23.05,57,Whiskey Tango Foxtrot,"Biography, Comedy, Drama",112
+5.7,0.44,54,Song to Song,"Drama, Music, Romance",129
+5.4,84.27,37,Annabelle,"Horror, Mystery, Thriller",99
+5.6,26.83,49,Resident Evil: The Final Chapter,"Action, Horror, Sci-Fi",107
+4.2,131.56,20,The Last Airbender,"Action, Adventure, Family",103
+7.3,209.84,66,Fast Five,"Action, Crime, Thriller",130
+6.7,46.0,40,Gangster Squad,"Action, Crime, Drama",113
+6.0,,56,War Machine,"Comedy, Drama, War",122
+7.0,4.21,64,Swiss Army Man,"Adventure, Comedy, Drama",97
+5.9,47.33,55,Hostel,"Horror, Mystery, Thriller",94
+7.6,215.43,73,Kung Fu Panda,"Animation, Action, Adventure",92
+5.3,7.19,38,The Green Inferno,"Adventure, Horror, Thriller",100
+7.5,54.71,74,Source Code,"Mystery, Romance, Sci-Fi",93
+7.6,75.61,87,Moneyball,"Biography, Drama, Sport",133
+6.7,61.74,51,Ender's Game,"Action, Fantasy, Sci-Fi",114
+6.6,90.76,50,Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy",116
+7.1,13.41,60,Dredd,"Action, Crime, Sci-Fi",95
+2.4,21.47,9,Battlefield Earth,"Action, Adventure, Sci-Fi",118
+6.7,227.97,59,Signs,"Drama, Mystery, Sci-Fi",106
+6.3,57.33,32,The Shack,"Drama, Fantasy",132
+6.2,127.22,45,Sweet Home Alabama,"Comedy, Romance",108
+6.6,155.46,51,What Lies Beneath,"Drama, Fantasy, Horror",130
