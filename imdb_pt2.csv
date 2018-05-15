@@ -1,4 +1,4 @@
-title,actors,release_date,non_USusers,male_elder_rating,us_users,male_adult_rating,male_youngAdult_rating,MPAA_rating,female_ratingCount,director,female_adult_rating,female_teen_rating,female_elder_rating,female_youngAdult_rating,male_teen_rating,male_ratingCount
+title,actors,release_date,non_USusers,male_over45_rating,us_users,male_adult_rating,male_youngAdult_rating,MPAA_rating,female_ratingCount,director,female_adult_rating,female_under18_rating,female_over45_rating,female_youngAdult_rating,male_under18_rating,male_ratingCount
 ,,,,,,,,,,,,,,,,
 Call Me by Your Name,Armie Hammer,19 January 2018 (USA),7.9,7.3,8,7.6,8.1,R,24880,Luca Guadagnino,8.1,8.9,7.7,8.5,8.6,51864
 ,,,,,,,,,,,,,,,,
