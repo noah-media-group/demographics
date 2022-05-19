@@ -10,10 +10,22 @@ class imdbSpider(Spider):
 	def parse(self, response):
 		
 		#find total number of pages and movies
+		pagination_section = response.xpath('//div[@class="desc"]/span/text()').extract()
+		print(pagination_section)
+
 		regex = '[(\d+,)]*\d+'
-		tot_titles = int((re.findall(regex,response.xpath('//div[@class="desc"]/text()').extract()[2])[0]).replace(',',""))
-		pg1 = int(response.xpath('//span[@class="lister-current-first-item"]/text()').extract_first())
-		per_page = int(response.xpath('//span[@class="lister-current-last-item"]/text()').extract_first())
+		pagination_section_regex_matches = re.findall(regex, pagination_section[2])
+		print(pagination_section_regex_matches)
+
+		pagination_section_clean = pagination_section_regex_matches[2].replace(',',"")
+		print(pagination_section_clean)
+		tot_titles = int(pagination_section_clean)
+
+		page_items = response.css('.lister-item-index').xpath("text()").getall()
+		print(page_items)
+
+		pg1 = int(page_items[0][:-1])
+		per_page = int(page_items[-1][:-1])
 
 		number_pages = tot_titles//per_page + 1
 
